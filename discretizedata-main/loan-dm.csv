@@ -1,0 +1,615 @@
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,class
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+o,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Female,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Female,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,N
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,o,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Female,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+o,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,N
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+o,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+o,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,o,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,N
+Female,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,No,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,Y
+Female,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+o,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+o,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Female,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Female,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Female,No,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,o,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Female,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,No,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,Y
+Male,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+o,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'','Not Graduate',o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+o,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,Yes,'\'All\'','Not Graduate',o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+o,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+o,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,N
+Female,No,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Female,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Female,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+o,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+o,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,N
+o,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'','Not Graduate',Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,N
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N
+Male,Yes,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-inf--0.5]\'',Urban,N
+Male,Yes,'\'All\'','Not Graduate',o,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,N
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Semiurban,Y
+Male,Yes,'\'All\'','Not Graduate',No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Female,No,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Rural,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Male,Yes,'\'All\'',Graduate,No,'\'All\'','\'All\'','\'All\'','\'All\'','\'(0.5-inf)\'',Urban,Y
+Female,No,'\'All\'',Graduate,Yes,'\'All\'','\'All\'','\'All\'','\'All\'','\'(-0.5-0.5]\'',Semiurban,N

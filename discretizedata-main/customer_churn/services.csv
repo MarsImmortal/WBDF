@@ -1,0 +1,1958 @@
+﻿Category_Code,Category_Description,Service_Code,Service_Code_Description,Service_Code_Unit_of_Measure,Container_Size,Is_Rental_Flag,Is_Service_Flag,Inscope_WP_Flag,Inscope_OC_Flag,Service_Lift_Type,Service_Waste_Stream,SK_Service,Activity_Name,Record_Volume,Source_System
+550,MGB Hygienic,555040,Repair 50LT Sanitary,EA,0,0,0,0,0,N/A,N/A,70765,C&I,0,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,35013,Sale of Other,0,VRP
+600,MGB Co-Mingle,606600,Clear 660LT Co-Mingle Car,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,53578,C&I,1,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,24455,Sale of Other,0,VRP
+200,Roll On Roll Off,202042,Remove 20M Bin,EA,0,0,0,0,0,RORO,General Waste,55884,C&I,0,VRP
+555,MGB Refresh Hygienic,557000,Service Auto Sanipod,EA,0,0,1,0,0,N/A,N/A,52654,C&I,1,VRP
+180,Front Lift Recycling,186072,Clear 6.0M Rec Nil Charge,M3,6,0,1,0,0,Front Lift,Recycling,8332,C&I,1,VRP
+100,Front Lift,100067,FL Wkly Weight Charge,TON,0,0,1,0,0,Front Lift,General Waste,78710,C&I,0,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,79811,C&I,0,VRP
+280,Roll On Roll Off Recyclin,283072,Clear 30M Rec Nil Charge,M3,30,0,1,0,0,RORO,Recycling,28069,C&I,1,VRP
+570,MGB Confidential,572441,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,87711,C&I,0,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,91604,Sale of Other,0,VRP
+100,Front Lift,100062,Charge Weekend Service,EA,0,0,0,0,0,Front Lift,General Waste,92205,C&I,0,VRP
+100,Front Lift,104500,Clear 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,80432,C&I,1,VRP
+100,Front Lift,100090,Credit Adjustment,ADJ,0,0,0,0,0,Front Lift,General Waste,78324,C&I,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,50639,C&I,0,VRP
+850,Recycled Product,859594,Rebate for Recycling,EA,0,0,1,0,0,N/A,N/A,68797,Rebate,0,VRP
+555,MGB Refresh Hygienic,557081,Mth Charge Auto SaniPod,EA,0,0,0,0,0,N/A,N/A,76106,C&I,0,VRP
+240,Hook Lift,247542,Remove 7.5M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,67619,C&I,0,VRP
+300,Lift On,300341,Deliver 3.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,87348,C&I,0,VRP
+600,MGB Co-Mingle,602400,Clear 240LT Co-Mingle Car,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,76299,C&I,1,VRP
+600,MGB Co-Mingle,600055,Charge Attendance,EA,0,0,0,0,0,Rear Lift,Co-Mingle,10980,C&I,0,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,85500,Sale of Other,0,VRP
+210,Roll On Roll Off Packer,212332,Tip P/Tonne 23M Packer,TON,0,0,1,0,0,RORO,General Waste,31722,C&I,0,VRP
+300,Lift On,300641,Deliver 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,53968,C&I,0,VRP
+240,Hook Lift,241800,Clear 18M Bin (HL),M3,18,0,1,0,0,RORO,General Waste,75947,C&I,1,VRP
+180,Front Lift Recycling,183011,Rent Monthly 3.0M Recycle,EA,0,1,0,0,0,Front Lift,Recycling,76786,C&I,0,VRP
+500,MGB Rear Lift,500056,Transportation P/Hour,HR,0,0,1,0,0,Rear Lift,General Waste,55217,C&I,0,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,14085,Sale of Other,0,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,64917,C&I,0,VRP
+290,Roll On Roll Off Recyc Pa,293107,Clear Cust 31M Recyc Pack,M3,31,0,1,0,0,RORO,Recycling,78853,C&I,1,VRP
+180,Front Lift Recycling,186041,Deliver 6.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,76291,C&I,0,VRP
+570,MGB Confidential,572411,Rent Monthly 240LT Conf C,EA,0,1,0,0,0,N/A,N/A,63915,C&I,0,VRP
+660,MGB Medical\Pathological,664641,Deliver 240LT Infect Bin,EA,0,0,0,0,0,N/A,N/A,13706,C&I,0,VRP
+200,Roll On Roll Off,201032,Tip P/Tonne 10M Bin,TON,0,0,1,0,0,RORO,General Waste,91580,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,91768,Sale of Other,0,VRP
+280,Roll On Roll Off Recyclin,283032,Tip P/Tonne 30M Recycle,TON,0,0,1,0,0,RORO,Recycling,73148,C&I,0,VRP
+900,Miscellaneous,900091,Debit Adjustment,ADJ,0,0,0,0,0,N/A,N/A,20741,Sale of Other,0,VRP
+457,Subcontractor MGB Confidential,457900,Clear 120LT Conf Cart,M3,0.12,0,1,0,0,N/A,N/A,8096,C&I,1,VRP
+300,Lift On,300600,Clear 6.0M Bin (LO),M3,6,0,1,0,0,N/A,N/A,70237,C&I,1,VRP
+180,Front Lift Recycling,181511,Rent Monthly 1.5M Recycle,EA,0,1,0,0,0,Front Lift,Recycling,73116,C&I,0,VRP
+580,MGB Commercial Recycling,586600,Clear 660LT Recycle Cart,M3,0.66,0,1,0,1,Rear Lift,Recycling,74130,C&I,1,VRP
+130,Front Lift Organic,130066,Org Wkly ExtraVisitCharge,EA,0,0,1,0,0,Front Lift,Organic,1743,C&I,0,VRP
+100,Front Lift,101572,Clear 1.5M Bin Nil Charge,M3,1.5,0,1,0,0,Front Lift,General Waste,70212,C&I,1,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,67320,Sale of Other,0,VRP
+300,Lift On,300642,Remove 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,75440,C&I,0,VRP
+100,Front Lift,101511,Rent Monthly 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,31982,C&I,0,VRP
+660,MGB Medical\Pathological,666600,Clear 660LT QuarantineBin,M3,0.66,0,1,0,0,N/A,N/A,9739,C&I,1,VRP
+600,MGB Co-Mingle,602442,Remove 240LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,69518,C&I,0,VRP
+200,Roll On Roll Off,202041,Deliver 20M Bin,EA,0,0,0,0,0,RORO,General Waste,77362,C&I,0,VRP
+500,MGB Rear Lift,500141,Deliver 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,20338,C&I,0,VRP
+670,MGB Side Lift Recycling,679672,Clear Plastic Bag Nil Chg,M3,1,0,1,0,0,N/A,N/A,54869,C&I,1,VRP
+500,MGB Rear Lift,501142,Remove 1.1M Bin,EA,0,0,0,0,0,Rear Lift,General Waste,92052,C&I,0,VRP
+240,Hook Lift,243000,Clear 30M Bin (HL),M3,30,0,1,0,0,RORO,General Waste,51118,C&I,1,VRP
+180,Front Lift Recycling,186007,Clear Customer 6.0M Recyc,M3,6,0,1,0,1,Front Lift,Recycling,89968,C&I,1,VRP
+300,Lift On,300049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,67853,C&I,0,VRP
+300,Lift On,300641,Deliver 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,89870,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,41539,Sale of Other,0,VRP
+500,MGB Rear Lift,500142,Remove 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,71443,C&I,0,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,67874,C&I,0,VRP
+500,MGB Rear Lift,501111,Rent Monthly 1.1M Bin,EA,0,1,0,0,0,Rear Lift,General Waste,55891,C&I,0,VRP
+180,Front Lift Recycling,184500,Clear 4.5M Recycle Bin,M3,4.5,0,1,0,1,Front Lift,Recycling,65623,C&I,1,VRP
+100,Front Lift,101141,Deliver 1.1M Bin,EA,0,0,0,0,0,Front Lift,General Waste,28853,C&I,0,VRP
+500,MGB Rear Lift,500049,Sundry Item,EA,0,0,0,0,0,Rear Lift,General Waste,31860,C&I,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,57594,C&I,1,VRP
+240,Hook Lift,247500,Clear 7.5M Bin (HL),M3,7.5,0,1,0,0,RORO,General Waste,67618,C&I,1,VRP
+240,Hook Lift,241542,Remove 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,83690,C&I,0,VRP
+600,MGB Co-Mingle,601106,Clear 1100LT Cart WsteSpc,M3,1.1,0,1,0,1,Rear Lift,Co-Mingle,66868,C&I,1,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,29489,Sale of Other,0,VRP
+350,Skips,350232,Tip P/Tonne 2.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,54160,C&I,0,VRP
+570,MGB Confidential,572407,Clear Cust 240LT ConfCart,M3,0.24,0,1,0,0,N/A,N/A,31344,C&I,1,VRP
+180,Front Lift Recycling,180002,Waste In Bin On Removal,M3,1,0,1,0,0,Front Lift,Recycling,79982,C&I,1,VRP
+600,MGB Co-Mingle,601242,Remove 120LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,74357,C&I,0,VRP
+600,MGB Co-Mingle,602400,Clear 240LT Co-Mingle Car,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,53029,C&I,1,VRP
+200,Roll On Roll Off,202310,Rent 23M Bin,EA,0,1,0,0,0,RORO,General Waste,7611,C&I,0,VRP
+500,MGB Rear Lift,500143,Exchange 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,23347,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,74925,Sale of Other,0,VRP
+240,Hook Lift,241542,Remove 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,85508,C&I,0,VRP
+710,Septic,710050,Septic Service P/Hour,HR,0,0,1,0,0,N/A,N/A,57691,Liquid,0,VRP
+260,Hook Lift Small,260810,Rent 8.0M Bin (HL),EA,0,1,0,0,0,N/A,N/A,67288,C&I,0,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,53529,C&I,1,VRP
+580,MGB Commercial Recycling,580001,Removal of Loose Recycle,M3,1,0,1,0,0,Rear Lift,Recycling,66556,C&I,1,VRP
+240,Hook Lift,241200,Clear 12M Bin (HL),M3,12,0,1,0,0,RORO,General Waste,76515,C&I,1,VRP
+500,MGB Rear Lift,501111,Rent Monthly 1.1M Bin,EA,0,1,0,0,0,Rear Lift,General Waste,3903,C&I,0,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,61608,C&I,1,VRP
+500,MGB Rear Lift,501111,Rent Monthly 1.1M Bin,EA,0,1,0,0,0,Rear Lift,General Waste,55873,C&I,0,VRP
+100,Front Lift,103542,Remove 3.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,64899,C&I,0,VRP
+600,MGB Co-Mingle,602443,Exchange 240LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,37915,C&I,0,VRP
+500,MGB Rear Lift,506642,Remove 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,71039,C&I,0,VRP
+470,Subcontractor Liquid,470079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,77487,C&I,0,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,86568,C&I,1,VRP
+350,Skips,350832,Tip P/Tonne 8.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,46895,C&I,0,VRP
+300,Lift On,301241,Deliver 12M Bin (LO),EA,0,0,0,0,0,N/A,N/A,76987,C&I,0,VRP
+130,Front Lift Organic,133040,Repair 3.0M Organic Bin,EA,0,0,0,0,0,Front Lift,Organic,4773,C&I,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,64271,C&I,1,VRP
+300,Lift On,300800,Clear 8.0M Bin (LO),M3,8,0,1,0,0,N/A,N/A,77481,C&I,1,VRP
+140,Front Lift Domestic,143072,Clear 3.0M Muni Nil Chg,M3,3,0,1,0,0,N/A,N/A,3238,C&I,1,VRP
+190,Front Lift Co-Mingle,193041,Deliver 3.0M Co-Mingle Bi,EA,0,0,0,0,0,Front Lift,Co-Mingle,52066,C&I,0,VRP
+500,MGB Rear Lift,506600,Clear 660LT Cart,M3,0.66,0,1,1,1,Rear Lift,General Waste,85924,C&I,1,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,88069,C&I,0,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,51925,C&I,1,VRP
+100,Front Lift,103040,Repair 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,81285,C&I,0,VRP
+600,MGB Co-Mingle,601142,Remove 1100LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,91239,C&I,0,VRP
+600,MGB Co-Mingle,606642,Remove 660LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,89857,C&I,0,VRP
+750,Environmental Services,750049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,62592,Liquid,0,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,59931,C&I,1,VRP
+240,Hook Lift,243032,Tip P/Tonne 30M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,62925,C&I,0,VRP
+200,Roll On Roll Off,201010,Rent 10M Bin,EA,0,1,0,0,0,RORO,General Waste,54375,C&I,0,VRP
+457,Subcontractor MGB Confidential,457242,Remove 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,91284,C&I,0,VRP
+200,Roll On Roll Off,203032,Tip P/Tonne 30M Bin,TON,0,0,1,0,0,RORO,General Waste,76279,C&I,0,VRP
+300,Lift On,300400,Clear 4.0M Bin (LO),M3,4,0,1,0,0,N/A,N/A,82876,C&I,1,VRP
+730,Grease Trap,730024,Grease Trap Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,66741,Liquid,0,VRP
+240,Hook Lift,240641,Deliver 6.0M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,61641,C&I,0,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,84774,C&I,0,VRP
+580,MGB Commercial Recycling,581111,Rent Monthly 1100LT Recyc,EA,0,1,0,0,0,Rear Lift,Recycling,69151,C&I,0,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,78622,C&I,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,86937,C&I,0,VRP
+600,MGB Co-Mingle,606641,Deliver 660LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,10732,C&I,0,VRP
+600,MGB Co-Mingle,606641,Deliver 660LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,86507,C&I,0,VRP
+290,Roll On Roll Off Recyc Pa,293007,Clear Cust 30M Recyc Pack,M3,30,0,1,0,0,RORO,Recycling,90231,C&I,1,VRP
+570,MGB Confidential,579400,Clear Conf Archive Box,M3,0,0,1,0,0,N/A,N/A,70657,C&I,1,VRP
+100,Front Lift,101572,Clear 1.5M Bin Nil Charge,M3,1.5,0,1,0,0,Front Lift,General Waste,55685,C&I,1,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,77702,C&I,1,VRP
+300,Lift On,300400,Clear 4.0M Bin (LO),M3,4,0,1,0,0,N/A,N/A,72909,C&I,1,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,83715,C&I,1,VRP
+100,Front Lift,104541,Deliver 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,64629,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,79225,Sale of Other,0,VRP
+500,MGB Rear Lift,501110,Rent 1.1M Bin,EA,0,1,0,0,0,Rear Lift,General Waste,28726,C&I,0,VRP
+200,Roll On Roll Off,202072,Clear 20M Bin Nil Charge,M3,20,0,1,0,0,RORO,General Waste,38031,C&I,1,VRP
+600,MGB Co-Mingle,601110,Rent 1100LT Co-Mingle Car,EA,0,1,0,0,0,Rear Lift,Co-Mingle,28871,C&I,0,VRP
+350,Skips,350372,Clear 3.0M Skip Nil Chg,M3,3,0,1,0,0,N/A,N/A,82537,C&I,1,VRP
+555,MGB Refresh Hygienic,559800,Service Nappy Bin,EA,0,0,1,0,0,N/A,N/A,89122,C&I,1,VRP
+580,MGB Commercial Recycling,581210,Rent 120LT Recycle Cart,EA,0,1,0,0,0,Rear Lift,Recycling,76122,C&I,0,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,79778,C&I,0,VRP
+700,Liquid,700321,Waste Oil Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,88115,Liquid,0,VRP
+180,Front Lift Recycling,183040,Repair 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,28065,C&I,0,VRP
+300,Lift On,300442,Remove 4.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,91275,C&I,0,VRP
+600,MGB Co-Mingle,606641,Deliver 660LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,35765,C&I,0,VRP
+100,Front Lift,109915,Fuel Surcharge Front Lift,EA,0,0,0,0,0,Front Lift,General Waste,82778,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,30509,Sale of Other,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,81704,C&I,0,VRP
+180,Front Lift Recycling,184542,Remove 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,85292,C&I,0,VRP
+100,Front Lift,100742,Remove 0.75M Bin,EA,0,0,0,0,0,Front Lift,General Waste,82217,C&I,0,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,68577,C&I,0,VRP
+500,MGB Rear Lift,501410,Rent 140LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,76375,C&I,0,VRP
+200,Roll On Roll Off,203110,Rent 31M Bin,EA,0,1,0,0,0,RORO,General Waste,20722,C&I,0,VRP
+670,MGB Side Lift Recycling,670032,Tip P/Tonne Recycling,TON,0,0,1,0,0,N/A,N/A,82327,C&I,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,68766,C&I,0,VRP
+350,Skips,350642,Remove 6.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,37029,C&I,0,VRP
+570,MGB Confidential,572442,Remove 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,78294,C&I,0,VRP
+660,MGB Medical\Pathological,666642,Remove 660LT Quarantine B,EA,0,0,0,0,0,N/A,N/A,170866,C&I,0,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,42557,Sale of Other,0,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,58933,Sale of Other,0,VRP
+200,Roll On Roll Off,202310,Rent 23M Bin,EA,0,1,0,0,0,RORO,General Waste,7741,C&I,0,VRP
+670,MGB Side Lift Recycling,679272,Clear Plastic Bale NilChg,M3,1,0,1,0,0,N/A,N/A,89195,C&I,1,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,89488,Sale of Other,0,VRP
+910,Recharges,910090,Credit Adjustment,ADJ,0,0,0,0,0,N/A,N/A,30628,Sale of Other,0,VRP
+560,MGB Clinical,565000,Clear 50LT Clinical Bin,M3,0.05,0,1,0,0,N/A,N/A,46540,C&I,1,VRP
+350,Skips,350842,Remove 8.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,52034,C&I,0,VRP
+350,Skips,350841,Deliver 8.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,4401,C&I,0,VRP
+500,MGB Rear Lift,506641,Deliver 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,80569,C&I,0,VRP
+700,Liquid,700049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,66971,Liquid,0,VRP
+300,Lift On,300442,Remove 4.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,60501,C&I,0,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,89541,C&I,0,VRP
+350,Skips,350800,Clear 8.0M Skip Bin,M3,8,0,1,0,0,N/A,N/A,90972,C&I,1,VRP
+500,MGB Rear Lift,500141,Deliver 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,66150,C&I,0,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,4774,C&I,0,VRP
+555,MGB Refresh Hygienic,557281,Mth Charge Air Fresh Fan,EA,0,0,0,0,0,N/A,N/A,55443,C&I,0,VRP
+300,Lift On,300241,Deliver 2.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,67854,C&I,0,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,82296,Sale of Other,0,VRP
+600,MGB Co-Mingle,606600,Clear 660LT Co-Mingle Car,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,61437,C&I,1,VRP
+100,Front Lift,104542,Remove 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,76660,C&I,0,VRP
+180,Front Lift Recycling,186010,Rent 6.0M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,13955,C&I,0,VRP
+200,Roll On Roll Off,200055,Charge Attendance,EA,0,0,0,0,0,RORO,General Waste,9442,C&I,0,VRP
+180,Front Lift Recycling,180294,Rebate for Cardboard,TON,0,0,1,0,0,Front Lift,Recycling,40780,Rebate,0,VRP
+100,Front Lift,100068,FL Wkly Sched VisitCharge,EA,0,0,1,0,0,Front Lift,General Waste,16431,C&I,0,VRP
+100,Front Lift,101510,Rent 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,70150,C&I,0,VRP
+200,Roll On Roll Off,202332,Tip P/Tonne 23M Bin,TON,0,0,1,0,0,RORO,General Waste,30839,C&I,0,VRP
+350,Skips,350341,Deliver 3.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,50557,C&I,0,VRP
+580,MGB Commercial Recycling,586642,Remove 660LT Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,91122,C&I,0,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,66859,C&I,0,VRP
+555,MGB Refresh Hygienic,557271,Extra Serv Air Fresh Fan,EA,0,0,0,0,0,N/A,N/A,59280,C&I,0,VRP
+580,MGB Commercial Recycling,582400,Clear 240LT Recycle Cart,M3,0.24,0,1,0,1,Rear Lift,Recycling,70625,C&I,1,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,90667,C&I,0,VRP
+350,Skips,350342,Remove 3.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,53304,C&I,0,VRP
+670,MGB Side Lift Recycling,672300,Clear 240LT White Paper R,M3,0.24,0,1,0,0,N/A,N/A,22647,C&I,1,VRP
+190,Front Lift Co-Mingle,190002,Waste In Bin On Removal,M3,1,0,1,0,0,Front Lift,Co-Mingle,63978,C&I,1,VRP
+500,MGB Rear Lift,500056,Transportation P/Hour,HR,0,0,1,0,0,Rear Lift,General Waste,81532,C&I,0,VRP
+570,MGB Confidential,572442,Remove 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,16579,C&I,0,VRP
+100,Front Lift,101110,Rent 1.1M Bin,EA,0,1,0,0,0,Front Lift,General Waste,67941,C&I,0,VRP
+260,Hook Lift Small,260800,Clear 8.0M Bin (HL),M3,8,0,1,0,0,N/A,N/A,53554,C&I,1,VRP
+580,MGB Commercial Recycling,589605,Clear Plastic Bale,M3,1,0,1,0,0,Rear Lift,Recycling,77419,C&I,1,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,58056,C&I,0,VRP
+240,Hook Lift,247572,Clear 7.5M Bin Nil Charge,M3,7.5,0,1,0,0,RORO,General Waste,55834,C&I,1,VRP
+580,MGB Commercial Recycling,582442,Remove 240LT Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,37913,C&I,0,VRP
+240,Hook Lift,243042,Remove 30M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,70639,C&I,0,VRP
+580,MGB Commercial Recycling,581142,Remove 1100LT Recycle Car,EA,0,0,0,0,0,Rear Lift,Recycling,65515,C&I,0,VRP
+580,MGB Commercial Recycling,582410,Rent 240LT Recycle Cart,EA,0,1,0,0,0,Rear Lift,Recycling,62657,C&I,0,VRP
+100,Front Lift,100003,Waste In Bin On Exchange,M3,1,0,1,0,0,Front Lift,General Waste,87971,C&I,1,VRP
+350,Skips,350642,Remove 6.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,61359,C&I,0,VRP
+560,MGB Clinical,560055,Charge Attendance,EA,0,0,0,0,0,N/A,N/A,43120,C&I,0,VRP
+600,MGB Co-Mingle,606642,Remove 660LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,32367,C&I,0,VRP
+300,Lift On,301100,Clear 11M Bin (LO),M3,11,0,1,0,0,N/A,N/A,62348,C&I,1,VRP
+550,MGB Hygienic,552200,Service 22LT Sanitary Bin,M3,0.02,0,1,0,0,N/A,N/A,34651,C&I,1,VRP
+710,Septic,710141,Deliver Portable Toilet,EA,0,0,0,0,0,N/A,N/A,11586,Liquid,0,VRP
+100,Front Lift,104500,Clear 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,76659,C&I,1,VRP
+180,Front Lift Recycling,180056,Transportation P/Hour,HR,0,0,1,0,0,Front Lift,Recycling,51384,C&I,0,VRP
+500,MGB Rear Lift,506643,Exchange 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,60460,C&I,0,VRP
+190,Front Lift Co-Mingle,191541,Deliver 1.5M Co-Mingle Bi,EA,0,0,0,0,0,Front Lift,Co-Mingle,89786,C&I,0,VRP
+350,Skips,350442,Remove 4.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,90449,C&I,0,VRP
+730,Grease Trap,730024,Grease Trap Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,72766,Liquid,0,VRP
+100,Front Lift,102043,Exchange 2.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,87360,C&I,0,VRP
+200,Roll On Roll Off,201500,Clear 15M Bin,M3,15,0,1,0,0,RORO,General Waste,41020,C&I,1,VRP
+100,Front Lift,101543,Exchange 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,23585,C&I,0,VRP
+300,Lift On,300842,Remove 8.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,66953,C&I,0,VRP
+100,Front Lift,101510,Rent 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,90795,C&I,0,VRP
+300,Lift On,300433,Tip P/M3 4.0M Bin (LO),M3,0,0,1,0,0,N/A,N/A,56844,C&I,0,VRP
+200,Roll On Roll Off,203041,Deliver 30M Bin,EA,0,0,0,0,0,RORO,General Waste,56290,C&I,0,VRP
+660,MGB Medical\Pathological,664200,Clear 20LT Infect Pail,M3,0.02,0,1,0,0,N/A,N/A,44870,C&I,1,VRP
+730,Grease Trap,730024,Grease Trap Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,78543,Liquid,0,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,67528,C&I,1,VRP
+500,MGB Rear Lift,502470,Contract Clear 240LT Cart,M3,0.24,0,1,0,0,Rear Lift,General Waste,62712,C&I,1,VRP
+540,MGB Sharps,541449,Sale of 1.4LT Sharps Bin,EA,0,0,0,0,0,N/A,N/A,57508,Sale of Other,0,VRP
+500,MGB Rear Lift,500172,Clear 1100LT Cart Nil Chg,M3,1.1,0,1,0,0,Rear Lift,General Waste,35757,C&I,1,VRP
+300,Lift On,300900,Clear 9.0M Bin (LO),M3,9,0,1,0,0,N/A,N/A,67509,C&I,1,VRP
+130,Front Lift Organic,133072,Clr 3.0M Org Bin Nil Chg,M3,3,0,1,0,0,Front Lift,Organic,6321,C&I,1,VRP
+180,Front Lift Recycling,183007,Clear Customer 3.0M Recyc,M3,3,0,1,0,1,Front Lift,Recycling,42671,C&I,1,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,87450,Sale of Other,0,VRP
+500,MGB Rear Lift,500089,Chg Contract Cancellation,EA,0,0,0,0,0,Rear Lift,General Waste,32492,C&I,0,VRP
+600,MGB Co-Mingle,602472,Clear 240LT Co-Mingle Nil,M3,0.24,0,1,0,0,Rear Lift,Co-Mingle,29979,C&I,1,VRP
+500,MGB Rear Lift,506643,Exchange 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,90781,C&I,0,VRP
+992,Adjustments,999944,Reallocation Jnl DR - GST,EA,0,0,0,0,0,N/A,N/A,81594,Sale of Other,0,VRP
+300,Lift On,300200,Clear 2.0M Bin (LO),M3,2,0,1,0,0,N/A,N/A,74003,C&I,1,VRP
+100,Front Lift,101510,Rent 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,85384,C&I,0,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,53249,C&I,0,VRP
+350,Skips,350700,Clear 7.0M Skip Bin,M3,7,0,1,0,0,N/A,N/A,73541,C&I,1,VRP
+150,Front Lift Clean Up,153032,Tip P/Tonne 3.0M Clean Up,TON,0,0,1,0,0,N/A,N/A,76361,C&I,0,VRP
+555,MGB Refresh Hygienic,559800,Service Nappy Bin,EA,0,0,1,0,0,N/A,N/A,88552,C&I,1,VRP
+240,Hook Lift,242300,Clear 23M Bin (HL),M3,23,0,1,0,0,RORO,General Waste,62375,C&I,1,VRP
+120,Front Lift Feeder Bins,121541,Deliver 1.5M Tippler Bin,EA,0,0,0,0,0,N/A,N/A,73091,C&I,0,VRP
+500,MGB Rear Lift,502449,Sale of 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,51480,Sale of Other,0,VRP
+350,Skips,350442,Remove 4.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,9596,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,79511,Sale of Other,0,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,58713,C&I,1,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,84333,C&I,1,VRP
+180,Front Lift Recycling,180048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,Recycling,52040,C&I,0,VRP
+300,Lift On,300342,Remove 3.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,53129,C&I,0,VRP
+600,MGB Co-Mingle,601111,Rent Monthly 1100LT Co-Mi,EA,0,1,0,0,0,Rear Lift,Co-Mingle,59202,C&I,0,VRP
+350,Skips,350272,Clear 2.0M Skip Nil Chg,M3,2,0,1,0,0,N/A,N/A,79487,C&I,1,VRP
+240,Hook Lift,241232,Tip P/Tonne 12M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,56817,C&I,0,VRP
+350,Skips,350300,Clear 3.0M Skip Bin,M3,3,0,1,0,0,N/A,N/A,15072,C&I,1,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,81208,Sale of Other,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,20456,C&I,0,VRP
+580,MGB Commercial Recycling,582410,Rent 240LT Recycle Cart,EA,0,1,0,0,0,Rear Lift,Recycling,39421,C&I,0,VRP
+100,Front Lift,101100,Clear 1.1M Bin,M3,1.1,0,1,1,1,Front Lift,General Waste,75320,C&I,1,VRP
+350,Skips,350442,Remove 4.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,76950,C&I,0,VRP
+350,Skips,352341,Deliver 23M Skip Bin,EA,0,0,0,0,0,N/A,N/A,7969,C&I,0,VRP
+600,MGB Co-Mingle,606600,Clear 660LT Co-Mingle Car,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,49174,C&I,1,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,76857,C&I,1,VRP
+600,MGB Co-Mingle,600002,Waste In Bin On Removal,M3,1,0,1,0,0,Rear Lift,Co-Mingle,65778,C&I,1,VRP
+580,MGB Commercial Recycling,582400,Clear 240LT Recycle Cart,M3,0.24,0,1,0,1,Rear Lift,Recycling,68692,C&I,1,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,80211,C&I,1,VRP
+457,Subcontractor MGB Confidential,457200,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,58890,C&I,1,VRP
+280,Roll On Roll Off Recyclin,281500,Clear 15M Recycle Bin,M3,15,0,1,0,0,RORO,Recycling,22636,C&I,1,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,73301,Sale of Other,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,82095,C&I,1,VRP
+130,Front Lift Organic,131572,Clear 1.5M Org Bin NilChg,M3,1.5,0,1,0,0,Front Lift,Organic,1366,C&I,1,VRP
+100,Front Lift,100055,Charge Attendance,EA,0,0,0,0,0,Front Lift,General Waste,40386,C&I,0,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,79826,C&I,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,66200,C&I,1,VRP
+500,MGB Rear Lift,506600,Clear 660LT Cart,M3,0.66,0,1,1,1,Rear Lift,General Waste,72278,C&I,1,VRP
+200,Roll On Roll Off,203142,Remove 31M Bin,EA,0,0,0,0,0,RORO,General Waste,9950,C&I,0,VRP
+240,Hook Lift,241532,Tip P/Tonne 15M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,59577,C&I,0,VRP
+500,MGB Rear Lift,500032,Tip P/Tonne Waste,TON,0,0,1,0,0,Rear Lift,General Waste,65182,C&I,0,VRP
+100,Front Lift,101510,Rent 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,20330,C&I,0,VRP
+240,Hook Lift,241241,Deliver 12M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,59657,C&I,0,VRP
+100,Front Lift,100700,Clear 0.75M Bin,M3,0.75,0,1,1,1,Front Lift,General Waste,58712,C&I,1,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,43111,C&I,0,VRP
+600,MGB Co-Mingle,600002,Waste In Bin On Removal,M3,1,0,1,0,0,Rear Lift,Co-Mingle,58395,C&I,1,VRP
+100,Front Lift,101742,Remove 1.75M Bin,EA,0,0,0,0,0,Front Lift,General Waste,68021,C&I,0,VRP
+992,Adjustments,999944,Reallocation Jnl DR - GST,EA,0,0,0,0,0,N/A,N/A,11841,Sale of Other,0,VRP
+100,Front Lift,104543,Exchange 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,13690,C&I,0,VRP
+100,Front Lift,101543,Exchange 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,69323,C&I,0,VRP
+300,Lift On,300644,Relocate 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,66865,C&I,0,VRP
+500,MGB Rear Lift,506600,Clear 660LT Cart,M3,0.66,0,1,1,1,Rear Lift,General Waste,77939,C&I,1,VRP
+100,Front Lift,101543,Exchange 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,75088,C&I,0,VRP
+800,Total Waste Management,801031,Tip P/KG Waste,KG,0,0,1,0,0,N/A,N/A,56261,C&I,0,VRP
+855,CDS,856743,Exchange 660LT RVM Glass,EA,0,0,0,0,0,N/A,N/A,101573,C&I,0,VRP
+530,MGB Green Waste/Organics,532500,Clear 240LT Organics,M3,0.24,0,1,1,1,Rear Lift,Organic,44017,C&I,1,VRP
+500,MGB Rear Lift,502471,Extra Clear 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,84266,C&I,0,VRP
+240,Hook Lift,241572,Clear 15M Bin Nil Charge,M3,15,0,1,0,0,RORO,General Waste,72627,C&I,1,VRP
+240,Hook Lift,240632,Tip P/Tonne 6.0M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,52004,C&I,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,58326,C&I,0,VRP
+500,MGB Rear Lift,500140,Repair 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,72452,C&I,0,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,6457,C&I,1,VRP
+660,MGB Medical\Pathological,664241,Deliver 20LT Infect Pail,EA,0,0,0,0,0,N/A,N/A,13969,C&I,0,VRP
+600,MGB Co-Mingle,606600,Clear 660LT Co-Mingle Car,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,51208,C&I,1,VRP
+280,Roll On Roll Off Recyclin,283141,Deliver 31M Recycle Bin,EA,0,0,0,0,0,RORO,Recycling,47934,C&I,0,VRP
+480,Subcontractor Miscellaneo,480031,Tip P/KG Waste,KG,0,0,1,0,0,N/A,N/A,55812,C&I,0,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,89669,C&I,0,VRP
+100,Front Lift,103011,Rent Monthly 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,70601,C&I,0,VRP
+350,Skips,350932,Tip P/Tonne 9.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,74518,C&I,0,VRP
+250,Hook Lift Packer,253032,Tip P/Tonne 30M Packer,TON,0,0,1,0,0,RORO,General Waste,73454,C&I,0,VRP
+910,Recharges,910090,Credit Adjustment,ADJ,0,0,0,0,0,N/A,N/A,54284,Sale of Other,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,16944,C&I,0,VRP
+350,Skips,350541,Deliver 5.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,61804,C&I,0,VRP
+180,Front Lift Recycling,184542,Remove 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,76943,C&I,0,VRP
+260,Hook Lift Small,260832,Tip P/Tonne 8.0M Bin (HL),TON,0,0,1,0,0,N/A,N/A,59502,C&I,0,VRP
+730,Grease Trap,730076,EPA Docket Charge,EA,0,0,0,0,0,N/A,N/A,58773,Liquid,0,VRP
+530,MGB Green Waste/Organics,531407,Clear Cust 140LT Organics,M3,0.14,0,1,1,1,Rear Lift,Organic,15435,C&I,1,VRP
+220,Roll On Roll Off Feeder B,221511,Rent Monthly 1.5M Tippler,EA,0,1,0,0,0,N/A,N/A,19555,C&I,0,VRP
+240,Hook Lift,241500,Clear 15M Bin (HL),M3,15,0,1,0,0,RORO,General Waste,75545,C&I,1,VRP
+130,Front Lift Organic,133043,Exchange 3.0M Organic Bin,EA,0,0,0,0,0,Front Lift,Organic,34996,C&I,0,VRP
+710,Septic,710056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,88322,Liquid,0,VRP
+730,Grease Trap,730000,Grease Trap Serv P/Load,EA,0,0,1,0,0,N/A,N/A,76652,Liquid,0,VRP
+855,CDS,856694,Rebate for RetEarn Bin,EA,0,0,1,0,0,N/A,N/A,68918,Rebate,0,VRP
+500,MGB Rear Lift,502442,Remove 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,2252,C&I,0,VRP
+290,Roll On Roll Off Recyc Pa,290039,Charge Weighbridge,EA,0,0,1,0,0,RORO,Recycling,69416,C&I,0,VRP
+180,Front Lift Recycling,186000,Clear 6.0M Recycle Bin,M3,6,0,1,0,1,Front Lift,Recycling,61660,C&I,1,VRP
+240,Hook Lift,241572,Clear 15M Bin Nil Charge,M3,15,0,1,0,0,RORO,General Waste,55522,C&I,1,VRP
+100,Front Lift,104542,Remove 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,59864,C&I,0,VRP
+350,Skips,350441,Deliver 4.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,30114,C&I,0,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,67284,C&I,1,VRP
+180,Front Lift Recycling,184541,Deliver 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,69192,C&I,0,VRP
+300,Lift On,300841,Deliver 8.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,50260,C&I,0,VRP
+130,Front Lift Organic,133041,Deliver 3.0M Organic Bin,EA,0,0,0,0,0,Front Lift,Organic,43786,C&I,0,VRP
+500,MGB Rear Lift,506642,Remove 660LT cart,EA,0,0,0,0,0,Rear Lift,General Waste,40026,C&I,0,VRP
+100,Front Lift,100067,FL Wkly Weight Charge,TON,0,0,1,0,0,Front Lift,General Waste,89483,C&I,0,VRP
+200,Roll On Roll Off,209915,Fuel Surcharge RoRo,EA,0,0,0,0,0,RORO,General Waste,38033,C&I,0,VRP
+350,Skips,353142,Remove 31M Skip Bin,EA,0,0,0,0,0,N/A,N/A,32967,C&I,0,VRP
+170,Front Lift Domestic Recycling,171572,Clear 1.5M MuniRec NilChg,M3,1.5,0,1,0,0,N/A,N/A,24309,C&I,1,VRP
+710,Septic,710172,PortableToilet ServNilChg,EA,0,0,1,0,0,N/A,N/A,3260,Liquid,0,VRP
+300,Lift On,300600,Clear 6.0M Bin (LO),M3,6,0,1,0,0,N/A,N/A,65531,C&I,1,VRP
+710,Septic,710050,Septic Service P/Hour,HR,0,0,1,0,0,N/A,N/A,89101,Liquid,0,VRP
+350,Skips,350441,Deliver 4.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,42423,C&I,0,VRP
+100,Front Lift,103011,Rent Monthly 3.0m Bin,EA,0,1,0,0,0,Front Lift,General Waste,79852,C&I,0,VRP
+710,Septic,710021,Septic Service P/KG,KG,0,0,1,0,0,N/A,N/A,75614,Liquid,0,VRP
+500,MGB Rear Lift,500090,Credit Adjustment,ADJ,0,0,0,0,0,Rear Lift,General Waste,82692,C&I,0,VRP
+500,MGB Rear Lift,500090,Credit Adjustment,ADJ,0,0,0,0,0,Rear Lift,General Waste,75034,C&I,0,VRP
+350,Skips,352310,Rent 23M Skip Bin,EA,0,1,0,0,0,N/A,N/A,22503,C&I,0,VRP
+500,MGB Rear Lift,502442,Remove 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,60261,C&I,0,VRP
+180,Front Lift Recycling,184510,Rent 4.5M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,57833,C&I,0,VRP
+410,Subcontractor Front Lift,410045,Bin Cleaning,EA,0,0,0,0,0,N/A,N/A,61922,C&I,0,VRP
+190,Front Lift Co-Mingle,193000,Clear 3.0M Co-Mingle Bin,M3,3,0,1,1,1,Front Lift,Co-Mingle,84457,C&I,1,VRP
+240,Hook Lift,241532,Tip P/Tonne 15M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,56997,C&I,0,VRP
+100,Front Lift,106643,Exchange 660LT Bin,EA,0,0,0,0,0,Front Lift,General Waste,50493,C&I,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,70024,C&I,0,VRP
+500,MGB Rear Lift,501210,Rent 120LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,4403,C&I,0,VRP
+570,MGB Confidential,572410,Rent 240LT Conf Cart,EA,0,1,0,0,0,N/A,N/A,26474,C&I,0,VRP
+500,MGB Rear Lift,502443,Exchange 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,68042,C&I,0,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,50612,Sale of Other,0,VRP
+100,Front Lift,101141,Deliver 1.1M Bin,EA,0,0,0,0,0,Front Lift,General Waste,90794,C&I,0,VRP
+240,Hook Lift,243032,Tip P/Tonne 30M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,70501,C&I,0,VRP
+500,MGB Rear Lift,502442,Remove 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,51557,C&I,0,VRP
+500,MGB Rear Lift,502442,Remove 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,55499,C&I,0,VRP
+100,Front Lift,101100,Clear 1.1M Bin,M3,1.1,0,1,1,1,Front Lift,General Waste,62944,C&I,1,VRP
+600,MGB Co-Mingle,602441,Deliver 240LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,83487,C&I,0,VRP
+200,Roll On Roll Off,201032,Tip P/Tonne 10M Bin,TON,0,0,1,0,0,RORO,General Waste,89951,C&I,0,VRP
+300,Lift On,300633,Tip P/M3 6.0M Bin (LO),M3,0,0,1,0,0,N/A,N/A,81388,C&I,0,VRP
+180,Front Lift Recycling,183072,Clear 3.0M Rec Nil Charge,M3,3,0,1,0,0,Front Lift,Recycling,91001,C&I,1,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,80550,C&I,0,VRP
+900,Miscellaneous,900100,Late Payment Fee - GST,EA,0,0,0,0,0,N/A,N/A,79651,Sale of Other,0,VRP
+240,Hook Lift,241510,Rent 15M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,84520,C&I,0,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,53133,C&I,1,VRP
+500,MGB Rear Lift,501100,Clear 1.1M Bin,M3,1.1,0,1,1,1,Rear Lift,General Waste,50628,C&I,1,VRP
+500,MGB Rear Lift,506610,Rent 660LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,70259,C&I,0,VRP
+470,Subcontractor Liquid,470051,Truck Hire P/Hour,HR,0,0,0,0,0,N/A,N/A,63576,C&I,0,VRP
+100,Front Lift,104541,Deliver 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,50834,C&I,0,VRP
+240,Hook Lift,241543,Exchange 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,71754,C&I,0,VRP
+500,MGB Rear Lift,500048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Rear Lift,General Waste,39139,C&I,0,VRP
+200,Roll On Roll Off,201572,Clear 15M Bin Nil Charge,M3,15,0,1,0,0,RORO,General Waste,39010,C&I,1,VRP
+300,Lift On,300641,Deliver 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,68362,C&I,0,VRP
+300,Lift On,300441,Deliver 4.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,74552,C&I,0,VRP
+580,MGB Commercial Recycling,581100,Clear 1100LT Recycle Cart,M3,1.1,0,1,0,1,Rear Lift,Recycling,91328,C&I,1,VRP
+290,Roll On Roll Off Recyc Pa,293807,Clear Cust 38M Recyc Pack,M3,38,0,1,0,0,RORO,Recycling,1751,C&I,1,VRP
+100,Front Lift,100045,Bin Cleaning,EA,0,0,0,0,0,Front Lift,General Waste,85450,C&I,0,VRP
+600,MGB Co-Mingle,602441,Deliver 240LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,88853,C&I,0,VRP
+180,Front Lift Recycling,183042,Remove 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,78907,C&I,0,VRP
+600,MGB Co-Mingle,602441,Deliver 240LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,37638,C&I,0,VRP
+240,Hook Lift,240051,Truck Hire P/Hour,HR,0,0,0,0,0,RORO,General Waste,88699,C&I,0,VRP
+350,Skips,351032,Tip P/Tonne 10M Skip Bin,TON,0,0,1,0,0,N/A,N/A,72774,C&I,0,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,64744,Sale of Other,0,VRP
+180,Front Lift Recycling,183072,Clear 3.0M Rec Nil Charge,M3,3,0,1,0,0,Front Lift,Recycling,33089,C&I,1,VRP
+560,MGB Clinical,565000,Clear 50LT Clinical Bin,M3,0.05,0,1,0,0,N/A,N/A,50076,C&I,1,VRP
+150,Front Lift Clean Up,153010,Rent 3.0M Clean Up Bin,EA,0,1,0,0,0,N/A,N/A,74236,C&I,0,VRP
+100,Front Lift,100098,Credit Adjustment No GST,ADJ,0,0,0,0,0,Front Lift,General Waste,25217,C&I,0,VRP
+520,MGB Domestic Refuse,522407,Clear Customer 240LT Cart,M3,0.24,0,1,0,0,N/A,N/A,71309,C&I,1,VRP
+500,MGB Rear Lift,500055,Charge Attendance,EA,0,0,0,0,0,Rear Lift,General Waste,7485,C&I,0,VRP
+180,Front Lift Recycling,183042,Remove 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,57984,C&I,0,VRP
+240,Hook Lift,240456,Transportation P/Load,EA,0,0,1,0,0,RORO,General Waste,51441,C&I,0,VRP
+100,Front Lift,101543,Exchange 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,66744,C&I,0,VRP
+200,Roll On Roll Off,203011,Rent Monthly 30M Bin,EA,0,1,0,0,0,RORO,General Waste,37900,C&I,0,VRP
+500,MGB Rear Lift,502410,Rent 240LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,20728,C&I,0,VRP
+570,MGB Confidential,579400,Clear Conf Archive Box,M3,0,0,1,0,0,N/A,N/A,89531,C&I,1,VRP
+640,MGB Beckton & Dickenson S,641941,Deliver 19LT B&D Sharps,EA,0,0,0,0,0,N/A,N/A,18452,C&I,0,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,53923,C&I,1,VRP
+200,Roll On Roll Off,203032,Tip P/Tonne 30M Bin,TON,0,0,1,0,0,RORO,General Waste,47930,C&I,0,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,81672,C&I,1,VRP
+100,Front Lift,100056,Transportation P/Hour,HR,0,0,1,0,0,Front Lift,General Waste,68290,C&I,0,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,54206,C&I,1,VRP
+290,Roll On Roll Off Recyc Pa,294072,Clear 40M Recyc Pack Nil,M3,40,0,1,0,0,RORO,Recycling,33354,C&I,1,VRP
+180,Front Lift Recycling,180090,Credit Adjustment,ADJ,0,0,0,0,0,Front Lift,Recycling,52147,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,85679,Sale of Other,0,VRP
+500,MGB Rear Lift,501172,Clear 1.1M Bin Nil Charge,M3,1.1,0,1,0,0,Rear Lift,General Waste,25357,C&I,1,VRP
+300,Lift On,301033,Tip P/M3 10M Bin (LO),M3,0,0,1,0,0,N/A,N/A,64826,C&I,0,VRP
+500,MGB Rear Lift,500141,Deliver 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,91715,C&I,0,VRP
+250,Hook Lift Packer,252307,Clear Customer 23M Packer,M3,23,0,1,0,0,RORO,General Waste,78492,C&I,1,VRP
+100,Front Lift,102000,Clear 2.0M Bin,M3,2,0,1,1,1,Front Lift,General Waste,74425,C&I,1,VRP
+555,MGB Refresh Hygienic,557200,Service Air Freshener Fan,EA,0,0,1,0,0,N/A,N/A,52656,C&I,1,VRP
+100,Front Lift,102642,Remove 2.6M Bin,EA,0,0,0,0,0,Front Lift,General Waste,81060,C&I,0,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,50286,C&I,0,VRP
+200,Roll On Roll Off,203055,Futile 30M Bin,EA,0,0,1,0,0,RORO,General Waste,21843,C&I,0,VRP
+100,Front Lift,104500,Clear 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,2457,C&I,1,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,80839,C&I,0,VRP
+580,MGB Commercial Recycling,580090,Credit Adjustment,ADJ,0,0,0,0,0,Rear Lift,Recycling,55621,C&I,0,VRP
+570,MGB Confidential,571200,Clear 120LT Conf Cart,M3,0.12,0,1,0,0,N/A,N/A,39534,C&I,1,VRP
+560,MGB Clinical,560049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,22987,C&I,0,VRP
+710,Septic,710116,Rent Daily PortableToilet,EA,0,1,0,0,0,N/A,N/A,30129,Liquid,0,VRP
+510,MGB Commercial Refuse,512483,6 Mth Charge 240LT Cart,EA,0,0,0,0,0,N/A,N/A,71480,C&I,0,VRP
+600,MGB Co-Mingle,602407,Clear Cust 240LT Co-Mingl,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,57488,C&I,1,VRP
+580,MGB Commercial Recycling,582441,Deliver 240LT Recyc Cart,EA,0,0,0,0,0,Rear Lift,Recycling,15080,C&I,0,VRP
+670,MGB Side Lift Recycling,679672,Clear Plastic Bag Nil Chg,M3,1,0,1,0,0,N/A,N/A,45297,C&I,1,VRP
+300,Lift On,300049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,90232,C&I,0,VRP
+600,MGB Co-Mingle,606600,Clear 660LT Co-Mingle Car,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,12,C&I,1,VRP
+200,Roll On Roll Off,201232,Tip P/Tonne 12M Bin,TON,0,0,1,0,0,RORO,General Waste,6099,C&I,0,VRP
+600,MGB Co-Mingle,606672,Clear 660LT Co-Mingle Nil,M3,0.66,0,1,0,0,Rear Lift,Co-Mingle,21856,C&I,1,VRP
+600,MGB Co-Mingle,602441,Deliver 240LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,68107,C&I,0,VRP
+480,Subcontractor Miscellaneo,480034,Tip P/LTR Waste,LTR,0,0,1,0,0,N/A,N/A,76774,C&I,0,VRP
+580,MGB Commercial Recycling,586700,Clear 660LT PaperRec Cart,M3,0.66,0,1,0,0,Rear Lift,Recycling,66771,C&I,1,VRP
+240,Hook Lift,241042,Remove 10M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,72661,C&I,0,VRP
+100,Front Lift,103044,Relocate 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,86827,C&I,0,VRP
+100,Front Lift,100037,Levy Council Permit,EA,0,0,1,0,0,Front Lift,General Waste,101614,C&I,0,VRP
+600,MGB Co-Mingle,602472,Clear 240LT Co-Mingle Nil,M3,0.24,0,1,0,0,Rear Lift,Co-Mingle,78074,C&I,1,VRP
+570,MGB Confidential,572441,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,58475,C&I,0,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,15692,C&I,0,VRP
+600,MGB Co-Mingle,600002,Waste In Bin On Removal,M3,1,0,1,0,0,Rear Lift,Co-Mingle,8217,C&I,1,VRP
+350,Skips,350742,Remove 7.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,90737,C&I,0,VRP
+300,Lift On,300642,Remove 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,69196,C&I,0,VRP
+100,Front Lift,104540,Repair 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,91616,C&I,0,VRP
+580,MGB Commercial Recycling,581107,Clear Customer 1100LT Rec,M3,1.1,0,1,0,1,Rear Lift,Recycling,22989,C&I,1,VRP
+700,Liquid,704734,Tip P/LTR TripleIntercept,LTR,0,0,1,0,0,N/A,N/A,61877,Liquid,0,VRP
+300,Lift On,300972,Clear 9.0M Bin Nil Charge,M3,9,0,1,0,0,N/A,N/A,69210,C&I,1,VRP
+480,Subcontractor Miscellaneo,480041,Deliver Equipment,EA,0,0,0,0,0,N/A,N/A,74741,C&I,0,VRP
+180,Front Lift Recycling,184500,Clear 4.5M Recycle Bin,M3,4.5,0,1,0,1,Front Lift,Recycling,78189,C&I,1,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,55639,C&I,1,VRP
+500,MGB Rear Lift,506611,Rent Monthly 660LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,71025,C&I,0,VRP
+570,MGB Confidential,572441,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,39771,C&I,0,VRP
+240,Hook Lift,240049,Sundry Item,EA,0,0,0,0,0,RORO,General Waste,80310,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,82249,Sale of Other,0,VRP
+240,Hook Lift,240632,Tip P/Tonne 6.0M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,78248,C&I,0,VRP
+600,MGB Co-Mingle,600048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Rear Lift,Co-Mingle,67021,C&I,0,VRP
+300,Lift On,300642,Remove 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,77272,C&I,0,VRP
+530,MGB Green Waste/Organics,536742,Remove 660LT Organics,EA,0,0,0,0,0,Rear Lift,Organic,84396,C&I,0,VRP
+500,MGB Rear Lift,506642,Remove 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,3904,C&I,0,VRP
+350,Skips,350441,Deliver 4.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,55232,C&I,0,VRP
+580,MGB Commercial Recycling,581100,Clear 1100LT Recycle Cart,M3,1.1,0,1,0,1,Rear Lift,Recycling,85022,C&I,1,VRP
+540,MGB Sharps,541400,Service 1.4LT Sharps Bin,M3,0.01,0,1,0,0,N/A,N/A,7099,C&I,1,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,83903,Sale of Other,0,VRP
+500,MGB Rear Lift,502442,Remove 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,88618,C&I,0,VRP
+600,MGB Co-Mingle,602472,Clear 240LT Co-Mingle Nil,M3,0.24,0,1,0,0,Rear Lift,Co-Mingle,5587,C&I,1,VRP
+300,Lift On,301141,Deliver 11M Bin (LO),EA,0,0,0,0,0,N/A,N/A,76346,C&I,0,VRP
+520,MGB Domestic Refuse,520146,Lid Replacement,EA,0,0,0,0,0,N/A,N/A,90018,C&I,0,VRP
+350,Skips,350500,Clear 5.0M Skip Bin,M3,5,0,1,0,0,N/A,N/A,73963,C&I,1,VRP
+580,MGB Commercial Recycling,581100,Clear 1100LT Recycle Cart,M3,1.1,0,1,0,1,Rear Lift,Recycling,35149,C&I,1,VRP
+600,MGB Co-Mingle,600048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Rear Lift,Co-Mingle,3125,C&I,0,VRP
+100,Front Lift,104543,Exchange 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,72224,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,85313,Sale of Other,0,VRP
+570,MGB Confidential,572442,Remove 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,56785,C&I,0,VRP
+710,Septic,710050,Septic Service P/Hour,HR,0,0,1,0,0,N/A,N/A,79616,Liquid,0,VRP
+500,MGB Rear Lift,502442,Remove 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,77640,C&I,0,VRP
+500,MGB Rear Lift,501500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Rear Lift,General Waste,52026,C&I,1,VRP
+260,Hook Lift Small,267541,Deliver 7.5M Bin (HL),EA,0,0,0,0,0,N/A,N/A,87919,C&I,0,VRP
+580,MGB Commercial Recycling,581100,Clear 1100LT Recycle Cart,M3,1.1,0,1,0,1,Rear Lift,Recycling,54654,C&I,1,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,2136,Sale of Other,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,82561,C&I,0,VRP
+350,Skips,350242,Remove 2.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,79486,C&I,0,VRP
+730,Grease Trap,730024,Grease Trap Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,56570,Liquid,0,VRP
+300,Lift On,300333,Tip P/M3 3.0M Bin (LO),M3,0,0,1,0,0,N/A,N/A,67268,C&I,0,VRP
+200,Roll On Roll Off,201272,Clear 12M Bin Nil Charge,M3,12,0,1,0,0,RORO,General Waste,8335,C&I,1,VRP
+100,Front Lift,103044,Relocate 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,88237,C&I,0,VRP
+580,MGB Commercial Recycling,586642,Remove 660LT Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,30847,C&I,0,VRP
+280,Roll On Roll Off Recyclin,281242,Remove 12M Recycle Bin,EA,0,0,0,0,0,RORO,Recycling,73761,C&I,0,VRP
+600,MGB Co-Mingle,602442,Remove 240LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,66220,C&I,0,VRP
+190,Front Lift Co-Mingle,194541,Deliver 4.5M Co-Mingle Bi,EA,0,0,0,0,0,Front Lift,Co-Mingle,54496,C&I,0,VRP
+290,Roll On Roll Off Recyc Pa,293107,Clear Cust 31M Recyc Pack,M3,31,0,1,0,0,RORO,Recycling,36790,C&I,1,VRP
+350,Skips,350655,Futile 6.0M Skip,EA,0,0,1,0,0,N/A,N/A,48058,C&I,0,VRP
+100,Front Lift,106641,Deliver 660LT Bin,EA,0,0,0,0,0,Front Lift,General Waste,76383,C&I,0,VRP
+710,Septic,710056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,58867,Liquid,0,VRP
+500,MGB Rear Lift,500142,Remove 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,65324,C&I,0,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,55582,C&I,0,VRP
+300,Lift On,300830,Tip P/Load 8.0M Bin (LO),EA,0,0,1,0,0,N/A,N/A,61133,C&I,0,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,66795,C&I,0,VRP
+710,Septic,710142,Remove Portable Toilet,EA,0,0,0,0,0,N/A,N/A,71295,Liquid,0,VRP
+500,MGB Rear Lift,502442,Remove 240lt Cart,EA,0,0,0,0,0,Rear Lift,General Waste,85246,C&I,0,VRP
+200,Roll On Roll Off,203042,Remove 30M Bin,EA,0,0,0,0,0,RORO,General Waste,5178,C&I,0,VRP
+300,Lift On,300533,Tip P/M3 5.0M Bin (LO),M3,0,0,1,0,0,N/A,N/A,54192,C&I,0,VRP
+100,Front Lift,103040,Repair 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,89581,C&I,0,VRP
+300,Lift On,301042,Remove 10M Bin (LO),EA,0,0,0,0,0,N/A,N/A,77273,C&I,0,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,75317,C&I,1,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,80746,Sale of Other,0,VRP
+180,Front Lift Recycling,181000,Clear 1.0M Recycle Bin,M3,1,0,1,0,1,Front Lift,Recycling,7090,C&I,1,VRP
+180,Front Lift Recycling,184542,Remove 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,45911,C&I,0,VRP
+300,Lift On,300641,Deliver 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,54060,C&I,0,VRP
+580,MGB Commercial Recycling,586643,Exchange 660LT Recycle Ca,EA,0,0,0,0,0,Rear Lift,Recycling,71229,C&I,0,VRP
+300,Lift On,301200,Clear 12M Bin (LO),M3,12,0,1,0,0,N/A,N/A,52896,C&I,1,VRP
+100,Front Lift,104542,Remove 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,7609,C&I,0,VRP
+500,MGB Rear Lift,500141,Deliver 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,88232,C&I,0,VRP
+660,MGB Medical\Pathological,664600,Clear 240LT Infect Bin,M3,0.24,0,1,0,0,N/A,N/A,15207,C&I,1,VRP
+240,Hook Lift,240600,Clear 6.0M Bin (HL),M3,6,0,1,0,0,RORO,General Waste,82809,C&I,1,VRP
+500,MGB Rear Lift,506643,Exchange 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,56299,C&I,0,VRP
+550,MGB Hygienic,550014,12 Mth Rent Sanitary Bin,EA,0,1,0,0,0,N/A,N/A,87950,C&I,0,VRP
+200,Roll On Roll Off,203042,Remove 30M Bin,EA,0,0,0,0,0,RORO,General Waste,39528,C&I,0,VRP
+240,Hook Lift,243000,Clear 30M Bin (HL),M3,30,0,1,0,0,RORO,General Waste,51660,C&I,1,VRP
+600,MGB Co-Mingle,606600,Clear 660LT Co-Mingle Car,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,80833,C&I,1,VRP
+500,MGB Rear Lift,506641,Deliver 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,79951,C&I,0,VRP
+240,Hook Lift,241072,Clear 10M Bin Nil Charge,M3,10,0,1,0,0,RORO,General Waste,59158,C&I,1,VRP
+730,Grease Trap,730050,Grease Trap Serv P/Hour,HR,0,0,1,0,0,N/A,N/A,87390,Liquid,0,VRP
+180,Front Lift Recycling,181542,Remove 1.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,90790,C&I,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,52732,C&I,0,VRP
+710,Septic,710110,Rent Portable Toilet,EA,0,1,0,0,0,N/A,N/A,19813,Liquid,0,VRP
+180,Front Lift Recycling,180048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,Recycling,8330,C&I,0,VRP
+410,Subcontractor Front Lift,413040,Repair 3.0M Bin,EA,0,0,0,0,0,N/A,N/A,84316,C&I,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,61218,C&I,1,VRP
+500,MGB Rear Lift,500049,Sundry Item,EA,0,0,0,0,0,Rear Lift,General Waste,54540,C&I,0,VRP
+500,MGB Rear Lift,501000,Clear 1.0M Bin,M3,1,0,1,1,1,Rear Lift,General Waste,47936,C&I,1,VRP
+300,Lift On,301242,Remove 12M Bin (LO),EA,0,0,0,0,0,N/A,N/A,59710,C&I,0,VRP
+570,MGB Confidential,572441,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,65376,C&I,0,VRP
+600,MGB Co-Mingle,601110,Rent 1100LT Co-Mingle Car,EA,0,1,0,0,0,Rear Lift,Co-Mingle,75450,C&I,0,VRP
+630,MGB Bio Can Sharps,630500,Service 5.0LT Bio Sharps,M3,0.01,0,1,0,0,N/A,N/A,21225,C&I,1,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,89262,Sale of Other,0,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,72561,Sale of Other,0,VRP
+500,MGB Rear Lift,506600,Clear 660LT Cart,M3,0.66,0,1,1,1,Rear Lift,General Waste,45654,C&I,1,VRP
+290,Roll On Roll Off Recyc Pa,290294,Rebate for Cardboard,TON,0,0,1,0,0,RORO,Recycling,83209,Rebate,0,VRP
+350,Skips,350332,Tip P/Tonne 3.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,64634,C&I,0,VRP
+580,MGB Commercial Recycling,582443,Exchange 240LT Recyc Cart,EA,0,0,0,0,0,Rear Lift,Recycling,79959,C&I,0,VRP
+300,Lift On,300932,Tip P/Tonne 9.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,79028,C&I,0,VRP
+190,Front Lift Co-Mingle,194542,Remove 4.5M Co-Mingle Bin,EA,0,0,0,0,0,Front Lift,Co-Mingle,89787,C&I,0,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,76721,Sale of Other,0,VRP
+580,MGB Commercial Recycling,582411,Rent Monthly 240LT Recycl,EA,0,1,0,0,0,Rear Lift,Recycling,59453,C&I,0,VRP
+500,MGB Rear Lift,501143,Exchange 1.1M Bin,EA,0,0,0,0,0,Rear Lift,General Waste,38305,C&I,0,VRP
+471,Subcontractor Septic,471021,Septic Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,85921,C&I,0,VRP
+500,MGB Rear Lift,502472,Clear 240LT Cart Nil Chg,M3,0.24,0,1,0,0,Rear Lift,General Waste,83509,C&I,1,VRP
+240,Hook Lift,242011,Rent Monthly 20M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,72164,C&I,0,VRP
+730,Grease Trap,730000,Grease Trap Serv P/Load,EA,0,0,1,0,0,N/A,N/A,69231,Liquid,0,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,51844,Sale of Other,0,VRP
+100,Front Lift,103044,Relocate 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,38881,C&I,0,VRP
+500,MGB Rear Lift,500002,Waste In Bin On Removal,M3,1,0,1,0,0,Rear Lift,General Waste,67451,C&I,1,VRP
+210,Roll On Roll Off Packer,212332,Tip P/Tonne 23M Packer,TON,0,0,1,0,0,RORO,General Waste,9588,C&I,0,VRP
+670,MGB Side Lift Recycling,671140,Repair 1100LT Recycle,EA,0,0,0,0,0,N/A,N/A,48436,C&I,0,VRP
+350,Skips,353100,Clear 31M Skip Bin,M3,31,0,1,0,0,N/A,N/A,46398,C&I,1,VRP
+992,Adjustments,999944,Reallocation Jnl DR - GST,EA,0,0,0,0,0,N/A,N/A,69189,Sale of Other,0,VRP
+580,MGB Commercial Recycling,586610,Rent 660LT Recycle Cart,EA,0,1,0,0,0,Rear Lift,Recycling,77127,C&I,0,VRP
+180,Front Lift Recycling,184500,Clear 4.5M Recycle Bin,M3,4.5,0,1,0,1,Front Lift,Recycling,75665,C&I,1,VRP
+350,Skips,350342,Remove 3.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,13180,C&I,0,VRP
+240,Hook Lift,241542,Remove 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,54530,C&I,0,VRP
+200,Roll On Roll Off,201541,Deliver 15M Bin,EA,0,0,0,0,0,RORO,General Waste,28316,C&I,0,VRP
+100,Front Lift,104500,Clear 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,63101,C&I,1,VRP
+130,Front Lift Organic,130078,Charge Contaminated Load,EA,0,0,0,0,0,Front Lift,Organic,62341,C&I,0,VRP
+730,Grease Trap,730000,Grease Trap Serv P/Load,EA,0,0,1,0,0,N/A,N/A,67080,Liquid,0,VRP
+200,Roll On Roll Off,201241,Deliver 12M Bin,EA,0,0,0,0,0,RORO,General Waste,82553,C&I,0,VRP
+500,MGB Rear Lift,501172,Clear 1.1M Bin Nil Charge,M3,1.1,0,1,0,0,Rear Lift,General Waste,46898,C&I,1,VRP
+100,Front Lift,101140,Repair 1.1M Bin,EA,0,0,0,0,0,Front Lift,General Waste,22498,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,43674,Sale of Other,0,VRP
+580,MGB Commercial Recycling,589672,Clear Rec Bag No Charge,M3,1,0,1,0,0,Rear Lift,Recycling,43914,C&I,1,VRP
+350,Skips,350400,Clear 4.0M Skip Bin,M3,4,0,1,0,0,N/A,N/A,2005,C&I,1,VRP
+100,Front Lift,101511,Rent Monthly 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,59633,C&I,0,VRP
+100,Front Lift,100068,FL Wkly Sched VisitCharge,EA,0,0,1,0,0,Front Lift,General Waste,88299,C&I,0,VRP
+240,Hook Lift,241010,Rent 10M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,72998,C&I,0,VRP
+300,Lift On,300642,Remove 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,81777,C&I,0,VRP
+300,Lift On,300641,Deliver 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,66929,C&I,0,VRP
+240,Hook Lift,240642,Remove 6.0M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,82318,C&I,0,VRP
+500,MGB Rear Lift,506641,Deliver 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,57811,C&I,0,VRP
+600,MGB Co-Mingle,602441,Deliver 240LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,50394,C&I,0,VRP
+180,Front Lift Recycling,183010,Rent 3.0M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,85560,C&I,0,VRP
+350,Skips,350644,Relocate 6.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,45000,C&I,0,VRP
+240,Hook Lift,240051,Truck Hire P/Hour,HR,0,0,0,0,0,RORO,General Waste,64802,C&I,0,VRP
+100,Front Lift,102641,Deliver 2.6M Bin,EA,0,0,0,0,0,Front Lift,General Waste,58625,C&I,0,VRP
+180,Front Lift Recycling,186042,Remove 6.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,89107,C&I,0,VRP
+580,MGB Commercial Recycling,586600,Clear 660LT Recycle Cart,M3,0.66,0,1,0,1,Rear Lift,Recycling,6107,C&I,1,VRP
+510,MGB Commercial Refuse,512410,Rent 240LT Cart,EA,0,1,0,0,0,N/A,N/A,57759,C&I,0,VRP
+580,MGB Commercial Recycling,582300,Clear 240LT PaperRec Cart,M3,0.24,0,1,0,1,Rear Lift,Recycling,79287,C&I,1,VRP
+710,Septic,710076,EPA Docket Charge,EA,0,0,0,0,0,N/A,N/A,50713,Liquid,0,VRP
+100,Front Lift,101510,Rent 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,11951,C&I,0,VRP
+180,Front Lift Recycling,182000,Clear 2.0M Recycle Bin,M3,2,0,1,0,1,Front Lift,Recycling,79838,C&I,1,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,59850,C&I,0,VRP
+180,Front Lift Recycling,183072,Clear 3.0M Rec Nil Charge,M3,3,0,1,0,0,Front Lift,Recycling,10453,C&I,1,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,50946,C&I,0,VRP
+700,Liquid,700151,Truck Hire P/Load,EA,0,0,0,0,0,N/A,N/A,55678,Liquid,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,71538,C&I,0,VRP
+350,Skips,350911,Rent Monthly 9.0M Skip Bi,EA,0,1,0,0,0,N/A,N/A,65238,C&I,0,VRP
+470,Subcontractor Liquid,470052,Labour Hire P/Hour,HR,0,0,0,0,0,N/A,N/A,52568,C&I,0,VRP
+700,Liquid,704700,TripleIntercept Serv P/Ld,EA,0,0,1,0,0,N/A,N/A,72177,Liquid,0,VRP
+600,MGB Co-Mingle,606643,Exchange 660LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,48064,C&I,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,67724,C&I,0,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,51834,C&I,1,VRP
+300,Lift On,300942,Remove 9.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,58757,C&I,0,VRP
+180,Front Lift Recycling,184500,Clear 4.5M Recycle Bin,M3,4.5,0,1,0,1,Front Lift,Recycling,38883,C&I,1,VRP
+350,Skips,350300,Clear 3.0M Skip Bin,M3,3,0,1,0,0,N/A,N/A,89173,C&I,1,VRP
+580,MGB Commercial Recycling,581472,Clear 140LT Recyc Nil Chg,M3,0.14,0,1,0,0,Rear Lift,Recycling,88710,C&I,1,VRP
+180,Front Lift Recycling,184542,Remove 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,89661,C&I,0,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,79593,C&I,1,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,77966,C&I,0,VRP
+290,Roll On Roll Off Recyc Pa,293007,Clear Cust 30M Recyc Pack,M3,30,0,1,0,0,RORO,Recycling,73742,C&I,1,VRP
+100,Front Lift,104572,Clear 4.5M Bin Nil Charge,M3,4.5,0,1,0,0,Front Lift,General Waste,50586,C&I,1,VRP
+350,Skips,350632,Tip P/Tonne 6.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,52024,C&I,0,VRP
+250,Hook Lift Packer,253042,Remove 30M Packer (HL),EA,0,0,0,0,0,RORO,General Waste,79913,C&I,0,VRP
+500,MGB Rear Lift,502472,Clear 240LT Cart Nil Chg,M3,0.24,0,1,0,0,Rear Lift,General Waste,7858,C&I,1,VRP
+300,Lift On,300632,Tip P/Tonne 6.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,84855,C&I,0,VRP
+500,MGB Rear Lift,500110,Rent 1100LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,59646,C&I,0,VRP
+500,MGB Rear Lift,500062,Charge Weekend Service,EA,0,0,0,0,0,Rear Lift,General Waste,92286,C&I,0,VRP
+840,Product Destruction,840956,Transportation P/Qty,EA,0,0,1,0,0,N/A,N/A,77325,C&I,0,VRP
+580,MGB Commercial Recycling,586672,Clear 660LT Rec Nil Chg,M3,0.66,0,1,0,0,Rear Lift,Recycling,20591,C&I,1,VRP
+100,Front Lift,104543,Exchange 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,63373,C&I,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,83205,C&I,0,VRP
+700,Liquid,700010,Rent Liquid Container,EA,0,1,0,0,0,N/A,N/A,50309,Liquid,0,VRP
+110,Front Lift Packer,110045,Bin Cleaning,EA,0,0,0,0,0,N/A,N/A,60845,C&I,0,VRP
+290,Roll On Roll Off Recyc Pa,290294,Rebate for Cardboard,TON,0,0,1,0,0,RORO,Recycling,42023,Rebate,0,VRP
+190,Front Lift Co-Mingle,194500,Clear 4.5M Co-Mingle Bin,M3,4.5,0,1,1,1,Front Lift,Co-Mingle,61841,C&I,1,VRP
+500,MGB Rear Lift,501110,Rent 1.1M Bin,EA,0,1,0,0,0,Rear Lift,General Waste,87312,C&I,0,VRP
+500,MGB Rear Lift,506641,Deliver 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,76503,C&I,0,VRP
+300,Lift On,300672,Clear 6.0M Bin Nil Charge,M3,6,0,1,0,0,N/A,N/A,57822,C&I,1,VRP
+200,Roll On Roll Off,201541,Deliver 15M Bin,EA,0,0,0,0,0,RORO,General Waste,19430,C&I,0,VRP
+600,MGB Co-Mingle,601200,Clear 120LT Co-Mingle Car,M3,0.12,0,1,1,1,Rear Lift,Co-Mingle,67425,C&I,1,VRP
+350,Skips,350800,Clear 8.0M Skip Bin,M3,8,0,1,0,0,N/A,N/A,44858,C&I,1,VRP
+500,MGB Rear Lift,500045,Bin Cleaning,EA,0,0,0,0,0,Rear Lift,General Waste,77781,C&I,0,VRP
+100,Front Lift,101011,Rent Monthly 1.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,67552,C&I,0,VRP
+200,Roll On Roll Off,201232,Tip P/Tonne 12M Bin,TON,0,0,1,0,0,RORO,General Waste,57777,C&I,0,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,76210,Sale of Other,0,VRP
+210,Roll On Roll Off Packer,212300,Clear 23M Packer,M3,23,0,1,0,0,RORO,General Waste,5572,C&I,1,VRP
+456,Subcontractor MGB Clinical,459642,Remove 64LT Clinical Bin,EA,0,0,0,0,0,N/A,N/A,77280,C&I,0,VRP
+100,Front Lift,100067,FL Wkly Weight Charge,TON,0,0,1,0,0,Front Lift,General Waste,69271,C&I,0,VRP
+300,Lift On,300932,Tip P/Tonne 9.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,83400,C&I,0,VRP
+180,Front Lift Recycling,184541,Deliver 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,86448,C&I,0,VRP
+580,MGB Commercial Recycling,581170,Contract Clear 1100LT Rec,M3,1.1,0,1,0,0,Rear Lift,Recycling,58580,C&I,1,VRP
+250,Hook Lift Packer,253011,Rent Monthly 30M Packer (,EA,0,1,0,0,0,RORO,General Waste,81182,C&I,0,VRP
+500,MGB Rear Lift,501100,Clear 1.1M Bin,M3,1.1,0,1,1,1,Rear Lift,General Waste,27829,C&I,1,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,67487,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,87105,Sale of Other,0,VRP
+650,MGB Pathological\Infectio,651900,Service 19LT P&I Sharps,M3,0.02,0,1,0,0,N/A,N/A,21982,C&I,1,VRP
+500,MGB Rear Lift,500110,Rent 1100LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,43657,C&I,0,VRP
+100,Front Lift,104500,Clear 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,80344,C&I,1,VRP
+180,Front Lift Recycling,183007,Clear Customer 3.0M Recyc,M3,3,0,1,0,1,Front Lift,Recycling,65560,C&I,1,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,65865,Sale of Other,0,VRP
+500,MGB Rear Lift,502443,Exchange 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,77343,C&I,0,VRP
+580,MGB Commercial Recycling,581143,Exchange 1100LT Recycle C,EA,0,0,0,0,0,Rear Lift,Recycling,378,C&I,0,VRP
+280,Roll On Roll Off Recyclin,280055,Charge Attendance,EA,0,0,0,0,0,RORO,Recycling,76516,C&I,0,VRP
+100,Front Lift,101000,Clear 1.0M Bin,M3,1,0,1,1,1,Front Lift,General Waste,37021,C&I,1,VRP
+280,Roll On Roll Off Recyclin,280294,Rebate for Cardboard,TON,0,0,1,0,0,RORO,Recycling,1493,Rebate,0,VRP
+457,Subcontractor MGB Confidential,457272,Clear 240LT Conf Nil Chg,M3,0.24,0,1,0,0,N/A,N/A,67154,C&I,1,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,63018,Sale of Other,0,VRP
+120,Front Lift Feeder Bins,121510,Rent 1.5M Tippler Bin,EA,0,1,0,0,0,N/A,N/A,42295,C&I,0,VRP
+350,Skips,351541,Deliver 15M Skip Bin,EA,0,0,0,0,0,N/A,N/A,13701,C&I,0,VRP
+100,Front Lift,100066,FL Wkly Extra VisitCharge,EA,0,0,1,0,0,Front Lift,General Waste,51132,C&I,0,VRP
+580,MGB Commercial Recycling,580141,Deliver 1.1M Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,67665,C&I,0,VRP
+580,MGB Commercial Recycling,581143,Exchange 1100LT Recycle C,EA,0,0,0,0,0,Rear Lift,Recycling,80442,C&I,0,VRP
+200,Roll On Roll Off,202042,Remove 20M Bin,EA,0,0,0,0,0,RORO,General Waste,57069,C&I,0,VRP
+580,MGB Commercial Recycling,582442,Remove 240LT Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,77443,C&I,0,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,79166,C&I,1,VRP
+580,MGB Commercial Recycling,580001,Removal of Loose Recycle,M3,1,0,1,0,0,Rear Lift,Recycling,64929,C&I,1,VRP
+500,MGB Rear Lift,502472,Clear 240LT Cart Nil Chg,M3,0.24,0,1,0,0,Rear Lift,General Waste,50331,C&I,1,VRP
+480,Subcontractor Miscellaneo,480536,Tip P/Qty Paint & Resins,EA,0,0,1,0,0,N/A,N/A,63903,C&I,0,VRP
+580,MGB Commercial Recycling,581100,Clear 1100LT Recycle Cart,M3,1.1,0,1,0,1,Rear Lift,Recycling,46541,C&I,1,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,16312,Sale of Other,0,VRP
+180,Front Lift Recycling,183011,Rent Monthly 3.0M Recycle,EA,0,1,0,0,0,Front Lift,Recycling,25848,C&I,0,VRP
+100,Front Lift,103040,Repair 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,87692,C&I,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,48415,C&I,0,VRP
+200,Roll On Roll Off,201242,Remove 12M Bin,EA,0,0,0,0,0,RORO,General Waste,88195,C&I,0,VRP
+660,MGB Medical\Pathological,660055,Charge Attendance,EA,0,0,0,0,0,N/A,N/A,41402,C&I,0,VRP
+600,MGB Co-Mingle,606642,Remove 660LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,75039,C&I,0,VRP
+300,Lift On,300933,Tip P/M3 9.0M Bin (LO),M3,0,0,1,0,0,N/A,N/A,82576,C&I,0,VRP
+150,Front Lift Clean Up,153042,Remove 3.0M Clean Up Bin,EA,0,0,0,0,0,N/A,N/A,72786,C&I,0,VRP
+580,MGB Commercial Recycling,586642,Remove 660LT Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,54131,C&I,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,54837,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,70570,Sale of Other,0,VRP
+100,Front Lift,103507,Clear Customer 3.5M Bin,M3,3.5,0,1,0,0,Front Lift,General Waste,2585,C&I,1,VRP
+180,Front Lift Recycling,186043,Exchange 6.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,54432,C&I,0,VRP
+100,Front Lift,104541,Deliver 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,41272,C&I,0,VRP
+555,MGB Refresh Hygienic,557071,Extra Serv Auto SaniPod,EA,0,0,0,0,0,N/A,N/A,52027,C&I,0,VRP
+100,Front Lift,104507,Clear Customer 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,91845,C&I,1,VRP
+580,MGB Commercial Recycling,581140,Repair 1100LT Recycle,EA,0,0,0,0,0,Rear Lift,Recycling,51566,C&I,0,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,52888,Sale of Other,0,VRP
+350,Skips,350832,Tip P/Tonne 8.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,84827,C&I,0,VRP
+350,Skips,350200,Clear 2.0M Skip Bin,M3,2,0,1,0,0,N/A,N/A,71884,C&I,1,VRP
+200,Roll On Roll Off,202032,Tip P/Tonne 20M Bin,TON,0,0,1,0,0,RORO,General Waste,40272,C&I,0,VRP
+560,MGB Clinical,562441,Deliver 240LT Clinical Bi,EA,0,0,0,0,0,N/A,N/A,19193,C&I,0,VRP
+300,Lift On,300300,Clear 3.0M Bin (LO),M3,3,0,1,0,0,N/A,N/A,91114,C&I,1,VRP
+600,MGB Co-Mingle,601107,Clear Cust 1100LT Co-Ming,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,56655,C&I,1,VRP
+660,MGB Medical\Pathological,660049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,57033,C&I,0,VRP
+240,Hook Lift,242041,Deliver 20M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,78059,C&I,0,VRP
+240,Hook Lift,243072,Clear 30M Bin Nil Charge,M3,30,0,1,0,0,RORO,General Waste,79568,C&I,1,VRP
+240,Hook Lift,241500,Clear 15M Bin (HL),M3,15,0,1,0,0,RORO,General Waste,76156,C&I,1,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,64704,C&I,0,VRP
+456,Subcontractor MGB Clinical,456021,Clear Clinical Waste P/KG,KG,1,0,1,0,0,N/A,N/A,63169,C&I,1,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,97025,C&I,1,VRP
+560,MGB Clinical,560047,Bin Liners,EA,0,0,0,0,0,N/A,N/A,21223,C&I,0,VRP
+550,MGB Hygienic,550000,Service Sanitary Bin,M3,1,0,1,0,0,N/A,N/A,64154,C&I,1,VRP
+580,MGB Commercial Recycling,581107,Clear Customer 1100LT Rec,M3,1.1,0,1,0,1,Rear Lift,Recycling,81824,C&I,1,VRP
+300,Lift On,300200,Clear 2.0M Bin (LO),M3,2,0,1,0,0,N/A,N/A,90299,C&I,1,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,76922,C&I,1,VRP
+500,MGB Rear Lift,506600,Clear 660LT Cart,M3,0.66,0,1,1,1,Rear Lift,General Waste,83563,C&I,1,VRP
+300,Lift On,301000,Clear 10M Bin (LO),M3,10,0,1,0,0,N/A,N/A,51939,C&I,1,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,79024,C&I,0,VRP
+580,MGB Commercial Recycling,582372,Clear 240LT PapRec NilChg,M3,0.24,0,1,0,0,Rear Lift,Recycling,18044,C&I,1,VRP
+500,MGB Rear Lift,506643,Exchange 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,31339,C&I,0,VRP
+250,Hook Lift Packer,253007,Clear Customer 30M Packer,M3,30,0,1,0,0,RORO,General Waste,68646,C&I,1,VRP
+570,MGB Confidential,572441,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,46402,C&I,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,46527,C&I,0,VRP
+300,Lift On,300310,Rent 3.0M Bin (LO),EA,0,1,0,0,0,N/A,N/A,81726,C&I,0,VRP
+240,Hook Lift,240842,Remove 8.0M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,80717,C&I,0,VRP
+650,MGB Pathological\Infectio,651441,Deliver 1.4LT P&I Sharps,EA,0,0,0,0,0,N/A,N/A,63247,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,71089,Sale of Other,0,VRP
+100,Front Lift,100055,Charge Attendance,EA,0,0,0,0,0,Front Lift,General Waste,67534,C&I,0,VRP
+100,Front Lift,100049,Sundry Item,EA,0,0,0,0,0,Front Lift,General Waste,56284,C&I,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,63848,C&I,0,VRP
+300,Lift On,300941,Deliver 9.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,51662,C&I,0,VRP
+560,MGB Clinical,562400,Clear 240LT Clinical Bin,M3,0.24,0,1,0,0,N/A,N/A,78779,C&I,1,VRP
+200,Roll On Roll Off,201241,Deliver 12M Bin,EA,0,0,0,0,0,RORO,General Waste,51886,C&I,0,VRP
+240,Hook Lift,241541,Deliver 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,78433,C&I,0,VRP
+100,Front Lift,101514,12 Mth Rent 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,89512,C&I,0,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,50749,Sale of Other,0,VRP
+190,Front Lift Co-Mingle,193000,Clear 3.0M Co-Mingle Bin,M3,3,0,1,1,1,Front Lift,Co-Mingle,56363,C&I,1,VRP
+570,MGB Confidential,572442,Remove 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,75014,C&I,0,VRP
+200,Roll On Roll Off,203132,Tip P/Tonne 31M Bin,TON,0,0,1,0,0,RORO,General Waste,47931,C&I,0,VRP
+100,Front Lift,104543,Exchange 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,5043,C&I,0,VRP
+180,Front Lift Recycling,184500,Clear 4.5M Recycle Bin,M3,4.5,0,1,0,1,Front Lift,Recycling,16291,C&I,1,VRP
+710,Septic,710034,Tip P/LTR Septic,LTR,0,0,1,0,0,N/A,N/A,84223,Liquid,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,84598,C&I,0,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,79500,C&I,1,VRP
+900,Miscellaneous,900052,WasteTracker-CWY issued,EA,0,0,0,0,0,N/A,N/A,171104,NULL,NULL,VRP
+500,MGB Rear Lift,501100,Clear 1.1M Bin,M3,1.1,0,1,1,1,Rear Lift,General Waste,51391,C&I,1,VRP
+100,Front Lift,102000,Clear 2.0M Bin,M3,2,0,1,1,1,Front Lift,General Waste,90372,C&I,1,VRP
+600,MGB Co-Mingle,606600,Clear 660LT Co-Mingle Car,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,77289,C&I,1,VRP
+100,Front Lift,101510,Rent 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,65964,C&I,0,VRP
+200,Roll On Roll Off,202341,Deliver 23M Bin,EA,0,0,0,0,0,RORO,General Waste,35901,C&I,0,VRP
+220,Roll On Roll Off Feeder B,221510,Rent 1.5M Tippler Bin,EA,0,1,0,0,0,N/A,N/A,21492,C&I,0,VRP
+350,Skips,350641,Deliver 6.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,86961,C&I,0,VRP
+700,Liquid,700434,Tip P/LTR Oily Water,LTR,0,0,1,0,0,N/A,N/A,79626,Liquid,0,VRP
+300,Lift On,300432,Tip P/Tonne 4.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,60577,C&I,0,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,91200,C&I,1,VRP
+580,MGB Commercial Recycling,581111,Rent Monthly 1100LT Recyc,EA,0,1,0,0,0,Rear Lift,Recycling,45524,C&I,0,VRP
+100,Front Lift,100089,Chg Contract Cancellation,EA,0,0,0,0,0,Front Lift,General Waste,58202,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,77841,Sale of Other,0,VRP
+300,Lift On,300600,Clear 6.0M Bin (LO),M3,6,0,1,0,0,N/A,N/A,52959,C&I,1,VRP
+180,Front Lift Recycling,183043,Exchange 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,72149,C&I,0,VRP
+100,Front Lift,100049,Sundry Item,EA,0,0,0,0,0,Front Lift,General Waste,77500,C&I,0,VRP
+350,Skips,350342,Remove 3.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,26615,C&I,0,VRP
+500,MGB Rear Lift,500055,Charge Attendance,EA,0,0,0,0,0,Rear Lift,General Waste,84796,C&I,0,VRP
+180,Front Lift Recycling,186000,Clear 6.0M Recycle Bin,M3,6,0,1,0,1,Front Lift,Recycling,986,C&I,1,VRP
+240,Hook Lift,241500,Clear 15M Bin (HL),M3,15,0,1,0,0,RORO,General Waste,87641,C&I,1,VRP
+600,MGB Co-Mingle,606643,Exchange 660LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,62938,C&I,0,VRP
+540,MGB Sharps,541041,Deliver 10LT Sharps Bin,EA,0,0,0,0,0,N/A,N/A,59465,C&I,0,VRP
+500,MGB Rear Lift,502482,3 Mth Charge 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,79863,C&I,0,VRP
+730,Grease Trap,730034,Tip P/LTR Grease Trap,LTR,0,0,1,0,0,N/A,N/A,60570,Liquid,0,VRP
+600,MGB Co-Mingle,606610,Rent 660LT Co-Mingle Cart,EA,0,1,0,0,0,Rear Lift,Co-Mingle,40148,C&I,0,VRP
+660,MGB Medical\Pathological,664500,Clear 120LT Infect Bin,M3,0.12,0,1,0,0,N/A,N/A,47173,C&I,1,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,81968,C&I,1,VRP
+240,Hook Lift,241241,Deliver 12M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,57750,C&I,0,VRP
+600,MGB Co-Mingle,606611,Rent Monthly 660LT Co-Min,EA,0,1,0,0,0,Rear Lift,Co-Mingle,89671,C&I,0,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,2587,C&I,1,VRP
+100,Front Lift,101511,Rent Monthly 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,75963,C&I,0,VRP
+100,Front Lift,104500,Clear 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,69638,C&I,1,VRP
+450,Subcontractor MGB Rear Lift,451242,Remove 120LT Cart,EA,0,0,0,0,0,N/A,N/A,65475,C&I,0,VRP
+580,MGB Commercial Recycling,581141,Deliver 1100LT Recycle Ca,EA,0,0,0,0,0,Rear Lift,Recycling,64674,C&I,0,VRP
+240,Hook Lift,240610,Rent 6.0M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,66473,C&I,0,VRP
+580,MGB Commercial Recycling,581110,Rent 1100LT Recycle Cart,EA,0,1,0,0,0,Rear Lift,Recycling,875,C&I,0,VRP
+600,MGB Co-Mingle,602441,Deliver 240LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,39773,C&I,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,90226,C&I,0,VRP
+710,Septic,710000,Septic Service P/Load,EA,0,0,1,0,0,N/A,N/A,56191,Liquid,0,VRP
+600,MGB Co-Mingle,602482,3 Mth Chg 240LT Co-Ming,EA,0,0,0,0,0,Rear Lift,Co-Mingle,55116,C&I,0,VRP
+350,Skips,352542,Remove 2.5M Skip Bin,EA,0,0,0,0,0,N/A,N/A,73391,C&I,0,VRP
+480,Subcontractor Miscellaneo,480042,Remove Equipment,EA,0,0,0,0,0,N/A,N/A,71407,C&I,0,VRP
+540,MGB Sharps,541049,Sale of 10LT Sharps Bin,EA,0,0,0,0,0,N/A,N/A,67887,Sale of Other,0,VRP
+280,Roll On Roll Off Recyclin,282594,Rebate for Plastic,TON,0,0,1,0,0,RORO,Recycling,20078,Rebate,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,53527,Sale of Other,0,VRP
+510,MGB Commercial Refuse,511407,Clear Customer 140LT Cart,M3,0.14,0,1,1,1,N/A,N/A,61400,C&I,1,VRP
+710,Septic,710079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,59003,Liquid,0,VRP
+240,Hook Lift,241010,Rent 10M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,50069,C&I,0,VRP
+470,Subcontractor Liquid,470056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,91286,C&I,0,VRP
+450,Subcontractor MGB Rear Lift,450049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,70016,C&I,0,VRP
+240,Hook Lift,243032,Tip P/Tonne 30M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,80866,C&I,0,VRP
+500,MGB Rear Lift,506641,Deliver 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,91859,C&I,0,VRP
+500,MGB Rear Lift,500081,Mth Charge Cart,EA,0,0,0,0,0,Rear Lift,General Waste,56166,C&I,0,VRP
+450,Subcontractor MGB Rear Lift,452481,Mth Charge 240LT Cart,EA,0,0,0,0,0,N/A,N/A,51121,C&I,0,VRP
+300,Lift On,300632,Tip P/Tonne 6.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,68422,C&I,0,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,67250,Sale of Other,0,VRP
+730,Grease Trap,730079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,78238,Liquid,0,VRP
+600,MGB Co-Mingle,602442,Remove 240LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,30849,C&I,0,VRP
+500,MGB Rear Lift,502410,Rent 240LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,79524,C&I,0,VRP
+470,Subcontractor Liquid,470321,Waste Oil Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,85995,C&I,0,VRP
+300,Lift On,300610,Rent 6.0M Bin (LO),EA,0,1,0,0,0,N/A,N/A,55291,C&I,0,VRP
+570,MGB Confidential,572441,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,84817,C&I,0,VRP
+100,Front Lift,104542,Remove 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,61265,C&I,0,VRP
+200,Roll On Roll Off,201541,Deliver 15M Bin,EA,0,0,0,0,0,RORO,General Waste,71236,C&I,0,VRP
+240,Hook Lift,241232,Tip P/Tonne 12M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,84996,C&I,0,VRP
+731,WasteSafe,730121,WasteSafe Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,90279,Liquid,0,VRP
+600,MGB Co-Mingle,602411,Rent Monthly 240LT Co-Min,EA,0,1,0,0,0,Rear Lift,Co-Mingle,28327,C&I,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,90339,C&I,0,VRP
+100,Front Lift,101141,Deliver 1.1M Bin,EA,0,0,0,0,0,Front Lift,General Waste,73028,C&I,0,VRP
+350,Skips,350372,Clear 3.0M Skip Nil Chg,M3,3,0,1,0,0,N/A,N/A,15555,C&I,1,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,53459,C&I,1,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,66176,C&I,1,VRP
+350,Skips,351232,Tip P/Tonne 12M Skip Bin,TON,0,0,1,0,0,N/A,N/A,46639,C&I,0,VRP
+130,Front Lift Organic,133042,Remove 3.0M Organic Bin,EA,0,0,0,0,0,Front Lift,Organic,30357,C&I,0,VRP
+350,Skips,350942,Remove 9.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,73152,C&I,0,VRP
+180,Front Lift Recycling,183072,Clear 3.0M Rec Nil Charge,M3,3,0,1,0,0,Front Lift,Recycling,91578,C&I,1,VRP
+570,MGB Confidential,571400,Clear 140LT Conf Cart,M3,0.14,0,1,0,0,N/A,N/A,61856,C&I,1,VRP
+200,Roll On Roll Off,202532,Tip P/Tonne 25M Bin,TON,0,0,1,0,0,RORO,General Waste,6326,C&I,0,VRP
+580,MGB Commercial Recycling,580003,Waste In Bin On Exchange,M3,1,0,1,0,0,Rear Lift,Recycling,52137,C&I,1,VRP
+570,MGB Confidential,572441,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,75426,C&I,0,VRP
+500,MGB Rear Lift,502443,Exchange 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,77313,C&I,0,VRP
+500,MGB Rear Lift,501141,Deliver 1.1M Bin,EA,0,0,0,0,0,Rear Lift,General Waste,26617,C&I,0,VRP
+560,MGB Clinical,562442,Remove 240LT Clinical Bin,EA,0,0,0,0,0,N/A,N/A,33599,C&I,0,VRP
+240,Hook Lift,241200,Clear 12M Bin (HL),M3,12,0,1,0,0,RORO,General Waste,76826,C&I,1,VRP
+100,Front Lift,100040,Repair Bin,EA,0,0,0,0,0,Front Lift,General Waste,80607,C&I,0,VRP
+350,Skips,350300,Clear 3.0M Skip Bin,M3,3,0,1,0,0,N/A,N/A,55888,C&I,1,VRP
+100,Front Lift,100049,Sundry Item,EA,0,0,0,0,0,Front Lift,General Waste,69014,C&I,0,VRP
+180,Front Lift Recycling,183072,Clear 3.0M Rec Nil Charge,M3,3,0,1,0,0,Front Lift,Recycling,69296,C&I,1,VRP
+660,MGB Medical\Pathological,664047,Bin Liners,EA,0,0,0,0,0,N/A,N/A,37918,C&I,0,VRP
+180,Front Lift Recycling,183010,Rent 3.0M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,79243,C&I,0,VRP
+280,Roll On Roll Off Recyclin,281532,Tip P/Tonne 15M Recycle,TON,0,0,1,0,0,RORO,Recycling,70356,C&I,0,VRP
+555,MGB Refresh Hygienic,557171,Extra Serv Manual SaniPod,EA,0,0,0,0,0,N/A,N/A,82718,C&I,0,VRP
+300,Lift On,300036,Tip P/Qty Waste,EA,0,0,1,0,0,N/A,N/A,76770,C&I,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,50640,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,53758,Sale of Other,0,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,20584,C&I,1,VRP
+500,MGB Rear Lift,502442,Remove 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,86716,C&I,0,VRP
+454,Subcontractor MGB Sharps,454041,Deliver Sharps Bin,EA,0,0,0,0,0,N/A,N/A,66089,C&I,0,VRP
+150,Front Lift Clean Up,153010,Rent 3.0M Clean Up Bin,EA,0,1,0,0,0,N/A,N/A,80275,C&I,0,VRP
+580,MGB Commercial Recycling,586607,Clear Cust 660LT Recycle,M3,0.66,0,1,0,1,Rear Lift,Recycling,67608,C&I,1,VRP
+560,MGB Clinical,560048,Bars \ Locks \ Keys,EA,0,0,0,0,0,N/A,N/A,10217,C&I,0,VRP
+710,Septic,710076,EPA Docket Charge,EA,0,0,0,0,0,N/A,N/A,64555,Liquid,0,VRP
+300,Lift On,300932,Tip P/Tonne 9.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,91079,C&I,0,VRP
+300,Lift On,300841,Deliver 8.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,82305,C&I,0,VRP
+300,Lift On,301032,Tip P/Tonne 10M Bin (LO),TON,0,0,1,0,0,N/A,N/A,80557,C&I,0,VRP
+200,Roll On Roll Off,201510,Rent 15M Bin,EA,0,1,0,0,0,RORO,General Waste,46766,C&I,0,VRP
+350,Skips,350233,Tip P/M3 2.0M Skip,M3,0,0,1,0,0,N/A,N/A,57673,C&I,0,VRP
+580,MGB Commercial Recycling,586641,Deliver 660LT RecycleCart,EA,0,0,0,0,0,Rear Lift,Recycling,69713,C&I,0,VRP
+350,Skips,350400,Clear 4.0M Skip Bin,M3,4,0,1,0,0,N/A,N/A,16694,C&I,1,VRP
+300,Lift On,300632,Tip P/Tonne 6.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,50020,C&I,0,VRP
+280,Roll On Roll Off Recyclin,283142,Remove 31M Recycle Bin,EA,0,0,0,0,0,RORO,Recycling,1122,C&I,0,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,71204,C&I,1,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,78739,Sale of Other,0,VRP
+180,Front Lift Recycling,181542,Remove 1.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,70273,C&I,0,VRP
+710,Septic,710142,Remove Portable Toilet,EA,0,0,0,0,0,N/A,N/A,25624,Liquid,0,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,66587,C&I,1,VRP
+480,Subcontractor Miscellaneo,480079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,84738,C&I,0,VRP
+900,Miscellaneous,900095,Docket Number,EA,0,0,0,0,0,N/A,N/A,86913,Sale of Other,0,VRP
+180,Front Lift Recycling,183010,Rent 3.0M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,64089,C&I,0,VRP
+210,Roll On Roll Off Packer,210055,Charge Attendance,EA,0,0,0,0,0,RORO,General Waste,16436,C&I,0,VRP
+180,Front Lift Recycling,181541,Deliver 1.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,86708,C&I,0,VRP
+710,Septic,710110,Rent Portable Toilet,EA,0,1,0,0,0,N/A,N/A,72742,Liquid,0,VRP
+750,Environmental Services,750007,Chemical Collection,EA,0,0,1,0,0,N/A,N/A,88692,Liquid,0,VRP
+350,Skips,350432,Tip P/Tonne 4.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,8095,C&I,0,VRP
+180,Front Lift Recycling,186007,Clear Customer 6.0M Recyc,M3,6,0,1,0,1,Front Lift,Recycling,15427,C&I,1,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,77473,Sale of Other,0,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,82147,C&I,1,VRP
+300,Lift On,300242,Remove 2.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,63422,C&I,0,VRP
+100,Front Lift,101543,Exchange 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,50157,C&I,0,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,74018,C&I,1,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,83762,C&I,0,VRP
+100,Front Lift,100003,Waste In Bin On Exchange,M3,1,0,1,0,0,Front Lift,General Waste,70495,C&I,1,VRP
+580,MGB Commercial Recycling,580049,Sundry Item,EA,0,0,0,0,0,Rear Lift,Recycling,64480,C&I,0,VRP
+570,MGB Confidential,572472,Clear 240LT Conf Nil Chg,M3,0.24,0,1,0,0,N/A,N/A,26100,C&I,1,VRP
+580,MGB Commercial Recycling,586772,Clear 660LT PapRec NilChg,M3,0.66,0,1,0,0,Rear Lift,Recycling,72254,C&I,1,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,79999,C&I,1,VRP
+300,Lift On,300300,Clear 3.0M Bin (LO),M3,3,0,1,0,0,N/A,N/A,50161,C&I,1,VRP
+580,MGB Commercial Recycling,586643,Exchange 660LT Recycle Ca,EA,0,0,0,0,0,Rear Lift,Recycling,22646,C&I,0,VRP
+410,Subcontractor Front Lift,410048,Bars \ Locks \ Keys,EA,0,0,0,0,0,N/A,N/A,80358,C&I,0,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,3915,C&I,0,VRP
+480,Subcontractor Miscellaneo,484026,Collect Batteries P/Qty,EA,0,0,1,0,0,N/A,N/A,75606,C&I,0,VRP
+350,Skips,350632,Tip P/Tonne 6.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,1621,C&I,0,VRP
+700,Liquid,704750,TripleIntercept Serv P/Hr,HR,0,0,1,0,0,N/A,N/A,78271,Liquid,0,VRP
+260,Hook Lift Small,267542,Remove 7.5M Bin (HL),EA,0,0,0,0,0,N/A,N/A,56487,C&I,0,VRP
+457,Subcontractor MGB Confidential,457942,Remove 120LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,51756,C&I,0,VRP
+300,Lift On,300942,Remove 9.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,63900,C&I,0,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,22097,C&I,0,VRP
+700,Liquid,700091,Debit Adjustment,ADJ,0,0,0,0,0,N/A,N/A,78541,Liquid,0,VRP
+250,Hook Lift Packer,253000,Clear 30M Packer (HL),M3,30,0,1,0,0,RORO,General Waste,91274,C&I,1,VRP
+500,MGB Rear Lift,502410,Rent 240LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,78236,C&I,0,VRP
+350,Skips,350841,Deliver 8.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,54844,C&I,0,VRP
+500,MGB Rear Lift,506610,Rent 660LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,27712,C&I,0,VRP
+850,Recycled Product,850027,Baling Service,EA,0,0,1,0,0,N/A,N/A,92060,Sale of Other,0,VRP
+100,Front Lift,103040,Repair 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,88325,C&I,0,VRP
+350,Skips,352342,Remove 23M Skip Bin,EA,0,0,0,0,0,N/A,N/A,40657,C&I,0,VRP
+180,Front Lift Recycling,184500,Clear 4.5M Recycle Bin,M3,4.5,0,1,0,1,Front Lift,Recycling,81706,C&I,1,VRP
+730,Grease Trap,730024,Grease Trap Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,17331,Liquid,0,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,61886,C&I,1,VRP
+100,Front Lift,100055,Charge Attendance,EA,0,0,0,0,0,Front Lift,General Waste,74380,C&I,0,VRP
+640,MGB Beckton & Dickenson S,641900,Service 19LT B&D Sharps,M3,0.02,0,1,0,0,N/A,N/A,21732,C&I,1,VRP
+200,Roll On Roll Off,203032,Tip P/Tonne 30M Bin,TON,0,0,1,0,0,RORO,General Waste,11094,C&I,0,VRP
+580,MGB Commercial Recycling,581141,Deliver 1100LT Recycle Ca,EA,0,0,0,0,0,Rear Lift,Recycling,76434,C&I,0,VRP
+180,Front Lift Recycling,183010,Rent 3.0M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,38173,C&I,0,VRP
+600,MGB Co-Mingle,602441,Deliver 240LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,65288,C&I,0,VRP
+670,MGB Side Lift Recycling,672594,Rebate for Plastic,TON,0,0,1,0,0,N/A,N/A,34797,Rebate,0,VRP
+100,Front Lift,100017,Equipment Hire,EA,0,1,0,0,0,Front Lift,General Waste,48051,C&I,0,VRP
+200,Roll On Roll Off,202572,Clear 25M Bin Nil Charge,M3,25,0,1,0,0,RORO,General Waste,2994,C&I,1,VRP
+550,MGB Hygienic,550041,Deliver Sanitary Bin,EA,0,0,0,0,0,N/A,N/A,31112,C&I,0,VRP
+570,MGB Confidential,572472,Clear 240LT Conf Nil Chg,M3,0.24,0,1,0,0,N/A,N/A,67653,C&I,1,VRP
+710,Septic,710030,Tip P/Load Septic,EA,0,0,1,0,0,N/A,N/A,11326,Liquid,0,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,74418,Sale of Other,0,VRP
+180,Front Lift Recycling,183040,Repair 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,22236,C&I,0,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,384,Sale of Other,0,VRP
+580,MGB Commercial Recycling,582442,Remove 240LT Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,60380,C&I,0,VRP
+750,Environmental Services,750321,Waste Oil Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,61938,Liquid,0,VRP
+240,Hook Lift,241032,Tip P/Tonne 10M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,77304,C&I,0,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,85053,C&I,1,VRP
+580,MGB Commercial Recycling,586600,Clear 660LT Recycle Cart,M3,0.66,0,1,0,1,Rear Lift,Recycling,77742,C&I,1,VRP
+350,Skips,351000,Clear 10M Skip Bin,M3,10,0,1,0,0,N/A,N/A,56783,C&I,1,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,49277,C&I,1,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,72482,Sale of Other,0,VRP
+100,Front Lift,100002,Waste In Bin On Removal,M3,1,0,1,0,0,Front Lift,General Waste,56307,C&I,1,VRP
+200,Roll On Roll Off,202332,Tip P/Tonne 23M Bin,TON,0,0,1,0,0,RORO,General Waste,37625,C&I,0,VRP
+350,Skips,351200,Clear 12M Skip Bin,M3,12,0,1,0,0,N/A,N/A,1876,C&I,1,VRP
+240,Hook Lift,243072,Clear 30M Bin Nil Charge,M3,30,0,1,0,0,RORO,General Waste,74300,C&I,1,VRP
+350,Skips,350054,Time on Site,HR,0,0,0,0,0,N/A,N/A,22241,C&I,0,VRP
+555,MGB Refresh Hygienic,558000,Service Soap Foam Manual,EA,0,0,1,0,0,N/A,N/A,57558,C&I,1,VRP
+555,MGB Refresh Hygienic,557271,Extra Serv Air Fresh Fan,EA,0,0,0,0,0,N/A,N/A,57512,C&I,0,VRP
+730,Grease Trap,730024,Grease Trap Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,78185,Liquid,0,VRP
+500,MGB Rear Lift,502407,Clear Customer 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,86287,C&I,1,VRP
+240,Hook Lift,241542,Remove 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,66651,C&I,0,VRP
+300,Lift On,300633,Tip P/M3 6.0M Bin (LO),M3,0,0,1,0,0,N/A,N/A,89283,C&I,0,VRP
+180,Front Lift Recycling,184542,Remove 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,33090,C&I,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,50751,C&I,0,VRP
+800,Total Waste Management,800137,Tip Extra Charge,EA,0,0,1,0,0,N/A,N/A,58643,C&I,0,VRP
+240,Hook Lift,241232,Tip P/Tonne 12M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,81904,C&I,0,VRP
+500,MGB Rear Lift,509915,Fuel Surcharge Rear Lift,EA,0,0,0,0,0,Rear Lift,General Waste,36280,C&I,0,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,74994,C&I,0,VRP
+480,Subcontractor Miscellaneo,481331,Tip P/KG Aerosol Cans,KG,0,0,1,0,0,N/A,N/A,92413,C&I,0,VRP
+380,Lift On Recycling,380045,Bin Cleaning,EA,0,0,0,0,0,N/A,N/A,72832,C&I,0,VRP
+660,MGB Medical\Pathological,669125,Weight of Quarantine KGS,KG,1,0,1,0,0,N/A,N/A,11697,C&I,0,VRP
+130,Front Lift Organic,130068,Org Wkly SchedVisitCharge,EA,0,0,1,0,0,Front Lift,Organic,40019,C&I,0,VRP
+600,MGB Co-Mingle,602442,Remove 240LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,80138,C&I,0,VRP
+200,Roll On Roll Off,203042,Remove 30M Bin,EA,0,0,0,0,0,RORO,General Waste,78558,C&I,0,VRP
+600,MGB Co-Mingle,606610,Rent 660LT Co-Mingle Cart,EA,0,1,0,0,0,Rear Lift,Co-Mingle,42798,C&I,0,VRP
+100,Front Lift,101580,Charge 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,81098,C&I,0,VRP
+580,MGB Commercial Recycling,581143,Exchange 1100LT Recycle C,EA,0,0,0,0,0,Rear Lift,Recycling,67607,C&I,0,VRP
+180,Front Lift Recycling,183010,Rent 3.0M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,12312,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,81059,Sale of Other,0,VRP
+200,Roll On Roll Off,203000,Clear 30M Bin,M3,30,0,1,0,0,RORO,General Waste,33216,C&I,1,VRP
+350,Skips,350241,Deliver 2.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,74517,C&I,0,VRP
+180,Front Lift Recycling,184511,Rent Monthly 4.5M Recycle,EA,0,1,0,0,0,Front Lift,Recycling,60307,C&I,0,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,87766,C&I,0,VRP
+600,MGB Co-Mingle,602442,Remove 240LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,33226,C&I,0,VRP
+190,Front Lift Co-Mingle,194500,Clear 4.5M Co-Mingle Bin,M3,4.5,0,1,1,1,Front Lift,Co-Mingle,66718,C&I,1,VRP
+570,MGB Confidential,579630,Tip P/Load Pallet,EA,0,0,1,0,0,N/A,N/A,15079,C&I,0,VRP
+550,MGB Hygienic,550049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,90463,C&I,0,VRP
+350,Skips,350672,Clear 6.0M Skip Nil Chg,M3,6,0,1,0,0,N/A,N/A,68521,C&I,1,VRP
+350,Skips,350342,Remove 3.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,77908,C&I,0,VRP
+250,Hook Lift Packer,252500,Clear 25M Packer (HL),M3,25,0,1,0,0,RORO,General Waste,90230,C&I,1,VRP
+480,Subcontractor Miscellaneo,480042,Remove Equipment,EA,0,0,0,0,0,N/A,N/A,14811,C&I,0,VRP
+350,Skips,352500,Clear 2.5M Skip Bin,M3,2.5,0,1,0,0,N/A,N/A,80495,C&I,1,VRP
+555,MGB Refresh Hygienic,550981,Mth Chg Nappy Wrap Unit,EA,0,0,0,0,0,N/A,N/A,89248,C&I,0,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,67428,Sale of Other,0,VRP
+200,Roll On Roll Off,201210,Rent 12M Bin,EA,0,1,0,0,0,RORO,General Waste,28600,C&I,0,VRP
+240,Hook Lift,241832,Tip P/Tonne 18M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,71954,C&I,0,VRP
+600,MGB Co-Mingle,601142,Remove 1100LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,63456,C&I,0,VRP
+180,Front Lift Recycling,183042,Remove 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,3888,C&I,0,VRP
+100,Front Lift,103040,Repair 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,71316,C&I,0,VRP
+100,Front Lift,101511,Rent Monthly 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,55684,C&I,0,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,68576,C&I,1,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,90306,Sale of Other,0,VRP
+471,Subcontractor Septic,471050,Septic Service P/Hour,HR,0,0,1,0,0,N/A,N/A,52046,C&I,0,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,58969,C&I,1,VRP
+350,Skips,350841,Deliver 8.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,72956,C&I,0,VRP
+600,MGB Co-Mingle,601142,Remove 1100LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,44506,C&I,0,VRP
+100,Front Lift,104511,Rent Monthly 4.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,68719,C&I,0,VRP
+555,MGB Refresh Hygienic,550900,Service Nappy Wrapper Uni,M3,0.04,0,1,0,0,N/A,N/A,71695,C&I,1,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,64648,Sale of Other,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,75814,C&I,1,VRP
+700,Liquid,700056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,69690,Liquid,0,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,88236,Sale of Other,0,VRP
+240,Hook Lift,242032,Tip P/Tonne 20M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,86545,C&I,0,VRP
+456,Subcontractor MGB Clinical,456411,Rent Monthly 240LT Clinic,EA,0,1,0,0,0,N/A,N/A,92350,C&I,0,VRP
+240,Hook Lift,243042,Remove 30M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,66584,C&I,0,VRP
+555,MGB Refresh Hygienic,550970,Cont Serv Nappy Wrap Unit,M3,0.04,0,1,0,0,N/A,N/A,65278,C&I,0,VRP
+750,Environmental Services,750055,Charge Attendance,EA,0,0,0,0,0,N/A,N/A,80270,Liquid,0,VRP
+240,Hook Lift,243000,Clear 30M Bin (HL),M3,30,0,1,0,0,RORO,General Waste,85097,C&I,1,VRP
+340,Skips Recycling,340610,Rent 6.0M Recycle Skip Bi,EA,0,1,0,0,0,N/A,N/A,18036,C&I,0,VRP
+200,Roll On Roll Off,202542,Remove 25M Bin,EA,0,0,0,0,0,RORO,General Waste,26089,C&I,0,VRP
+670,MGB Side Lift Recycling,679172,Clear Cardboard Bale Nil,M3,1,0,1,0,0,N/A,N/A,73317,C&I,1,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,92014,Sale of Other,0,VRP
+350,Skips,350432,Tip P/Tonne 4.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,52433,C&I,0,VRP
+710,Septic,710079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,90150,Liquid,0,VRP
+350,Skips,350942,Remove 9.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,70758,C&I,0,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,86947,C&I,0,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,56926,Sale of Other,0,VRP
+100,Front Lift,103011,Rent Monthly 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,61782,C&I,0,VRP
+350,Skips,353110,Rent 31M Skip Bin,EA,0,1,0,0,0,N/A,N/A,4642,C&I,0,VRP
+180,Front Lift Recycling,181541,Deliver 1.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,29845,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,75053,Sale of Other,0,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,76529,Sale of Other,0,VRP
+580,MGB Commercial Recycling,582410,Rent 240LT Recycle Cart,EA,0,1,0,0,0,Rear Lift,Recycling,62916,C&I,0,VRP
+555,MGB Refresh Hygienic,557270,Cont Serv Air Fresh Fan,EA,0,0,1,0,0,N/A,N/A,53308,C&I,0,VRP
+350,Skips,350632,Tip P/Tonne 6.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,4028,C&I,0,VRP
+457,Subcontractor MGB Confidential,457200,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,15557,C&I,1,VRP
+200,Roll On Roll Off,200049,Sundry Item,EA,0,0,0,0,0,RORO,General Waste,56875,C&I,0,VRP
+210,Roll On Roll Off Packer,212342,Remove 23M Packer,EA,0,0,0,0,0,RORO,General Waste,43506,C&I,0,VRP
+170,Front Lift Domestic Recycling,173072,Clear 3.0M MuniRec NilChg,M3,3,0,1,0,0,N/A,N/A,15821,C&I,1,VRP
+470,Subcontractor Liquid,470049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,81813,C&I,0,VRP
+660,MGB Medical\Pathological,661641,Deliver 240LT Cytotoxic B,EA,0,0,0,0,0,N/A,N/A,56633,C&I,0,VRP
+180,Front Lift Recycling,184507,Clear Customer 4.5M Recyc,M3,4.5,0,1,0,1,Front Lift,Recycling,80345,C&I,1,VRP
+570,MGB Confidential,571200,Clear 120LT Conf Cart,M3,0.12,0,1,0,0,N/A,N/A,56372,C&I,1,VRP
+700,Liquid,700051,Truck Hire P/Hour,HR,0,0,0,0,0,N/A,N/A,91478,Liquid,0,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,50464,C&I,0,VRP
+300,Lift On,301232,Tip P/Tonne 12M Bin (LO),TON,0,0,1,0,0,N/A,N/A,52123,C&I,0,VRP
+480,Subcontractor Miscellaneo,480056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,68348,C&I,0,VRP
+580,MGB Commercial Recycling,582400,Clear 240LT Recycle Cart,M3,0.24,0,1,0,1,Rear Lift,Recycling,71698,C&I,1,VRP
+350,Skips,350972,Clear 9.0M Skip Nil Chg,M3,9,0,1,0,0,N/A,N/A,75475,C&I,1,VRP
+100,Front Lift,101543,Exchange 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,78301,C&I,0,VRP
+600,MGB Co-Mingle,606600,Clear 660LT Co-Mingle Car,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,51800,C&I,1,VRP
+300,Lift On,300933,Tip P/M3 9.0M Bin (LO),M3,0,0,1,0,0,N/A,N/A,63163,C&I,0,VRP
+200,Roll On Roll Off,201000,Clear 10M Bin,M3,10,0,1,0,0,RORO,General Waste,55882,C&I,1,VRP
+300,Lift On,301142,Remove 11M Bin (LO),EA,0,0,0,0,0,N/A,N/A,50596,C&I,0,VRP
+300,Lift On,300632,Tip P/Tonne 6.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,61855,C&I,0,VRP
+600,MGB Co-Mingle,602400,Clear 240LT Co-Mingle Car,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,7974,C&I,1,VRP
+555,MGB Refresh Hygienic,557270,Cont Serv Air Fresh Fan,EA,0,0,1,0,0,N/A,N/A,82285,C&I,0,VRP
+600,MGB Co-Mingle,606641,Deliver 660LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,89193,C&I,0,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,73061,C&I,1,VRP
+555,MGB Refresh Hygienic,557170,Cont Serv Manual SaniPod,EA,0,0,1,0,0,N/A,N/A,65279,C&I,0,VRP
+300,Lift On,300442,Remove 4.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,54757,C&I,0,VRP
+580,MGB Commercial Recycling,582400,Clear 240LT Recycle Cart,M3,0.24,0,1,0,1,Rear Lift,Recycling,84893,C&I,1,VRP
+100,Front Lift,104541,Deliver 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,60508,C&I,0,VRP
+100,Front Lift,102611,Rent Monthly 2.6M Bin,EA,0,1,0,0,0,Front Lift,General Waste,86705,C&I,0,VRP
+240,Hook Lift,243042,Remove 30M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,91648,C&I,0,VRP
+240,Hook Lift,243041,Deliver 30M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,60848,C&I,0,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,51644,C&I,0,VRP
+350,Skips,350842,Remove 8.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,83182,C&I,0,VRP
+350,Skips,351542,Remove 15M Skip Bin,EA,0,0,0,0,0,N/A,N/A,2366,C&I,0,VRP
+710,Septic,710024,Septic Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,72651,Liquid,0,VRP
+100,Front Lift,100037,Levy Council Permit,EA,0,0,1,0,0,Front Lift,General Waste,89634,C&I,0,VRP
+580,MGB Commercial Recycling,581241,Deliver 120LT Recycle Car,EA,0,0,0,0,0,Rear Lift,Recycling,72959,C&I,0,VRP
+280,Roll On Roll Off Recyclin,283110,Rent 31M Recycle Bin,EA,0,1,0,0,0,RORO,Recycling,10458,C&I,0,VRP
+240,Hook Lift,241100,Clear 11M Bin (HL),M3,11,0,1,0,0,RORO,General Waste,53365,C&I,1,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,40553,C&I,1,VRP
+100,Front Lift,100002,Waste in Bin on Removal,M3,1,0,1,0,0,Front Lift,General Waste,39132,C&I,1,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,65189,C&I,0,VRP
+190,Front Lift Co-Mingle,193000,Clear 3.0M Co-Mingle Bin,M3,3,0,1,1,1,Front Lift,Co-Mingle,85795,C&I,1,VRP
+555,MGB Refresh Hygienic,557171,Extra Serv Manual SaniPod,EA,0,0,0,0,0,N/A,N/A,76043,C&I,0,VRP
+730,Grease Trap,730079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,68635,Liquid,0,VRP
+190,Front Lift Co-Mingle,193042,Remove 3.0M Co-Mingle Bin,EA,0,0,0,0,0,Front Lift,Co-Mingle,73265,C&I,0,VRP
+700,Liquid,700334,Tip P/LTR Waste Oil,LTR,0,0,1,0,0,N/A,N/A,76744,Liquid,0,VRP
+350,Skips,350641,Deliver 6.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,49778,C&I,0,VRP
+580,MGB Commercial Recycling,586641,Deliver 660LT RecycleCart,EA,0,0,0,0,0,Rear Lift,Recycling,24833,C&I,0,VRP
+300,Lift On,300732,Tip P/Tonne 7.5M Bin (LO),TON,0,0,1,0,0,N/A,N/A,50367,C&I,0,VRP
+456,Subcontractor MGB Clinical,459641,Deliver 64LT Clinical Bin,EA,0,0,0,0,0,N/A,N/A,74739,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,84451,Sale of Other,0,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,56070,C&I,1,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,59576,C&I,1,VRP
+500,MGB Rear Lift,500110,Rent 1100LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,21621,C&I,0,VRP
+600,MGB Co-Mingle,606641,Deliver 660LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,90714,C&I,0,VRP
+350,Skips,350600,Clear 6.0M Skip Bin,M3,6,0,1,0,0,N/A,N/A,26734,C&I,1,VRP
+630,MGB Bio Can Sharps,633200,Service 3.2LT Bio Sharps,M3,0.01,0,1,0,0,N/A,N/A,3638,C&I,1,VRP
+100,Front Lift,101540,Repair 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,77862,C&I,0,VRP
+180,Front Lift Recycling,181541,Deliver 1.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,80586,C&I,0,VRP
+500,MGB Rear Lift,506610,Rent 660LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,53718,C&I,0,VRP
+180,Front Lift Recycling,183040,Repair 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,82463,C&I,0,VRP
+100,Front Lift,102042,Remove 2.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,61826,C&I,0,VRP
+500,MGB Rear Lift,506642,Remove 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,65396,C&I,0,VRP
+480,Subcontractor Miscellaneo,480124,Clear 1000LT IBC P/LTR,LTR,0,0,1,0,0,N/A,N/A,65046,C&I,1,VRP
+500,MGB Rear Lift,500141,Deliver 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,97023,C&I,0,VRP
+730,Grease Trap,730056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,58671,Liquid,0,VRP
+560,MGB Clinical,562000,Clear 20LT Clinical Bin,M3,0.02,0,1,0,0,N/A,N/A,92583,C&I,1,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,72089,C&I,0,VRP
+190,Front Lift Co-Mingle,191541,Deliver 1.5M Co-Mingle Bi,EA,0,0,0,0,0,Front Lift,Co-Mingle,81707,C&I,0,VRP
+100,Front Lift,104500,Clear 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,65999,C&I,1,VRP
+540,MGB Sharps,543000,Service 3.0LT Sharps Bin,M3,0.01,0,1,0,0,N/A,N/A,20084,C&I,1,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,69540,C&I,0,VRP
+100,Front Lift,100045,Bin Cleaning,EA,0,0,0,0,0,Front Lift,General Waste,27588,C&I,0,VRP
+500,MGB Rear Lift,502472,Clear 240LT Cart Nil Chg,M3,0.24,0,1,0,0,Rear Lift,General Waste,3122,C&I,1,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,82388,C&I,1,VRP
+100,Front Lift,103040,Repair 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,38172,C&I,0,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,74378,Sale of Other,0,VRP
+500,MGB Rear Lift,501100,Clear 1.1M Bin,M3,1.1,0,1,1,1,Rear Lift,General Waste,83154,C&I,1,VRP
+300,Lift On,300441,Deliver 4.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,83949,C&I,0,VRP
+600,MGB Co-Mingle,602400,Clear 240LT Co-Mingle Car,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,52265,C&I,1,VRP
+555,MGB Refresh Hygienic,557281,Mth Charge Air Fresh Fan,EA,0,0,0,0,0,N/A,N/A,73108,C&I,0,VRP
+300,Lift On,301132,Tip P/Tonne 11M Bin (LO),TON,0,0,1,0,0,N/A,N/A,60447,C&I,0,VRP
+200,Roll On Roll Off,201572,Clear 15M Bin Nil Charge,M3,15,0,1,0,0,RORO,General Waste,56904,C&I,1,VRP
+600,MGB Co-Mingle,606642,Remove 660LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,3127,C&I,0,VRP
+710,Septic,710034,Tip P/LTR Septic,LTR,0,0,1,0,0,N/A,N/A,87048,Liquid,0,VRP
+700,Liquid,709636,Tip P/Qty 205LT Drum,EA,0,0,1,0,0,N/A,N/A,90349,Liquid,0,VRP
+300,Lift On,301233,Tip P/M3 12M Bin (LO),M3,0,0,1,0,0,N/A,N/A,54193,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,65226,Sale of Other,0,VRP
+350,Skips,350272,Clear 2.0M Skip Nil Chg,M3,2,0,1,0,0,N/A,N/A,52023,C&I,1,VRP
+500,MGB Rear Lift,506640,Repair 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,42030,C&I,0,VRP
+580,MGB Commercial Recycling,582441,Deliver 240LT Recyc Cart,EA,0,0,0,0,0,Rear Lift,Recycling,79390,C&I,0,VRP
+670,MGB Side Lift Recycling,672594,Rebate for Plastic,TON,0,0,1,0,0,N/A,N/A,38429,Rebate,0,VRP
+300,Lift On,300456,Transportation P/Load,EA,0,0,1,0,0,N/A,N/A,87220,C&I,0,VRP
+300,Lift On,300400,Clear 4.0M Bin (LO),M3,4,0,1,0,0,N/A,N/A,91630,C&I,1,VRP
+240,Hook Lift,241041,Deliver 10M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,62160,C&I,0,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,77792,Sale of Other,0,VRP
+200,Roll On Roll Off,201244,Relocate 12M Bin,EA,0,0,0,0,0,RORO,General Waste,14805,C&I,0,VRP
+600,MGB Co-Mingle,609915,Fuel Surcharge Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,86561,C&I,0,VRP
+130,Front Lift Organic,133000,Clear 3.0M Organic Bin,M3,3,0,1,1,1,Front Lift,Organic,65890,C&I,1,VRP
+500,MGB Rear Lift,502410,Rent 240LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,76714,C&I,0,VRP
+240,Hook Lift,240052,Labour Hire P/Hour,HR,0,0,0,0,0,RORO,General Waste,52090,C&I,0,VRP
+600,MGB Co-Mingle,601007,Clear Cust 1000LT Co-Ming,M3,1,0,1,1,1,Rear Lift,Co-Mingle,74326,C&I,1,VRP
+100,Front Lift,102010,Rent 2.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,80473,C&I,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,86267,C&I,0,VRP
+500,MGB Rear Lift,509100,Clear 1000LT Cart,M3,1,0,1,1,1,Rear Lift,General Waste,63173,C&I,1,VRP
+100,Front Lift,102000,Clear 2.0M Bin,M3,2,0,1,1,1,Front Lift,General Waste,61601,C&I,1,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,74268,C&I,0,VRP
+300,Lift On,300941,Deliver 9.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,55725,C&I,0,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,63524,C&I,1,VRP
+480,Subcontractor Miscellaneo,480030,Tip P/Load Waste,EA,0,0,1,0,0,N/A,N/A,54294,C&I,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,86071,C&I,1,VRP
+750,Environmental Services,750021,Clr Hazardous Waste P/KG,KG,0,0,1,0,0,N/A,N/A,80410,Liquid,0,VRP
+700,Liquid,700034,Tip P/LTR Liquid,LTR,0,0,1,0,0,N/A,N/A,59091,Liquid,0,VRP
+100,Front Lift,103040,Repair 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,21353,C&I,0,VRP
+730,Grease Trap,730024,Grease Trap Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,68226,Liquid,0,VRP
+100,Front Lift,100040,Repair Bin,EA,0,0,0,0,0,Front Lift,General Waste,38773,C&I,0,VRP
+580,MGB Commercial Recycling,582341,Deliver 240LT PapRec Cart,EA,0,0,0,0,0,Rear Lift,Recycling,90049,C&I,0,VRP
+150,Front Lift Clean Up,153041,Deliver 3.0M Clean Up Bin,EA,0,0,0,0,0,N/A,N/A,55296,C&I,0,VRP
+900,Miscellaneous,900090,Credit Adjustment,ADJ,0,0,0,0,0,N/A,N/A,91205,Sale of Other,0,VRP
+200,Roll On Roll Off,201542,Remove 15M Bin,EA,0,0,0,0,0,RORO,General Waste,17323,C&I,0,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,63219,C&I,0,VRP
+200,Roll On Roll Off,200310,Rent 3.0M Bin,EA,0,1,0,0,0,RORO,General Waste,24700,C&I,0,VRP
+100,Front Lift,101511,Rent Monthly 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,43502,C&I,0,VRP
+560,MGB Clinical,560055,Charge Attendance,EA,0,0,0,0,0,N/A,N/A,55307,C&I,0,VRP
+900,Miscellaneous,900100,Late Payment Fee - GST,EA,0,0,0,0,0,N/A,N/A,32243,Sale of Other,0,VRP
+180,Front Lift Recycling,181100,Clear 1.1M Recycle Bin,M3,1.1,0,1,0,1,Front Lift,Recycling,66679,C&I,1,VRP
+580,MGB Commercial Recycling,581100,Clear 1100LT Recycle Cart,M3,1.1,0,1,0,1,Rear Lift,Recycling,86476,C&I,1,VRP
+473,Subcontractor Grease Trap,473024,Grease Trap Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,84736,C&I,0,VRP
+300,Lift On,300500,Clear 5.0M Bin (LO),M3,5,0,1,0,0,N/A,N/A,88456,C&I,1,VRP
+100,Front Lift,103007,Clear Customer 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,68957,C&I,1,VRP
+350,Skips,351500,Clear 15M Skip Bin,M3,15,0,1,0,0,N/A,N/A,33708,C&I,1,VRP
+280,Roll On Roll Off Recyclin,283032,Tip P/Tonne 30M Recycle,TON,0,0,1,0,0,RORO,Recycling,84312,C&I,0,VRP
+480,Subcontractor Miscellaneo,480056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,77700,C&I,0,VRP
+200,Roll On Roll Off,201542,Remove 15M Bin,EA,0,0,0,0,0,RORO,General Waste,13694,C&I,0,VRP
+240,Hook Lift,242341,Deliver 23M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,59836,C&I,0,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,55919,Sale of Other,0,VRP
+580,MGB Commercial Recycling,582400,Clear 240LT Recycle Cart,M3,0.24,0,1,0,1,Rear Lift,Recycling,34657,C&I,1,VRP
+992,Adjustments,999942,Reallocation Jnl DR,EA,0,0,0,0,0,N/A,N/A,90874,Sale of Other,0,VRP
+700,Liquid,700049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,63494,Liquid,0,VRP
+240,Hook Lift,241532,Tip P/Tonne 15M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,72599,C&I,0,VRP
+473,Subcontractor Grease Trap,473024,Grease Trap Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,52047,C&I,0,VRP
+100,Front Lift,100090,Credit Adjustment,ADJ,0,0,0,0,0,Front Lift,General Waste,1612,C&I,0,VRP
+500,MGB Rear Lift,501241,Deliver 120LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,65785,C&I,0,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,91167,C&I,0,VRP
+500,MGB Rear Lift,501107,Clear Customer 1.1M Bin,M3,1.1,0,1,1,1,Rear Lift,General Waste,65115,C&I,1,VRP
+350,Skips,352541,Deliver 2.5M Skip Bin,EA,0,0,0,0,0,N/A,N/A,88690,C&I,0,VRP
+350,Skips,350872,Clear 8.0M Skip Nil Chg,M3,8,0,1,0,0,N/A,N/A,51219,C&I,1,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,90788,C&I,0,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,51574,C&I,1,VRP
+650,MGB Pathological\Infectio,651441,Deliver 1.4LT P&I Sharps,EA,0,0,0,0,0,N/A,N/A,3387,C&I,0,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,34781,C&I,1,VRP
+730,Grease Trap,730072,Grease Trap Serv Nil Chg,EA,0,0,1,0,0,N/A,N/A,52408,Liquid,0,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,15835,C&I,1,VRP
+530,MGB Green Waste/Organics,536700,Clear 660LT Organics,M3,0.66,0,1,1,1,Rear Lift,Organic,76104,C&I,1,VRP
+100,Front Lift,100090,Credit Adjustment,ADJ,0,0,0,0,0,Front Lift,General Waste,60574,C&I,0,VRP
+500,MGB Rear Lift,506610,Rent 660LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,52406,C&I,0,VRP
+100,Front Lift,104511,Rent Monthly 4.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,36544,C&I,0,VRP
+100,Front Lift,102011,Rent Monthly 2.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,60334,C&I,0,VRP
+570,MGB Confidential,572410,Rent 240LT Conf Cart,EA,0,1,0,0,0,N/A,N/A,60741,C&I,0,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,72778,C&I,0,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,56864,C&I,0,VRP
+570,MGB Confidential,572442,Remove 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,51827,C&I,0,VRP
+350,Skips,350055,Charge Attendance,EA,0,0,0,0,0,N/A,N/A,33222,C&I,0,VRP
+730,Grease Trap,730050,Grease Trap Serv P/Hour,HR,0,0,1,0,0,N/A,N/A,62563,Liquid,0,VRP
+640,MGB Beckton & Dickenson S,647800,Service 7.8LT B&D Sharps,M3,0.01,0,1,0,0,N/A,N/A,40665,C&I,1,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,74335,C&I,1,VRP
+730,Grease Trap,730034,Tip P/LTR Grease Trap,LTR,0,0,1,0,0,N/A,N/A,74846,Liquid,0,VRP
+190,Front Lift Co-Mingle,191507,Clear Cust 1.5M Co-Mingle,M3,1.5,0,1,1,1,Front Lift,Co-Mingle,84430,C&I,1,VRP
+100,Front Lift,101100,Clear 1.1M Bin,M3,1.1,0,1,1,1,Front Lift,General Waste,33584,C&I,1,VRP
+350,Skips,350610,Rent 6.0M Skip Bin,EA,0,1,0,0,0,N/A,N/A,1253,C&I,0,VRP
+510,MGB Commercial Refuse,512471,Extra Clear 240LT Cart,EA,0,0,0,0,0,N/A,N/A,54384,C&I,0,VRP
+560,MGB Clinical,562441,Deliver 240LT Clinical Bi,EA,0,0,0,0,0,N/A,N/A,15834,C&I,0,VRP
+580,MGB Commercial Recycling,582441,Deliver 240LT Recyc Cart,EA,0,0,0,0,0,Rear Lift,Recycling,71741,C&I,0,VRP
+600,MGB Co-Mingle,602400,Clear 240LT Co-Mingle Car,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,74894,C&I,1,VRP
+240,Hook Lift,241841,Deliver 18M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,88242,C&I,0,VRP
+300,Lift On,300642,Remove 6.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,55942,C&I,0,VRP
+600,MGB Co-Mingle,600003,Waste In Bin On Exchange,M3,1,0,1,0,0,Rear Lift,Co-Mingle,69485,C&I,1,VRP
+200,Roll On Roll Off,201532,Tip P/Tonne 15M Bin,TON,0,0,1,0,0,RORO,General Waste,61124,C&I,0,VRP
+180,Front Lift Recycling,183043,Exchange 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,77898,C&I,0,VRP
+200,Roll On Roll Off,201532,Tip P/Tonne 15M Bin,TON,0,0,1,0,0,RORO,General Waste,29226,C&I,0,VRP
+180,Front Lift Recycling,184572,Clear 4.5M Rec Nil Charge,M3,4.5,0,1,0,0,Front Lift,Recycling,8331,C&I,1,VRP
+100,Front Lift,103044,Relocate 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,88887,C&I,0,VRP
+473,Subcontractor Grease Trap,473050,Grease Trap Serv P/Hour,HR,0,0,1,0,0,N/A,N/A,54855,C&I,0,VRP
+250,Hook Lift Packer,252332,Tip P/Tonne 23M Packer,TON,0,0,1,0,0,RORO,General Waste,86606,C&I,0,VRP
+456,Subcontractor MGB Clinical,456441,Deliver 240LT Clinical Bi,EA,0,0,0,0,0,N/A,N/A,74523,C&I,0,VRP
+300,Lift On,300233,Tip P/M3 2.0M Bin (LO),M3,0,0,1,0,0,N/A,N/A,57466,C&I,0,VRP
+200,Roll On Roll Off,202032,Tip P/Tonne 20M Bin,TON,0,0,1,0,0,RORO,General Waste,64073,C&I,0,VRP
+350,Skips,350433,Tip P/M3 4.0M Skip,M3,0,0,1,0,0,N/A,N/A,80121,C&I,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,81406,C&I,0,VRP
+100,Front Lift,100003,Waste In Bin On Exchange,M3,1,0,1,0,0,Front Lift,General Waste,87160,C&I,1,VRP
+730,Grease Trap,730072,Grease Trap Serv Nil Chg,EA,0,0,1,0,0,N/A,N/A,52715,Liquid,0,VRP
+600,MGB Co-Mingle,602400,Clear 240LT Co-Mingle Car,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,5839,C&I,1,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,61955,C&I,0,VRP
+350,Skips,350600,Clear 6.0M Skip Bin,M3,6,0,1,0,0,N/A,N/A,58223,C&I,1,VRP
+600,MGB Co-Mingle,601142,Remove 1100LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,83551,C&I,0,VRP
+240,Hook Lift,241532,Tip P/Tonne 15M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,84028,C&I,0,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,54203,Sale of Other,0,VRP
+600,MGB Co-Mingle,606643,Exchange 660LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,90252,C&I,0,VRP
+200,Roll On Roll Off,202000,Clear 20M Bin,M3,20,0,1,0,0,RORO,General Waste,69699,C&I,1,VRP
+580,MGB Commercial Recycling,582443,Exchange 240LT Recyc Cart,EA,0,0,0,0,0,Rear Lift,Recycling,60962,C&I,0,VRP
+180,Front Lift Recycling,184541,Deliver 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,87501,C&I,0,VRP
+190,Front Lift Co-Mingle,193010,Rent 3.0M Co-Mingle Bin,EA,0,1,0,0,0,Front Lift,Co-Mingle,64774,C&I,0,VRP
+500,MGB Rear Lift,500002,Waste In Bin On Removal,M3,1,0,1,0,0,Rear Lift,General Waste,90738,C&I,1,VRP
+570,MGB Confidential,572410,Rent 240LT Conf Cart,EA,0,1,0,0,0,N/A,N/A,36039,C&I,0,VRP
+280,Roll On Roll Off Recyclin,280069,Sorting Charge P/Tonne,TON,0,0,1,0,0,RORO,Recycling,68708,C&I,0,VRP
+180,Front Lift Recycling,181541,Deliver 1.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,81736,C&I,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,91770,C&I,0,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,88608,Sale of Other,0,VRP
+300,Lift On,300832,Tip P/Tonne 8.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,58981,C&I,0,VRP
+240,Hook Lift,240056,Transportation P/Hour,HR,0,0,1,0,0,RORO,General Waste,83844,C&I,0,VRP
+550,MGB Hygienic,551300,Aerosol Freshener Service,EA,0,0,1,0,0,N/A,N/A,6602,C&I,0,VRP
+130,Front Lift Organic,131541,Deliver 1.5M Organic Bin,EA,0,0,0,0,0,Front Lift,Organic,47418,C&I,0,VRP
+500,MGB Rear Lift,501200,Clear 120LT Cart,M3,0.12,0,1,1,1,Rear Lift,General Waste,56345,C&I,1,VRP
+500,MGB Rear Lift,501143,Exchange 1.1M Bin,EA,0,0,0,0,0,Rear Lift,General Waste,78584,C&I,0,VRP
+100,Front Lift,100040,Repair Bin,EA,0,0,0,0,0,Front Lift,General Waste,78043,C&I,0,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,54792,C&I,1,VRP
+550,MGB Hygienic,550000,Service Sanitary Bin,M3,1,0,1,0,0,N/A,N/A,12554,C&I,1,VRP
+500,MGB Rear Lift,500062,Charge Weekend Service,EA,0,0,0,0,0,Rear Lift,General Waste,92291,C&I,0,VRP
+670,MGB Side Lift Recycling,670294,Rebate for Cardboard,TON,0,0,1,0,0,N/A,N/A,81644,Rebate,0,VRP
+530,MGB Green Waste/Organics,536743,Exchange 660LT Organics,EA,0,0,0,0,0,Rear Lift,Organic,77160,C&I,0,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,68794,C&I,0,VRP
+200,Roll On Roll Off,201041,Deliver 10M Bin,EA,0,0,0,0,0,RORO,General Waste,56164,C&I,0,VRP
+500,MGB Rear Lift,506642,Remove 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,61794,C&I,0,VRP
+555,MGB Refresh Hygienic,557170,Cont Serv Manual SaniPod,EA,0,0,1,0,0,N/A,N/A,52655,C&I,0,VRP
+180,Front Lift Recycling,184572,Clear 4.5M Rec Nil Charge,M3,4.5,0,1,0,0,Front Lift,Recycling,75099,C&I,1,VRP
+350,Skips,352332,Tip P/Tonne 23M Skip Bin,TON,0,0,1,0,0,N/A,N/A,13960,C&I,0,VRP
+500,MGB Rear Lift,501241,Deliver 120LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,64152,C&I,0,VRP
+600,MGB Co-Mingle,601172,Clear 1100LT Co-Mingle Ni,M3,1.1,0,1,0,0,Rear Lift,Co-Mingle,52496,C&I,1,VRP
+580,MGB Commercial Recycling,582472,Clear 240LT Rec Nil Chg,M3,0.24,0,1,0,0,Rear Lift,Recycling,36283,C&I,1,VRP
+600,MGB Co-Mingle,606643,Exchange 660LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,78735,C&I,0,VRP
+300,Lift On,300942,Remove 9.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,84872,C&I,0,VRP
+200,Roll On Roll Off,201200,Clear 12M Bin,M3,12,0,1,0,0,RORO,General Waste,85031,C&I,1,VRP
+100,Front Lift,103011,Rent Monthly 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,22735,C&I,0,VRP
+290,Roll On Roll Off Recyc Pa,293507,Clear Cust 35M Recyc Pack,M3,35,0,1,0,0,RORO,Recycling,68419,C&I,1,VRP
+600,MGB Co-Mingle,601107,Clear Cust 1100LT Co-Ming,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,24714,C&I,1,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,89696,C&I,0,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,65153,Sale of Other,0,VRP
+150,Front Lift Clean Up,153000,Clear 3.0M Clean Up Bin,M3,3,0,1,0,0,N/A,N/A,62688,C&I,1,VRP
+290,Roll On Roll Off Recyc Pa,294007,Clear Cust 40M Recyc Pack,M3,40,0,1,0,0,RORO,Recycling,27596,C&I,1,VRP
+500,MGB Rear Lift,502443,Exchange 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,88707,C&I,0,VRP
+600,MGB Co-Mingle,602400,Clear 240LT Co-Mingle Car,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,77058,C&I,1,VRP
+710,Septic,710050,Septic Service P/Hour,HR,0,0,1,0,0,N/A,N/A,18851,Liquid,0,VRP
+750,Environmental Services,750052,Labour Hire P/Hour,HR,0,0,0,0,0,N/A,N/A,72898,Liquid,0,VRP
+180,Front Lift Recycling,186000,Clear 6.0M Recycle Bin,M3,6,0,1,0,1,Front Lift,Recycling,31719,C&I,1,VRP
+600,MGB Co-Mingle,606642,Remove 660LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,80579,C&I,0,VRP
+580,MGB Commercial Recycling,582400,Clear 240LT Recycle Cart,M3,0.24,0,1,0,1,Rear Lift,Recycling,85444,C&I,1,VRP
+100,Front Lift,100002,Waste In Bin On Removal,M3,1,0,1,0,0,Front Lift,General Waste,63158,C&I,1,VRP
+300,Lift On,301141,Deliver 11M Bin (LO),EA,0,0,0,0,0,N/A,N/A,59393,C&I,0,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,57910,C&I,0,VRP
+200,Roll On Roll Off,202000,Clear 20M Bin,M3,20,0,1,0,0,RORO,General Waste,78373,C&I,1,VRP
+350,Skips,350441,Deliver 4.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,71185,C&I,0,VRP
+500,MGB Rear Lift,501210,Rent 120LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,75488,C&I,0,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,7224,C&I,1,VRP
+100,Front Lift,104541,Deliver 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,82125,C&I,0,VRP
+350,Skips,350600,Clear 6.0M Skip Bin,M3,6,0,1,0,0,N/A,N/A,5306,C&I,1,VRP
+555,MGB Refresh Hygienic,557100,Service Manual Sanipod,EA,1,0,1,0,0,N/A,N/A,52863,C&I,1,VRP
+580,MGB Commercial Recycling,581142,Remove 1100LT Recycle Car,EA,0,0,0,0,0,Rear Lift,Recycling,56091,C&I,0,VRP
+260,Hook Lift Small,267572,Clear 7.5M Bin Nil Charge,M3,7.5,0,1,0,0,N/A,N/A,75630,C&I,1,VRP
+240,Hook Lift,241500,Clear 15M Bin (HL),M3,15,0,1,0,0,RORO,General Waste,51021,C&I,1,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,48432,C&I,1,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,83543,C&I,0,VRP
+350,Skips,350242,Remove 2.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,85457,C&I,0,VRP
+240,Hook Lift,240510,Rent 4.5M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,58300,C&I,0,VRP
+190,Front Lift Co-Mingle,193011,Rent Monthly 3.0M Co-Ming,EA,0,1,0,0,0,Front Lift,Co-Mingle,67589,C&I,0,VRP
+450,Subcontractor MGB Rear Lift,451241,Deliver 120LT Cart,EA,0,0,0,0,0,N/A,N/A,91918,C&I,0,VRP
+240,Hook Lift,241142,Remove 11M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,69221,C&I,0,VRP
+200,Roll On Roll Off,202032,Tip P/Tonne 20M Bin,TON,0,0,1,0,0,RORO,General Waste,50062,C&I,0,VRP
+540,MGB Sharps,548000,Service 8.0LT Sharps Bin,M3,0.01,0,1,0,0,N/A,N/A,34549,C&I,1,VRP
+280,Roll On Roll Off Recyclin,281542,Remove 15M Recycle Bin,EA,0,0,0,0,0,RORO,Recycling,38301,C&I,0,VRP
+240,Hook Lift,241032,Tip P/Tonne 10M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,77239,C&I,0,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,66467,Sale of Other,0,VRP
+600,MGB Co-Mingle,600090,Credit Adjustment,ADJ,0,0,0,0,0,Rear Lift,Co-Mingle,68498,C&I,0,VRP
+300,Lift On,301200,Clear 12M Bin (LO),M3,12,0,1,0,0,N/A,N/A,73459,C&I,1,VRP
+200,Roll On Roll Off,201500,Clear 15M Bin,M3,15,0,1,0,0,RORO,General Waste,7481,C&I,1,VRP
+180,Front Lift Recycling,183042,Remove 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,26337,C&I,0,VRP
+600,MGB Co-Mingle,606600,Clear 660LT Co-Mingle Car,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,64699,C&I,1,VRP
+240,Hook Lift,241132,Tip P/Tonne 11M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,64778,C&I,0,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,91023,C&I,1,VRP
+457,Subcontractor MGB Confidential,457200,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,91085,C&I,1,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,47674,C&I,0,VRP
+480,Subcontractor Miscellaneo,480079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,75307,C&I,0,VRP
+350,Skips,350900,Clear 9.0M Skip Bin,M3,9,0,1,0,0,N/A,N/A,79371,C&I,1,VRP
+600,MGB Co-Mingle,601110,Rent 1100LT Co-Mingle Car,EA,0,1,0,0,0,Rear Lift,Co-Mingle,86506,C&I,0,VRP
+240,Hook Lift,243041,Deliver 30M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,86330,C&I,0,VRP
+600,MGB Co-Mingle,600456,Transportation P/Load,EA,0,0,1,0,0,Rear Lift,Co-Mingle,89884,C&I,0,VRP
+300,Lift On,301241,Deliver 12M Bin (LO),EA,0,0,0,0,0,N/A,N/A,59394,C&I,0,VRP
+580,MGB Commercial Recycling,586642,Remove 660LT Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,91659,C&I,0,VRP
+600,MGB Co-Mingle,600002,Waste In Bin On Removal,M3,1,0,1,0,0,Rear Lift,Co-Mingle,55166,C&I,1,VRP
+100,Front Lift,101143,Exchange 1.1M Bin,EA,0,0,0,0,0,Front Lift,General Waste,25464,C&I,0,VRP
+660,MGB Medical\Pathological,661600,Clear 240LT Cytotoxic Bin,M3,0.24,0,1,0,0,N/A,N/A,55144,C&I,1,VRP
+750,Environmental Services,750349,Sale of Drum,EA,0,0,0,0,0,N/A,N/A,61370,Liquid,0,VRP
+300,Lift On,300332,Tip P/Tonne 3.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,59334,C&I,0,VRP
+500,MGB Rear Lift,500110,Rent 1100LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,73964,C&I,0,VRP
+100,Front Lift,100094,Discount,ADJ,0,0,0,0,0,Front Lift,General Waste,54797,C&I,0,VRP
+240,Hook Lift,240641,Deliver 6.0M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,67449,C&I,0,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,64135,Sale of Other,0,VRP
+730,Grease Trap,730056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,79938,Liquid,0,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,23975,Sale of Other,0,VRP
+300,Lift On,301132,Tip P/Tonne 11M Bin (LO),TON,0,0,1,0,0,N/A,N/A,90362,C&I,0,VRP
+450,Subcontractor MGB Rear Lift,452442,Remove 240LT Cart,EA,0,0,0,0,0,N/A,N/A,90043,C&I,0,VRP
+180,Front Lift Recycling,186011,Rent Monthly 6.0M Recycle,EA,0,1,0,0,0,Front Lift,Recycling,45512,C&I,0,VRP
+120,Front Lift Feeder Bins,121542,Remove 1.5M Tippler Bin,EA,0,0,0,0,0,N/A,N/A,32725,C&I,0,VRP
+200,Roll On Roll Off,200049,Sundry Item,EA,0,0,0,0,0,RORO,General Waste,72772,C&I,0,VRP
+500,MGB Rear Lift,500141,Deliver 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,64020,C&I,0,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,81519,C&I,0,VRP
+810,Property Maintenance,810000,General Cleaning Services,EA,0,0,1,0,0,N/A,N/A,87528,C&I,0,VRP
+600,MGB Co-Mingle,602472,Clear 240LT Co-Mingle Nil,M3,0.24,0,1,0,0,Rear Lift,Co-Mingle,92034,C&I,1,VRP
+100,Front Lift,100067,FL Wkly Weight Charge,TON,0,0,1,0,0,Front Lift,General Waste,91988,C&I,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,19923,C&I,1,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,67452,C&I,1,VRP
+100,Front Lift,106600,Clear 660LT Bin,M3,0.66,0,1,1,1,Front Lift,General Waste,78659,C&I,1,VRP
+660,MGB Medical\Pathological,664025,Weight of Infectious KGS,KG,1,0,1,0,0,N/A,N/A,26476,C&I,0,VRP
+300,Lift On,300341,Deliver 3.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,59128,C&I,0,VRP
+580,MGB Commercial Recycling,582441,Deliver 240LT Recyc Cart,EA,0,0,0,0,0,Rear Lift,Recycling,80066,C&I,0,VRP
+350,Skips,350542,Remove 5.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,54161,C&I,0,VRP
+730,Grease Trap,730079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,56473,Liquid,0,VRP
+180,Front Lift Recycling,183043,Exchange 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,70696,C&I,0,VRP
+100,Front Lift,101511,Rent Monthly 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,81494,C&I,0,VRP
+750,Environmental Services,750956,Transportation P/Qty,EA,0,0,1,0,0,N/A,N/A,87479,Liquid,0,VRP
+350,Skips,350632,Tip P/Tonne 6.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,80561,C&I,0,VRP
+350,Skips,350056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,33833,C&I,0,VRP
+180,Front Lift Recycling,183011,Rent Monthly 3.0M Recycle,EA,0,1,0,0,0,Front Lift,Recycling,77750,C&I,0,VRP
+640,MGB Beckton & Dickenson S,647641,Deliver 7.6LT B&D Sharps,EA,0,0,0,0,0,N/A,N/A,13968,C&I,0,VRP
+240,Hook Lift,240610,Rent 6.0M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,57184,C&I,0,VRP
+500,MGB Rear Lift,500045,Bin Cleaning,EA,0,0,0,0,0,Rear Lift,General Waste,81340,C&I,0,VRP
+580,MGB Commercial Recycling,580055,Charge Attendance,EA,0,0,0,0,0,Rear Lift,Recycling,39144,C&I,0,VRP
+240,Hook Lift,241541,Deliver 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,68204,C&I,0,VRP
+100,Front Lift,100002,Waste In Bin On Removal,M3,1,0,1,0,0,Front Lift,General Waste,64767,C&I,1,VRP
+700,Liquid,709800,Clear Drum,EA,0,0,1,0,0,N/A,N/A,36803,Liquid,0,VRP
+350,Skips,350341,Deliver 3.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,3767,C&I,0,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,53202,Sale of Other,0,VRP
+240,Hook Lift,241572,Clear 15M Bin Nil Charge,M3,15,0,1,0,0,RORO,General Waste,65002,C&I,1,VRP
+580,MGB Commercial Recycling,581242,Remove 120LT Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,67255,C&I,0,VRP
+710,Septic,710050,Septic Service P/Hour,HR,0,0,1,0,0,N/A,N/A,65026,Liquid,0,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,87387,C&I,1,VRP
+100,Front Lift,101041,Deliver 1.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,26334,C&I,0,VRP
+350,Skips,350400,Clear 4.0M Skip Bin,M3,4,0,1,0,0,N/A,N/A,86612,C&I,1,VRP
+240,Hook Lift,241532,Tip P/Tonne 15M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,54863,C&I,0,VRP
+100,Front Lift,104511,Rent Monthly 4.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,63561,C&I,0,VRP
+200,Roll On Roll Off,201532,Tip P/Tonne 15M Bin,TON,0,0,1,0,0,RORO,General Waste,12548,C&I,0,VRP
+190,Front Lift Co-Mingle,194541,Deliver 4.5M Co-Mingle Bi,EA,0,0,0,0,0,Front Lift,Co-Mingle,56364,C&I,0,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,54187,C&I,0,VRP
+500,MGB Rear Lift,502411,Rent Monthly 240LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,86898,C&I,0,VRP
+500,MGB Rear Lift,501100,Clear 1.1M Bin,M3,1.1,0,1,1,1,Rear Lift,General Waste,39141,C&I,1,VRP
+600,MGB Co-Mingle,602470,Cont Clear 240LT Co-Mingl,M3,0.24,0,1,0,0,Rear Lift,Co-Mingle,65857,C&I,1,VRP
+100,Front Lift,103030,Tip P/Load 3.0M Bin,EA,0,0,1,0,0,Front Lift,General Waste,67639,C&I,0,VRP
+350,Skips,353132,Tip P/Tonne 31M Skip Bin,TON,0,0,1,0,0,N/A,N/A,27711,C&I,0,VRP
+500,MGB Rear Lift,506600,Clear 660LT Cart,M3,0.66,0,1,1,1,Rear Lift,General Waste,57427,C&I,1,VRP
+180,Front Lift Recycling,183043,Exchange 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,74034,C&I,0,VRP
+350,Skips,350442,Remove 4.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,34414,C&I,0,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,35515,C&I,1,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,62885,C&I,1,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,62983,C&I,1,VRP
+300,Lift On,300900,Clear 9.0M Bin (LO),M3,9,0,1,0,0,N/A,N/A,56983,C&I,1,VRP
+240,Hook Lift,240832,Tip P/Tonne 8.0M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,86129,C&I,0,VRP
+180,Front Lift Recycling,183010,Rent 3.0M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,71263,C&I,0,VRP
+290,Roll On Roll Off Recyc Pa,293032,Tip P/Tonne 30M Recyc Pac,TON,0,0,1,0,0,RORO,Recycling,70830,C&I,0,VRP
+300,Lift On,300410,Rent 4.0M Bin (LO),EA,0,1,0,0,0,N/A,N/A,62915,C&I,0,VRP
+180,Front Lift Recycling,183042,Remove 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,83941,C&I,0,VRP
+240,Hook Lift,240642,Remove 6.0M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,77834,C&I,0,VRP
+700,Liquid,700051,Truck Hire P/Hour,HR,0,0,0,0,0,N/A,N/A,79582,Liquid,0,VRP
+100,Front Lift,100743,Exchange 0.75M Bin,EA,0,0,0,0,0,Front Lift,General Waste,78869,C&I,0,VRP
+570,MGB Confidential,571210,Rent 120LT Conf Cart,EA,0,1,0,0,0,N/A,N/A,8842,C&I,0,VRP
+300,Lift On,300056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,86942,C&I,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,64217,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,88001,Sale of Other,0,VRP
+240,Hook Lift,240032,Tip P/Tonne Waste,TON,0,0,1,0,0,RORO,General Waste,85522,C&I,0,VRP
+555,MGB Refresh Hygienic,553200,Service 22LT Sanitary Bin,M3,0.02,0,1,0,0,N/A,N/A,2598,C&I,1,VRP
+350,Skips,351210,Rent 12M Skip Bin,EA,0,1,0,0,0,N/A,N/A,9952,C&I,0,VRP
+730,Grease Trap,730034,Tip P/LTR Grease Trap,LTR,0,0,1,0,0,N/A,N/A,59203,Liquid,0,VRP
+100,Front Lift,109915,Fuel Surcharge Front Lift,EA,0,0,0,0,0,Front Lift,General Waste,48294,C&I,0,VRP
+500,MGB Rear Lift,500080,Wk Charge Cart,EA,0,0,0,0,0,Rear Lift,General Waste,62471,C&I,0,VRP
+100,Front Lift,104542,Remove 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,6705,C&I,0,VRP
+580,MGB Commercial Recycling,582472,Clear 240LT Rec Nil Chg,M3,0.24,0,1,0,0,Rear Lift,Recycling,59754,C&I,1,VRP
+454,Subcontractor MGB Sharps,454000,Service Sharps Bin,M3,0.01,0,1,0,0,N/A,N/A,90239,C&I,1,VRP
+240,Hook Lift,241044,Relocate 10M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,72875,C&I,0,VRP
+180,Front Lift Recycling,184500,Clear 4.5M Recycle Bin,M3,4.5,0,1,0,1,Front Lift,Recycling,71136,C&I,1,VRP
+210,Roll On Roll Off Packer,211907,Clear Customer 19M Packer,M3,19,0,1,0,0,RORO,General Waste,61861,C&I,1,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,90912,C&I,1,VRP
+300,Lift On,309915,Fuel Surcharge Lift On,EA,0,0,0,0,0,N/A,N/A,45286,C&I,0,VRP
+580,MGB Commercial Recycling,581100,Clear 1100LT Recycle Cart,M3,1.1,0,1,0,1,Rear Lift,Recycling,55164,C&I,1,VRP
+600,MGB Co-Mingle,606642,Remove 660LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,57546,C&I,0,VRP
+300,Lift On,300972,Clear 9.0M Bin Nil Charge,M3,9,0,1,0,0,N/A,N/A,75068,C&I,1,VRP
+100,Front Lift,104500,Clear 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,5438,C&I,1,VRP
+300,Lift On,300200,Clear 2.0M Bin (LO),M3,2,0,1,0,0,N/A,N/A,72853,C&I,1,VRP
+570,MGB Confidential,572411,Rent Monthly 240LT Conf C,EA,0,1,0,0,0,N/A,N/A,62207,C&I,0,VRP
+240,Hook Lift,241532,Tip P/Tonne 15M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,66115,C&I,0,VRP
+540,MGB Sharps,541000,Service 10LT Sharps Bin,M3,0.01,0,1,0,0,N/A,N/A,58229,C&I,1,VRP
+200,Roll On Roll Off,201042,Remove 10M Bin,EA,0,0,0,0,0,RORO,General Waste,75026,C&I,0,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,1495,C&I,1,VRP
+530,MGB Green Waste/Organics,536741,Deliver 660LT Organics,EA,0,0,0,0,0,Rear Lift,Organic,89898,C&I,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,78345,C&I,0,VRP
+100,Front Lift,103011,Rent Monthly 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,30616,C&I,0,VRP
+500,MGB Rear Lift,501200,Clear 120LT Cart,M3,0.12,0,1,1,1,Rear Lift,General Waste,90144,C&I,1,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,9606,Sale of Other,0,VRP
+660,MGB Medical\Pathological,664647,Bin Liners 240LT,EA,0,0,0,0,0,N/A,N/A,14207,C&I,0,VRP
+580,MGB Commercial Recycling,581141,Deliver 1100LT Recycle Ca,EA,0,0,0,0,0,Rear Lift,Recycling,55647,C&I,0,VRP
+180,Front Lift Recycling,183042,Remove 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,50823,C&I,0,VRP
+150,Front Lift Clean Up,152041,Deliver 2.0M Clean Up Bin,EA,0,0,0,0,0,N/A,N/A,90374,C&I,0,VRP
+100,Front Lift,104543,Exchange 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,78765,C&I,0,VRP
+240,Hook Lift,240600,Clear 6.0M Bin (HL),M3,6,0,1,0,0,RORO,General Waste,51807,C&I,1,VRP
+240,Hook Lift,240076,EPA Docket Charge,EA,0,0,0,0,0,RORO,General Waste,79450,C&I,0,VRP
+350,Skips,350061,Levy Road/Footpath Permit,EA,0,0,0,0,0,N/A,N/A,33465,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,21859,Sale of Other,0,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,53978,Sale of Other,0,VRP
+350,Skips,350432,Tip P/Tonne 4.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,2855,C&I,0,VRP
+500,MGB Rear Lift,500142,Remove 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,50006,C&I,0,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,89892,C&I,1,VRP
+500,MGB Rear Lift,501142,Remove 1.1M Bin,EA,0,0,0,0,0,Rear Lift,General Waste,2595,C&I,0,VRP
+458,Subcontractor MGB Comm Recycli,458200,Clear 240LT Recycle Cart,M3,0.24,0,1,0,0,N/A,N/A,37275,C&I,1,VRP
+600,MGB Co-Mingle,602441,Deliver 240LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,73186,C&I,0,VRP
+200,Roll On Roll Off,202342,Remove 23M Bin,EA,0,0,0,0,0,RORO,General Waste,22976,C&I,0,VRP
+200,Roll On Roll Off,202041,Deliver 20M Bin,EA,0,0,0,0,0,RORO,General Waste,61294,C&I,0,VRP
+500,MGB Rear Lift,506600,Clear 660LT Cart,M3,0.66,0,1,1,1,Rear Lift,General Waste,75237,C&I,1,VRP
+240,Hook Lift,241500,Clear 15M Bin (HL),M3,15,0,1,0,0,RORO,General Waste,83031,C&I,1,VRP
+600,MGB Co-Mingle,606641,Deliver 660LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,51367,C&I,0,VRP
+180,Front Lift Recycling,186040,Repair 6.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,37023,C&I,0,VRP
+540,MGB Sharps,548042,Remove 8.0LT Sharps Bin,EA,0,0,0,0,0,N/A,N/A,2465,C&I,0,VRP
+500,MGB Rear Lift,502410,Rent 240LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,88706,C&I,0,VRP
+540,MGB Sharps,541442,Remove 1.4LT Sharps Bin,EA,0,0,0,0,0,N/A,N/A,61103,C&I,0,VRP
+120,Front Lift Feeder Bins,121511,Rent Monthly 1.5M Tippler,EA,0,1,0,0,0,N/A,N/A,13564,C&I,0,VRP
+600,MGB Co-Mingle,601143,Exchange 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,36567,C&I,0,VRP
+130,Front Lift Organic,130067,Org Wkly Weight Charge,TON,0,0,1,0,0,Front Lift,Organic,25081,C&I,0,VRP
+500,MGB Rear Lift,502443,Exchange 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,91149,C&I,0,VRP
+900,Miscellaneous,900888,Charge Mgmt & Admin,EA,0,0,0,0,0,N/A,N/A,65334,Sale of Other,0,VRP
+470,Subcontractor Liquid,470053,Labour Hire Extra Man,HR,0,0,0,0,0,N/A,N/A,73654,C&I,0,VRP
+180,Front Lift Recycling,183007,Clear Customer 3.0M Recyc,M3,3,0,1,0,1,Front Lift,Recycling,86987,C&I,1,VRP
+992,Adjustments,999941,Reallocation Jnl CR,EA,0,0,0,0,0,N/A,N/A,56416,Sale of Other,0,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,76046,C&I,1,VRP
+350,Skips,352300,Clear 23M Skip Bin,M3,23,0,1,0,0,N/A,N/A,5964,C&I,1,VRP
+500,MGB Rear Lift,500048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Rear Lift,General Waste,53705,C&I,0,VRP
+200,Roll On Roll Off,201042,Remove 10M Bin,EA,0,0,0,0,0,RORO,General Waste,73196,C&I,0,VRP
+180,Front Lift Recycling,184500,Clear 4.5M Recycle Bin,M3,4.5,0,1,0,1,Front Lift,Recycling,79142,C&I,1,VRP
+100,Front Lift,100003,Waste In Bin On Exchange,M3,1,0,1,0,0,Front Lift,General Waste,57164,C&I,1,VRP
+240,Hook Lift,241242,Remove 12M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,61159,C&I,0,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,71699,C&I,1,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,58235,C&I,0,VRP
+100,Front Lift,101570,Contract Clear 1.5M Bin,M3,1.5,0,1,0,0,Front Lift,General Waste,51675,C&I,1,VRP
+350,Skips,350472,Clear 4.0M Skip Nil Chg,M3,4,0,1,0,0,N/A,N/A,12318,C&I,1,VRP
+290,Roll On Roll Off Recyc Pa,290294,Rebate for Cardboard,TON,0,0,1,0,0,RORO,Recycling,88762,Rebate,0,VRP
+600,MGB Co-Mingle,601210,Rent 120LT Co-Mingle Cart,EA,0,1,0,0,0,Rear Lift,Co-Mingle,73878,C&I,0,VRP
+350,Skips,350642,Remove 6.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,2365,C&I,0,VRP
+350,Skips,351041,Deliver 10M Skip Bin,EA,0,0,0,0,0,N/A,N/A,72775,C&I,0,VRP
+710,Septic,710025,Septic Service P/KLT,KLT,0,0,1,0,0,N/A,N/A,75093,Liquid,0,VRP
+500,MGB Rear Lift,500142,Remove 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,39765,C&I,0,VRP
+100,Front Lift,103011,Rent Monthly 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,50422,C&I,0,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,76814,C&I,1,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,31738,Sale of Other,0,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,62450,C&I,1,VRP
+100,Front Lift,104500,Clear 4.5M Bin,M3,4.5,0,1,1,1,Front Lift,General Waste,86054,C&I,1,VRP
+500,MGB Rear Lift,500001,Removal Of Loose Waste,M3,1,0,1,0,1,Rear Lift,General Waste,72670,C&I,1,VRP
+500,MGB Rear Lift,502410,Rent 240LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,39280,C&I,0,VRP
+580,MGB Commercial Recycling,583672,Clear 360LT Rec Nil Chg,M3,0.36,0,1,0,0,Rear Lift,Recycling,52077,C&I,1,VRP
+240,Hook Lift,243042,Remove 30M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,84125,C&I,0,VRP
+350,Skips,350641,Deliver 6.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,54382,C&I,0,VRP
+600,MGB Co-Mingle,602481,Mth Charge 240LT Co-Ming,EA,0,0,0,0,0,Rear Lift,Co-Mingle,90186,C&I,0,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,27221,C&I,0,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,44513,Sale of Other,0,VRP
+240,Hook Lift,241242,Remove 12M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,70705,C&I,0,VRP
+100,Front Lift,100068,FL Wkly Sched VisitCharge,EA,0,0,1,0,0,Front Lift,General Waste,55171,C&I,0,VRP
+500,MGB Rear Lift,502411,Rent Monthly 240LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,78701,C&I,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,75713,C&I,1,VRP
+100,Front Lift,101000,Clear 1.0M Bin,M3,1,0,1,1,1,Front Lift,General Waste,80949,C&I,1,VRP
+240,Hook Lift,241542,Remove 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,71987,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,63620,Sale of Other,0,VRP
+200,Roll On Roll Off,202300,Clear 23M Bin,M3,23,0,1,0,0,RORO,General Waste,18163,C&I,1,VRP
+180,Front Lift Recycling,180055,Charge Attendance,EA,0,0,0,0,0,Front Lift,Recycling,62402,C&I,0,VRP
+600,MGB Co-Mingle,601111,Rent Monthly 1100LT Co-Mi,EA,0,1,0,0,0,Rear Lift,Co-Mingle,16826,C&I,0,VRP
+240,Hook Lift,240610,Rent 6.0M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,57121,C&I,0,VRP
+220,Roll On Roll Off Feeder B,221510,Rent 1.5M Tippler Bin,EA,0,1,0,0,0,N/A,N/A,4025,C&I,0,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,74030,C&I,1,VRP
+240,Hook Lift,241842,Remove 18M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,74461,C&I,0,VRP
+240,Hook Lift,241510,Rent 15M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,87364,C&I,0,VRP
+180,Front Lift Recycling,186042,Remove 6.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,72919,C&I,0,VRP
+600,MGB Co-Mingle,602443,Exchange 240LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,36800,C&I,0,VRP
+100,Front Lift,101542,Remove 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,67396,C&I,0,VRP
+710,Septic,710059,Accommodation Charge,EA,0,0,0,0,0,N/A,N/A,61088,Liquid,0,VRP
+180,Front Lift Recycling,183044,Relocate 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,73696,C&I,0,VRP
+180,Front Lift Recycling,181510,Rent 1.5M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,46392,C&I,0,VRP
+240,Hook Lift,240841,Deliver 8.0M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,77217,C&I,0,VRP
+100,Front Lift,100049,Sundry Item,EA,0,0,0,0,0,Front Lift,General Waste,47416,C&I,0,VRP
+100,Front Lift,101172,Clear 1.1M Bin Nil Charge,M3,1.1,0,1,0,0,Front Lift,General Waste,25845,C&I,1,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,68697,Sale of Other,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,84424,C&I,0,VRP
+500,MGB Rear Lift,500170,Cont Clear 1100LT Cart,M3,1.1,0,1,0,0,Rear Lift,General Waste,69924,C&I,1,VRP
+300,Lift On,300541,Deliver 5.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,68157,C&I,0,VRP
+300,Lift On,300630,Tip P/Load 6.0M Bin (LO),EA,0,0,1,0,0,N/A,N/A,90504,C&I,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,73798,C&I,0,VRP
+100,Front Lift,103040,Repair 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,70383,C&I,0,VRP
+900,Miscellaneous,900090,Credit Adjustment,ADJ,0,0,0,0,0,N/A,N/A,79191,Sale of Other,0,VRP
+500,MGB Rear Lift,501141,Deliver 1.1M Bin,EA,0,0,0,0,0,Rear Lift,General Waste,41163,C&I,0,VRP
+560,MGB Clinical,562400,Clear 240LT Clinical Bin,M3,0.24,0,1,0,0,N/A,N/A,377,C&I,1,VRP
+300,Lift On,300441,Deliver 4.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,81960,C&I,0,VRP
+600,MGB Co-Mingle,602400,Clear 240LT Co-Mingle Car,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,68317,C&I,1,VRP
+250,Hook Lift Packer,252532,Tip P/Tonne 25M Packer,TON,0,0,1,0,0,RORO,General Waste,52983,C&I,0,VRP
+180,Front Lift Recycling,186007,Clear Customer 6.0M Recyc,M3,6,0,1,0,1,Front Lift,Recycling,90112,C&I,1,VRP
+500,MGB Rear Lift,506600,Clear 660LT Cart,M3,0.66,0,1,1,1,Rear Lift,General Waste,69289,C&I,1,VRP
+150,Front Lift Clean Up,153042,Remove 3.0M Clean Up Bin,EA,0,0,0,0,0,N/A,N/A,76362,C&I,0,VRP
+200,Roll On Roll Off,201000,Clear 10M Bin,M3,10,0,1,0,0,RORO,General Waste,54210,C&I,1,VRP
+580,MGB Commercial Recycling,581200,Clear 120LT Recycle Cart,M3,0.12,0,1,0,1,Rear Lift,Recycling,87746,C&I,1,VRP
+670,MGB Side Lift Recycling,679172,Clear Cardboard Bale Nil,M3,1,0,1,0,0,N/A,N/A,85938,C&I,1,VRP
+100,Front Lift,104510,Rent 4.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,45146,C&I,0,VRP
+580,MGB Commercial Recycling,583072,Clear 3.0M Rec Nil Charge,M3,3,0,1,0,0,Rear Lift,Recycling,58851,C&I,1,VRP
+200,Roll On Roll Off,203000,Clear 30M Bin,M3,30,0,1,0,0,RORO,General Waste,63225,C&I,1,VRP
+100,Front Lift,100049,Sundry Item,EA,0,0,0,0,0,Front Lift,General Waste,78488,C&I,0,VRP
+180,Front Lift Recycling,184500,Clear 4.5M Recycle Bin,M3,4.5,0,1,0,1,Front Lift,Recycling,78525,C&I,1,VRP
+240,Hook Lift,243032,Tip P/Tonne 30M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,64948,C&I,0,VRP
+670,MGB Side Lift Recycling,672594,Rebate for Plastic,TON,0,0,1,0,0,N/A,N/A,70526,Rebate,0,VRP
+120,Front Lift Feeder Bins,120011,Rent Monthly Tippler Bin,EA,0,1,0,0,0,N/A,N/A,33826,C&I,0,VRP
+500,MGB Rear Lift,502472,Clear 240LT Cart Nil Chg,M3,0.24,0,1,0,0,Rear Lift,General Waste,54441,C&I,1,VRP
+600,MGB Co-Mingle,601110,Rent 1100LT Co-Mingle Car,EA,0,1,0,0,0,Rear Lift,Co-Mingle,20733,C&I,0,VRP
+200,Roll On Roll Off,201542,Remove 15M Bin,EA,0,0,0,0,0,RORO,General Waste,60697,C&I,0,VRP
+200,Roll On Roll Off,202300,Clear 23M Bin,M3,23,0,1,0,0,RORO,General Waste,19800,C&I,1,VRP
+300,Lift On,300037,Levy Council Permit,EA,0,0,1,0,0,N/A,N/A,63833,C&I,0,VRP
+100,Front Lift,100000,Waste Clearance Charge,M3,1,0,1,0,0,Front Lift,General Waste,80783,C&I,1,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,68096,Sale of Other,0,VRP
+100,Front Lift,100066,FL Wkly Extra VisitCharge,EA,0,0,1,0,0,Front Lift,General Waste,68736,C&I,0,VRP
+580,MGB Commercial Recycling,580090,Credit Adjustment,ADJ,0,0,0,0,0,Rear Lift,Recycling,67891,C&I,0,VRP
+457,Subcontractor MGB Confidential,457900,Clear 120LT Conf Cart,M3,0.12,0,1,0,0,N/A,N/A,60860,C&I,1,VRP
+555,MGB Refresh Hygienic,550981,Mth Chg Nappy Wrap Unit,EA,0,0,0,0,0,N/A,N/A,67833,C&I,0,VRP
+650,MGB Pathological\Infectio,651400,Service 1.4LT P&I Sharps,M3,0.01,0,1,0,0,N/A,N/A,37916,C&I,1,VRP
+100,Front Lift,101543,Exchange 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,83652,C&I,0,VRP
+600,MGB Co-Mingle,602472,Clear 240LT Co-Mingle Nil,M3,0.24,0,1,0,0,Rear Lift,Co-Mingle,88173,C&I,1,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,57094,Sale of Other,0,VRP
+500,MGB Rear Lift,500048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Rear Lift,General Waste,53111,C&I,0,VRP
+600,MGB Co-Mingle,601110,Rent 1100LT Co-Mingle Car,EA,0,1,0,0,0,Rear Lift,Co-Mingle,64987,C&I,0,VRP
+350,Skips,350472,Clear 4.0M Skip Nil Chg,M3,4,0,1,0,0,N/A,N/A,70393,C&I,1,VRP
+100,Front Lift,100456,Transportation P/Load,EA,0,0,1,0,0,Front Lift,General Waste,82412,C&I,0,VRP
+580,MGB Commercial Recycling,581172,Clear 1100LT Recyc Nil Fe,M3,1.1,0,1,0,0,Rear Lift,Recycling,1880,C&I,1,VRP
+260,Hook Lift Small,260842,Remove 8.0M Bin (HL),EA,0,0,0,0,0,N/A,N/A,72999,C&I,0,VRP
+200,Roll On Roll Off,201241,Deliver 12M Bin,EA,0,0,0,0,0,RORO,General Waste,13823,C&I,0,VRP
+300,Lift On,300400,Clear 4.0M Bin (LO),M3,4,0,1,0,0,N/A,N/A,91489,C&I,1,VRP
+500,MGB Rear Lift,500090,Credit Adjustment,ADJ,0,0,0,0,0,Rear Lift,General Waste,79523,C&I,0,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,66792,Sale of Other,0,VRP
+150,Front Lift Clean Up,153041,Deliver 3.0M Clean Up Bin,EA,0,0,0,0,0,N/A,N/A,55937,C&I,0,VRP
+600,MGB Co-Mingle,601142,Remove 1100LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,65910,C&I,0,VRP
+100,Front Lift,101510,Rent 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,91246,C&I,0,VRP
+580,MGB Commercial Recycling,581141,Deliver 1100LT Recycle Ca,EA,0,0,0,0,0,Rear Lift,Recycling,27365,C&I,0,VRP
+190,Front Lift Co-Mingle,191500,Clear 1.5M Co-Mingle Bin,M3,1.5,0,1,1,1,Front Lift,Co-Mingle,54190,C&I,1,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,82138,Sale of Other,0,VRP
+180,Front Lift Recycling,183042,Remove 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,70888,C&I,0,VRP
+660,MGB Medical\Pathological,660456,Transportation P/Load,EA,0,0,1,0,0,N/A,N/A,54481,C&I,0,VRP
+300,Lift On,300010,Rent Lift On Bin,EA,0,1,0,0,0,N/A,N/A,90033,C&I,0,VRP
+560,MGB Clinical,562410,Rent 240LT Clinical Bin,EA,0,1,0,0,0,N/A,N/A,75047,C&I,0,VRP
+100,Front Lift,100068,FL Wkly Sched VisitCharge,EA,0,0,1,0,0,Front Lift,General Waste,58832,C&I,0,VRP
+550,MGB Hygienic,550042,Remove Sanitary Bin,EA,0,0,0,0,0,N/A,N/A,55530,C&I,0,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,63849,C&I,0,VRP
+580,MGB Commercial Recycling,581110,Rent 1100LT Recycle Cart,EA,0,1,0,0,0,Rear Lift,Recycling,78575,C&I,0,VRP
+180,Front Lift Recycling,183011,Rent Monthly 3.0M Recycle,EA,0,1,0,0,0,Front Lift,Recycling,88757,C&I,0,VRP
+500,MGB Rear Lift,506641,Deliver 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,84200,C&I,0,VRP
+530,MGB Green Waste/Organics,532542,Remove 240LT Organics,EA,0,0,0,0,0,Rear Lift,Organic,49659,C&I,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,52530,C&I,0,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,59900,C&I,1,VRP
+470,Subcontractor Liquid,470024,Liquid Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,61513,C&I,0,VRP
+850,Recycled Product,850428,Recycled Newsprint ONP6,TON,0,0,1,0,0,N/A,N/A,54022,C&I,0,VRP
+100,Front Lift,103044,Relocate 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,74571,C&I,0,VRP
+240,Hook Lift,242010,Rent 20M Bin (HL),EA,0,1,0,0,0,RORO,General Waste,71755,C&I,0,VRP
+100,Front Lift,101142,Remove 1.1M Bin,EA,0,0,0,0,0,Front Lift,General Waste,16941,C&I,0,VRP
+555,MGB Refresh Hygienic,559841,Install Nappy Bin,EA,0,0,0,0,0,N/A,N/A,71119,C&I,0,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,25087,C&I,0,VRP
+850,Recycled Product,850628,Recycled Newsprint ONP8,TON,0,0,1,0,0,N/A,N/A,62308,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,82408,Sale of Other,0,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,78841,C&I,1,VRP
+180,Front Lift Recycling,186000,Clear 6.0M Recycle Bin,M3,6,0,1,0,1,Front Lift,Recycling,51599,C&I,1,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,87969,Sale of Other,0,VRP
+555,MGB Refresh Hygienic,550970,Cont Serv Nappy Wrap Unit,M3,0.04,0,1,0,0,N/A,N/A,85460,C&I,0,VRP
+180,Front Lift Recycling,180003,Waste In Bin On Exchange,M3,1,0,1,0,0,Front Lift,Recycling,81384,C&I,1,VRP
+570,MGB Confidential,572442,Remove 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,4146,C&I,0,VRP
+850,Recycled Product,850228,Recycled Cardboard,TON,0,0,1,0,0,N/A,N/A,54680,C&I,0,VRP
+240,Hook Lift,241000,Clear 10M Bin (HL),M3,10,0,1,0,0,RORO,General Waste,61093,C&I,1,VRP
+180,Front Lift Recycling,181542,Remove 1.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,2849,C&I,0,VRP
+100,Front Lift,104572,Clear 4.5M Bin Nil Charge,M3,4.5,0,1,0,0,Front Lift,General Waste,6590,C&I,1,VRP
+480,Subcontractor Miscellaneo,480041,Deliver Equipment,EA,0,0,0,0,0,N/A,N/A,12794,C&I,0,VRP
+457,Subcontractor MGB Confidential,457241,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,69598,C&I,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,15064,C&I,0,VRP
+992,Adjustments,999942,Reallocation Jnl DR,EA,0,0,0,0,0,N/A,N/A,79414,Sale of Other,0,VRP
+670,MGB Side Lift Recycling,679672,Clear Plastic Bag Nil Chg,M3,1,0,1,0,0,N/A,N/A,51381,C&I,1,VRP
+650,MGB Pathological\Infectio,650541,Deliver 5.0LT P&I Sharps,EA,0,0,0,0,0,N/A,N/A,9959,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,58934,Sale of Other,0,VRP
+570,MGB Confidential,572441,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,87016,C&I,0,VRP
+540,MGB Sharps,548500,Service 15LT Sharps Bin,M3,0.02,0,1,0,0,N/A,N/A,73313,C&I,1,VRP
+300,Lift On,300914,12 Mth Rent 9.0M Bin (LO),EA,0,1,0,0,0,N/A,N/A,86944,C&I,0,VRP
+500,MGB Rear Lift,506641,Deliver 660LT cart,EA,0,0,0,0,0,Rear Lift,General Waste,42549,C&I,0,VRP
+570,MGB Confidential,572472,Clear 240LT Conf Nil Chg,M3,0.24,0,1,0,0,N/A,N/A,88235,C&I,1,VRP
+100,Front Lift,103541,Deliver 3.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,86487,C&I,0,VRP
+500,MGB Rear Lift,500032,Tip P/Tonne Waste,TON,0,0,1,0,0,Rear Lift,General Waste,71023,C&I,0,VRP
+350,Skips,350332,Tip P/Tonne 3.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,34171,C&I,0,VRP
+210,Roll On Roll Off Packer,212307,Clear Customer 23M Packer,M3,23,0,1,0,0,RORO,General Waste,37504,C&I,1,VRP
+850,Recycled Product,850001,Processing Recyclables,TON,0,0,1,0,0,N/A,N/A,59123,C&I,0,VRP
+180,Front Lift Recycling,181141,Deliver 1.1M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,82221,C&I,0,VRP
+350,Skips,350049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,1874,C&I,0,VRP
+350,Skips,350241,Deliver 2.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,71477,C&I,0,VRP
+100,Front Lift,103010,Rent 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,34994,C&I,0,VRP
+300,Lift On,300230,Tip P/Load 2.0M Bin (LO),EA,0,0,1,0,0,N/A,N/A,86881,C&I,0,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,71590,Sale of Other,0,VRP
+240,Hook Lift,243041,Deliver 30M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,51661,C&I,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,54861,C&I,0,VRP
+600,MGB Co-Mingle,606642,Remove 660LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,76706,C&I,0,VRP
+350,Skips,350332,Tip P/Tonne 3.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,14079,C&I,0,VRP
+580,MGB Commercial Recycling,586600,Clear 660LT Recycle Cart,M3,0.66,0,1,0,1,Rear Lift,Recycling,76159,C&I,1,VRP
+500,MGB Rear Lift,500140,Repair 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,54640,C&I,0,VRP
+600,MGB Co-Mingle,601142,Remove 1100LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,35389,C&I,0,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,16561,C&I,1,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,56927,C&I,1,VRP
+180,Front Lift Recycling,184510,Rent 4.5M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,47271,C&I,0,VRP
+600,MGB Co-Mingle,606607,Clear Cust 660LT Co-Mingl,M3,0.66,0,1,1,1,Rear Lift,Co-Mingle,85607,C&I,1,VRP
+580,MGB Commercial Recycling,582442,Remove 240LT Recycle Cart,EA,0,0,0,0,0,Rear Lift,Recycling,61315,C&I,0,VRP
+700,Liquid,700079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,52577,Liquid,0,VRP
+730,Grease Trap,730050,Grease Trap Serv P/Hour,HR,0,0,1,0,0,N/A,N/A,73785,Liquid,0,VRP
+500,MGB Rear Lift,500141,Deliver 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,81712,C&I,0,VRP
+180,Front Lift Recycling,180002,Waste In Bin On Removal,M3,1,0,1,0,0,Front Lift,Recycling,65559,C&I,1,VRP
+280,Roll On Roll Off Recyclin,283100,Clear 31M Recycle Bin,M3,31,0,1,0,0,RORO,Recycling,9179,C&I,1,VRP
+100,Front Lift,100040,Repair Bin,EA,0,0,0,0,0,Front Lift,General Waste,7734,C&I,0,VRP
+100,Front Lift,101541,Deliver 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,76572,C&I,0,VRP
+100,Front Lift,102000,Clear 2.0M Bin,M3,2,0,1,1,1,Front Lift,General Waste,53613,C&I,1,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,58645,Sale of Other,0,VRP
+600,MGB Co-Mingle,602400,Clear 240LT Co-Mingle Car,M3,0.24,0,1,1,1,Rear Lift,Co-Mingle,91296,C&I,1,VRP
+180,Front Lift Recycling,184541,Deliver 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,73885,C&I,0,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,71934,Sale of Other,0,VRP
+350,Skips,350572,Clear 5.0M Skip Nil Chg,M3,5,0,1,0,0,N/A,N/A,62422,C&I,1,VRP
+100,Front Lift,101572,Clear 1.5M Bin Nil Charge,M3,1.5,0,1,0,0,Front Lift,General Waste,18833,C&I,1,VRP
+560,MGB Clinical,562472,Clear 240LT Clinic Nil Fe,M3,0.24,0,1,0,0,N/A,N/A,11581,C&I,1,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,81042,Sale of Other,0,VRP
+100,Front Lift,100090,Credit Adjustment,ADJ,0,0,0,0,0,Front Lift,General Waste,90529,C&I,0,VRP
+500,MGB Rear Lift,506611,Rent Monthly 660LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,25615,C&I,0,VRP
+500,MGB Rear Lift,500143,Exchange 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,63749,C&I,0,VRP
+100,Front Lift,100068,FL Wkly Sched VisitCharge,EA,0,0,1,0,0,Front Lift,General Waste,84836,C&I,0,VRP
+240,Hook Lift,242042,Remove 20M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,81525,C&I,0,VRP
+180,Front Lift Recycling,183043,Exchange 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,88630,C&I,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,86891,C&I,0,VRP
+200,Roll On Roll Off,201041,Deliver 10M Bin,EA,0,0,0,0,0,RORO,General Waste,64433,C&I,0,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,80861,Sale of Other,0,VRP
+500,MGB Rear Lift,500002,Waste In Bin On Removal,M3,1,0,1,0,0,Rear Lift,General Waste,50904,C&I,1,VRP
+500,MGB Rear Lift,506600,Clear 660LT Cart,M3,0.66,0,1,1,1,Rear Lift,General Waste,70240,C&I,1,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,75999,C&I,0,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,55142,C&I,0,VRP
+710,Septic,710000,Septic Service P/Load,EA,0,0,1,0,0,N/A,N/A,54426,Liquid,0,VRP
+570,MGB Confidential,572400,Clear 240LT Conf Cart,M3,0.24,0,1,0,0,N/A,N/A,71863,C&I,1,VRP
+290,Roll On Roll Off Recyc Pa,293144,Relocate 31M Recyc Packer,EA,0,0,0,0,0,RORO,Recycling,31856,C&I,0,VRP
+100,Front Lift,103011,Rent Monthly 3.0M Bin,EA,0,1,0,0,0,Front Lift,General Waste,58748,C&I,0,VRP
+240,Hook Lift,241241,Deliver 12M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,57863,C&I,0,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,65593,Sale of Other,0,VRP
+580,MGB Commercial Recycling,589915,Fuel Surcharge Recyc Cart,EA,0,0,0,0,0,Rear Lift,Recycling,78454,C&I,0,VRP
+600,MGB Co-Mingle,601172,Clear 1100LT Co-Mingle Ni,M3,1.1,0,1,0,0,Rear Lift,Co-Mingle,41029,C&I,1,VRP
+600,MGB Co-Mingle,601111,Rent Monthly 1100LT Co-Mi,EA,0,1,0,0,0,Rear Lift,Co-Mingle,54817,C&I,0,VRP
+180,Front Lift Recycling,181041,Deliver 1.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,31335,C&I,0,VRP
+550,MGB Hygienic,550041,Deliver Sanitary Bin,EA,0,0,0,0,0,N/A,N/A,62425,C&I,0,VRP
+500,MGB Rear Lift,506641,Deliver 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,22504,C&I,0,VRP
+900,Miscellaneous,900074,Waste Plus(Excess Weight),EA,0,0,0,0,0,N/A,N/A,66103,Sale of Other,0,VRP
+600,MGB Co-Mingle,601143,Exchange 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,51828,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,61600,Sale of Other,0,VRP
+855,CDS,857100,Clear 140LT RtnEarn Bin,M3,0.14,0,1,0,0,N/A,N/A,64865,C&I,1,VRP
+560,MGB Clinical,562400,Clear 240LT Clinical Bin,M3,0.24,0,1,0,0,N/A,N/A,45294,C&I,1,VRP
+500,MGB Rear Lift,506642,Remove 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,67212,C&I,0,VRP
+300,Lift On,300045,Bin Cleaning,EA,0,0,0,0,0,N/A,N/A,81557,C&I,0,VRP
+240,Hook Lift,240632,Tip P/Tonne 6.0M Bin (HL),TON,0,0,1,0,0,RORO,General Waste,79661,C&I,0,VRP
+350,Skips,350941,Deliver 9.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,78582,C&I,0,VRP
+670,MGB Side Lift Recycling,672594,Rebate for Plastic,TON,0,0,1,0,0,N/A,N/A,64048,Rebate,0,VRP
+600,MGB Co-Mingle,601141,Deliver 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,3011,C&I,0,VRP
+190,Front Lift Co-Mingle,191542,Remove 1.5M Co-Mingle Bin,EA,0,0,0,0,0,Front Lift,Co-Mingle,85271,C&I,0,VRP
+850,Recycled Product,852528,Recycled Mixed Plastics,TON,0,0,1,0,0,N/A,N/A,69634,C&I,0,VRP
+350,Skips,350333,Tip P/M3 3.0M Skip,M3,0,0,1,0,0,N/A,N/A,71402,C&I,0,VRP
+300,Lift On,300232,Tip P/Tonne 2.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,72550,C&I,0,VRP
+280,Roll On Roll Off Recyclin,282072,Clear 20M Rec Nil Charge,M3,20,0,1,0,0,RORO,Recycling,76481,C&I,1,VRP
+580,MGB Commercial Recycling,580045,Bin Cleaning,EA,0,0,0,0,0,Rear Lift,Recycling,58702,C&I,0,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,61441,Sale of Other,0,VRP
+240,Hook Lift,241541,Deliver 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,80996,C&I,0,VRP
+555,MGB Refresh Hygienic,557181,Mth Charge Man SaniPod,EA,0,0,0,0,0,N/A,N/A,72892,C&I,0,VRP
+500,MGB Rear Lift,502400,Clear 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,50933,C&I,1,VRP
+200,Roll On Roll Off,202500,Clear 25M Bin,M3,25,0,1,0,0,RORO,General Waste,29351,C&I,1,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,82558,C&I,1,VRP
+240,Hook Lift,241242,Remove 12M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,58388,C&I,0,VRP
+240,Hook Lift,241541,Deliver 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,77433,C&I,0,VRP
+510,MGB Commercial Refuse,512400,Clear 240LT Cart,M3,0.24,0,1,1,1,N/A,N/A,51698,C&I,1,VRP
+100,Front Lift,101506,Clear 1.5M Waste Specific,M3,1.5,0,1,0,0,Front Lift,General Waste,25846,C&I,1,VRP
+100,Front Lift,104510,Rent 4.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,72564,C&I,0,VRP
+670,MGB Side Lift Recycling,679672,Clear Plastic Bag Nil Chg,M3,1,0,1,0,0,N/A,N/A,24964,C&I,1,VRP
+300,Lift On,300430,Tip P/Load 4.0M Bin (LO),EA,0,0,1,0,0,N/A,N/A,64265,C&I,0,VRP
+500,MGB Rear Lift,500143,Exchange 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,80192,C&I,0,VRP
+730,Grease Trap,730034,Tip P/LTR Grease Trap,LTR,0,0,1,0,0,N/A,N/A,91416,Liquid,0,VRP
+500,MGB Rear Lift,506642,Remove 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,77514,C&I,0,VRP
+180,Front Lift Recycling,186042,Remove 6.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,47556,C&I,0,VRP
+100,Front Lift,104542,Remove 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,57189,C&I,0,VRP
+200,Roll On Roll Off,201041,Deliver 10M Bin,EA,0,0,0,0,0,RORO,General Waste,65763,C&I,0,VRP
+500,MGB Rear Lift,502472,Clear 240LT Cart Nil Chg,M3,0.24,0,1,0,0,Rear Lift,General Waste,52480,C&I,1,VRP
+350,Skips,351042,Remove 10M Skip Bin,EA,0,0,0,0,0,N/A,N/A,63096,C&I,0,VRP
+560,MGB Clinical,565010,Rent 50LT Clinical Bin,EA,0,1,0,0,0,N/A,N/A,73685,C&I,0,VRP
+980,GST,980000,Goods and Service Tax,EA,0,0,0,0,0,N/A,N/A,55311,Sale of Other,0,VRP
+500,MGB Rear Lift,500141,Deliver 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,30242,C&I,0,VRP
+220,Roll On Roll Off Feeder B,221541,Deliver 1.5M Tippler Bin,EA,0,0,0,0,0,N/A,N/A,46395,C&I,0,VRP
+710,Septic,710091,Debit Adjustment,ADJ,0,0,0,0,0,N/A,N/A,85172,Liquid,0,VRP
+240,Hook Lift,240600,Clear 6.0M Bin (HL),M3,6,0,1,0,0,RORO,General Waste,67287,C&I,1,VRP
+180,Front Lift Recycling,186010,Rent 6.0M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,38030,C&I,0,VRP
+550,MGB Hygienic,552241,Deliver 22LT Sanitary Bin,EA,0,0,0,0,0,N/A,N/A,20987,C&I,0,VRP
+600,MGB Co-Mingle,602410,Rent 240LT Co-Mingle Cart,EA,0,1,0,0,0,Rear Lift,Co-Mingle,23465,C&I,0,VRP
+510,MGB Commercial Refuse,512470,Contract Clear 240LT Cart,M3,0.24,0,1,0,0,N/A,N/A,82339,C&I,1,VRP
+660,MGB Medical\Pathological,666221,Security Incinerate P/KG,KG,1,0,1,0,0,N/A,N/A,1628,C&I,0,VRP
+700,Liquid,700056,Transportation P/Hour,HR,0,0,1,0,0,N/A,N/A,21628,Liquid,0,VRP
+180,Front Lift Recycling,184572,Clear 4.5M Rec Nil Charge,M3,4.5,0,1,0,0,Front Lift,Recycling,54771,C&I,1,VRP
+510,MGB Commercial Refuse,512407,Clear Customer 240LT Cart,M3,0.24,0,1,1,1,N/A,N/A,70611,C&I,1,VRP
+180,Front Lift Recycling,183040,Repair 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,51820,C&I,0,VRP
+500,MGB Rear Lift,502441,Deliver 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,78450,C&I,0,VRP
+300,Lift On,301142,Remove 11M Bin (LO),EA,0,0,0,0,0,N/A,N/A,69469,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,64316,Sale of Other,0,VRP
+100,Front Lift,101543,Exchange 1.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,68765,C&I,0,VRP
+600,MGB Co-Mingle,602411,Rent Monthly 240LT Co-Min,EA,0,1,0,0,0,Rear Lift,Co-Mingle,62409,C&I,0,VRP
+300,Lift On,300800,Clear 8.0M Bin (LO),M3,8,0,1,0,0,N/A,N/A,65297,C&I,1,VRP
+600,MGB Co-Mingle,602442,Remove 240LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,87963,C&I,0,VRP
+350,Skips,350341,Deliver 3.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,83695,C&I,0,VRP
+200,Roll On Roll Off,203072,Clear 30M Bin Nil Charge,M3,30,0,1,0,0,RORO,General Waste,26834,C&I,1,VRP
+200,Roll On Roll Off,201200,Clear 12M Bin,M3,12,0,1,0,0,RORO,General Waste,70892,C&I,1,VRP
+350,Skips,350432,Tip P/Tonne 4.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,56846,C&I,0,VRP
+500,MGB Rear Lift,509110,Rent 1000LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,67806,C&I,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,10843,C&I,0,VRP
+240,Hook Lift,241230,Tip P/Load 12M Bin (HL),EA,0,0,1,0,0,RORO,General Waste,91144,C&I,0,VRP
+280,Roll On Roll Off Recyclin,280294,Rebate for Cardboard,TON,0,0,1,0,0,RORO,Recycling,52984,Rebate,0,VRP
+100,Front Lift,100066,FL Wkly Extra VisitCharge,EA,0,0,1,0,0,Front Lift,General Waste,1363,C&I,0,VRP
+600,MGB Co-Mingle,606642,Remove 660LT Co-Mingle Ca,EA,0,0,0,0,0,Rear Lift,Co-Mingle,70053,C&I,0,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,69083,C&I,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,64514,C&I,0,VRP
+520,MGB Domestic Refuse,522472,Clear 240LT Cart Nil Chg,M3,0.24,0,1,0,0,N/A,N/A,74686,C&I,1,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,89660,C&I,1,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,59386,Sale of Other,0,VRP
+350,Skips,351242,Remove 12M Skip Bin,EA,0,0,0,0,0,N/A,N/A,37631,C&I,0,VRP
+750,Environmental Services,750032,Tip P/Tonne Hazardous Wst,TON,0,0,1,0,0,N/A,N/A,86025,Liquid,0,VRP
+350,Skips,350300,Clear 3.0M Skip Bin,M3,3,0,1,0,0,N/A,N/A,36412,C&I,1,VRP
+560,MGB Clinical,560176,Levy EPA Reporting,EA,0,0,0,0,0,N/A,N/A,25363,C&I,0,VRP
+300,Lift On,300542,Remove 5.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,84854,C&I,0,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,54171,Sale of Other,0,VRP
+240,Hook Lift,243041,Deliver 30M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,64289,C&I,0,VRP
+670,MGB Side Lift Recycling,679272,Clear Plastic Bale NilChg,M3,1,0,1,0,0,N/A,N/A,38045,C&I,1,VRP
+500,MGB Rear Lift,500143,Exchange 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,69609,C&I,0,VRP
+300,Lift On,300600,Clear 6.0M Bin (LO),M3,6,0,1,0,0,N/A,N/A,80350,C&I,1,VRP
+500,MGB Rear Lift,502442,Remove 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,46899,C&I,0,VRP
+210,Roll On Roll Off Packer,211932,Tip P/Tonne 19M Packer,TON,0,0,1,0,0,RORO,General Waste,52272,C&I,0,VRP
+200,Roll On Roll Off,201555,Futile 15M Bin,EA,0,0,1,0,0,RORO,General Waste,41021,C&I,0,VRP
+240,Hook Lift,241242,Remove 12M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,66244,C&I,0,VRP
+180,Front Lift Recycling,181500,Clear 1.5M Recycle Bin,M3,1.5,0,1,0,1,Front Lift,Recycling,7738,C&I,1,VRP
+280,Roll On Roll Off Recyclin,281572,Clear 15M Recyc Nil Chg,M3,15,0,1,0,0,RORO,Recycling,83126,C&I,1,VRP
+180,Front Lift Recycling,183010,Rent 3.0M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,73174,C&I,0,VRP
+500,MGB Rear Lift,506610,Rent 660LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,40279,C&I,0,VRP
+150,Front Lift Clean Up,153072,Clear 3.0M Clean Nil Chg,M3,3,0,1,0,0,N/A,N/A,61003,C&I,1,VRP
+580,MGB Commercial Recycling,581141,Deliver 1100LT Recycle Ca,EA,0,0,0,0,0,Rear Lift,Recycling,25738,C&I,0,VRP
+180,Front Lift Recycling,184541,Deliver 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,5697,C&I,0,VRP
+240,Hook Lift,241041,Deliver 10M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,84871,C&I,0,VRP
+500,MGB Rear Lift,506644,Relocate 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,49658,C&I,0,VRP
+900,Miscellaneous,900088,Environmental Fee,EA,0,0,0,0,0,N/A,N/A,84144,Sale of Other,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,53560,C&I,0,VRP
+100,Front Lift,100056,Transportation P/Hour,HR,0,0,1,0,0,Front Lift,General Waste,89334,C&I,0,VRP
+731,WasteSafe,730134,Tip P/LTR WasteSafe,LTR,0,0,1,0,0,N/A,N/A,50079,Liquid,0,VRP
+580,MGB Commercial Recycling,581111,Rent Monthly 1100LT Recyc,EA,0,1,0,0,0,Rear Lift,Recycling,80811,C&I,0,VRP
+280,Roll On Roll Off Recyclin,283000,Clear 30M Recycle Bin,M3,30,0,1,0,0,RORO,Recycling,61588,C&I,1,VRP
+350,Skips,350641,Deliver 6.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,48927,C&I,0,VRP
+300,Lift On,300941,Deliver 9.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,80351,C&I,0,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,70789,C&I,1,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,72624,Sale of Other,0,VRP
+500,MGB Rear Lift,500048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Rear Lift,General Waste,76018,C&I,0,VRP
+500,MGB Rear Lift,500172,Clear 1100LT Cart Nil Chg,M3,1.1,0,1,0,0,Rear Lift,General Waste,86115,C&I,1,VRP
+580,MGB Commercial Recycling,581110,Rent 1100LT Recycle Cart,EA,0,1,0,0,0,Rear Lift,Recycling,80577,C&I,0,VRP
+457,Subcontractor MGB Confidential,457210,Rent 240LT Conf Cart,EA,0,1,0,0,0,N/A,N/A,64328,C&I,0,VRP
+350,Skips,350200,Clear 2.0M Skip Bin,M3,2,0,1,0,0,N/A,N/A,87222,C&I,1,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,241,C&I,0,VRP
+500,MGB Rear Lift,501241,Deliver 120LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,54541,C&I,0,VRP
+300,Lift On,300842,Remove 8.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,64461,C&I,0,VRP
+600,MGB Co-Mingle,602410,Rent 240LT Co-Mingle Cart,EA,0,1,0,0,0,Rear Lift,Co-Mingle,56688,C&I,0,VRP
+300,Lift On,301041,Deliver 10M Bin (LO),EA,0,0,0,0,0,N/A,N/A,63778,C&I,0,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,86539,C&I,0,VRP
+210,Roll On Roll Off Packer,212300,Clear 23M Packer,M3,23,0,1,0,0,RORO,General Waste,32728,C&I,1,VRP
+200,Roll On Roll Off,201242,Remove 12M Bin,EA,0,0,0,0,0,RORO,General Waste,27095,C&I,0,VRP
+550,MGB Hygienic,552242,Remove 22LT Sanitary Bin,EA,0,0,0,0,0,N/A,N/A,28728,C&I,0,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,1116,C&I,0,VRP
+240,Hook Lift,242000,Clear 20M Bin (HL),M3,20,0,1,0,0,RORO,General Waste,64576,C&I,1,VRP
+350,Skips,350741,Deliver 7.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,60523,C&I,0,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,65056,Sale of Other,0,VRP
+300,Lift On,300055,Charge Attendance,EA,0,0,0,0,0,N/A,N/A,68031,C&I,0,VRP
+530,MGB Green Waste/Organics,532500,Clear 240LT Organics,M3,0.24,0,1,1,1,Rear Lift,Organic,72044,C&I,1,VRP
+240,Hook Lift,243000,Clear 30M Bin (HL),M3,30,0,1,0,0,RORO,General Waste,53930,C&I,1,VRP
+710,Septic,710024,Septic Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,88436,Liquid,0,VRP
+180,Front Lift Recycling,184507,Clear Customer 4.5M Recyc,M3,4.5,0,1,0,1,Front Lift,Recycling,39891,C&I,1,VRP
+180,Front Lift Recycling,183042,Remove 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,56572,C&I,0,VRP
+350,Skips,350472,Clear 4.0M Skip Nil Chg,M3,4,0,1,0,0,N/A,N/A,80356,C&I,1,VRP
+580,MGB Commercial Recycling,581141,Deliver 1100LT Recycle Ca,EA,0,0,0,0,0,Rear Lift,Recycling,60529,C&I,0,VRP
+200,Roll On Roll Off,200049,Sundry Item,EA,0,0,0,0,0,RORO,General Waste,59437,C&I,0,VRP
+180,Front Lift Recycling,184510,Rent 4.5M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,14683,C&I,0,VRP
+150,Front Lift Clean Up,152000,Clear 2.0M Clean Up Bin,M3,2,0,1,0,0,N/A,N/A,74020,C&I,1,VRP
+900,Miscellaneous,900052,WasteTracker-CWY issued,EA,0,0,0,0,0,N/A,N/A,171107,NULL,NULL,VRP
+300,Lift On,301100,Clear 11M Bin (LO),M3,11,0,1,0,0,N/A,N/A,82173,C&I,1,VRP
+600,MGB Co-Mingle,600078,Charge Contaminated Load,EA,0,0,0,0,0,Rear Lift,Co-Mingle,75811,C&I,0,VRP
+550,MGB Hygienic,554900,Serv Manual Femcare Unit,EA,0,0,1,0,0,N/A,N/A,57481,C&I,0,VRP
+210,Roll On Roll Off Packer,212310,Rent 23M Packer,EA,0,1,0,0,0,RORO,General Waste,38553,C&I,0,VRP
+600,MGB Co-Mingle,601142,Remove 1100LT Co-Mingle C,EA,0,0,0,0,0,Rear Lift,Co-Mingle,56077,C&I,0,VRP
+240,Hook Lift,240049,Sundry Item,EA,0,0,0,0,0,RORO,General Waste,56996,C&I,0,VRP
+900,Miscellaneous,900090,Credit Adjustment,ADJ,0,0,0,0,0,N/A,N/A,10739,Sale of Other,0,VRP
+300,Lift On,300342,Remove 3.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,77403,C&I,0,VRP
+457,Subcontractor MGB Confidential,457241,Deliver 240LT Conf Cart,EA,0,0,0,0,0,N/A,N/A,68656,C&I,0,VRP
+350,Skips,350900,Clear 9.0M Skip Bin,M3,9,0,1,0,0,N/A,N/A,76638,C&I,1,VRP
+200,Roll On Roll Off,200048,Bars \ Locks \ Keys,EA,0,0,0,0,0,RORO,General Waste,88471,C&I,0,VRP
+600,MGB Co-Mingle,601143,Exchange 1100LT Co-Mingle,EA,0,0,0,0,0,Rear Lift,Co-Mingle,56865,C&I,0,VRP
+550,MGB Hygienic,554841,Install Auto Femcare Unit,EA,0,0,0,0,0,N/A,N/A,75162,C&I,0,VRP
+240,Hook Lift,241541,Deliver 15M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,78491,C&I,0,VRP
+200,Roll On Roll Off,201032,Tip P/Tonne 10M Bin,TON,0,0,1,0,0,RORO,General Waste,76448,C&I,0,VRP
+200,Roll On Roll Off,203100,Clear 31M Bin,M3,31,0,1,0,0,RORO,General Waste,46165,C&I,1,VRP
+300,Lift On,300432,Tip P/Tonne 4.0M Bin (LO),TON,0,0,1,0,0,N/A,N/A,87428,C&I,0,VRP
+100,Front Lift,100003,Waste In Bin On Exchange,M3,1,0,1,0,0,Front Lift,General Waste,63588,C&I,1,VRP
+240,Hook Lift,241141,Deliver 11M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,58062,C&I,0,VRP
+260,Hook Lift Small,260841,Deliver 8.0M Bin (HL),EA,0,0,0,0,0,N/A,N/A,65157,C&I,0,VRP
+350,Skips,350842,Remove 8.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,35383,C&I,0,VRP
+640,MGB Beckton & Dickenson S,647600,Service 7.6LT B&D Sharps,M3,0.01,0,1,0,0,N/A,N/A,19439,C&I,1,VRP
+650,MGB Pathological\Infectio,650500,Service 5.0LT P&I Sharps,M3,0.01,0,1,0,0,N/A,N/A,17454,C&I,1,VRP
+280,Roll On Roll Off Recyclin,281241,Deliver 12M Recycle Bin,EA,0,0,0,0,0,RORO,Recycling,31854,C&I,0,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,67258,Sale of Other,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,77451,C&I,1,VRP
+580,MGB Commercial Recycling,582400,Clear 240LT Recycle Cart,M3,0.24,0,1,0,1,Rear Lift,Recycling,91841,C&I,1,VRP
+500,MGB Rear Lift,502411,Rent Monthly 240LT Cart,EA,0,1,0,0,0,Rear Lift,General Waste,19057,C&I,0,VRP
+150,Front Lift Clean Up,153000,Clear 3.0M Clean Up Bin,M3,3,0,1,0,0,N/A,N/A,90167,C&I,1,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,73912,C&I,0,VRP
+180,Front Lift Recycling,181543,Exchange 1.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,36546,C&I,0,VRP
+300,Lift On,300600,Clear 6.0M Bin (LO),M3,6,0,1,0,0,N/A,N/A,61629,C&I,1,VRP
+700,Liquid,700351,Truck Hire P/Hour,HR,0,0,0,0,0,N/A,N/A,70117,Liquid,0,VRP
+180,Front Lift Recycling,184542,Remove 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,91128,C&I,0,VRP
+350,Skips,350600,Clear 6.0M Skip Bin,M3,6,0,1,0,0,N/A,N/A,65471,C&I,1,VRP
+700,Liquid,700421,Oily Water Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,61736,Liquid,0,VRP
+730,Grease Trap,730034,Tip P/LTR Grease Trap,LTR,0,0,1,0,0,N/A,N/A,77948,Liquid,0,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,68276,C&I,1,VRP
+100,Front Lift,104541,Deliver 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,86642,C&I,0,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,69019,C&I,1,VRP
+710,Septic,710024,Septic Service P/LTR,LTR,0,0,1,0,0,N/A,N/A,88293,Liquid,0,VRP
+630,MGB Bio Can Sharps,633241,Deliver 3.2LT Bio Sharps,EA,0,0,0,0,0,N/A,N/A,12935,C&I,0,VRP
+540,MGB Sharps,548041,Deliver 8.0LT Sharps Bin,EA,0,0,0,0,0,N/A,N/A,49284,C&I,0,VRP
+350,Skips,350400,Clear 4.0M Skip Bin,M3,4,0,1,0,0,N/A,N/A,68304,C&I,1,VRP
+950,Rebates,950000,Rebates,EA,0,0,0,0,0,N/A,N/A,81380,Rebate,0,VRP
+300,Lift On,301541,Deliver 15M Bin (LO),EA,0,0,0,0,0,N/A,N/A,67347,C&I,0,VRP
+180,Front Lift Recycling,189649,Sale of Recycle Bag,EA,0,0,0,0,0,Front Lift,Recycling,18161,Sale of Other,0,VRP
+580,MGB Commercial Recycling,580002,Waste In Bin On Removal,M3,1,0,1,0,0,Rear Lift,Recycling,31995,C&I,1,VRP
+600,MGB Co-Mingle,601100,Clear 1100LT Co-Mingle Ca,M3,1.1,0,1,1,1,Rear Lift,Co-Mingle,5188,C&I,1,VRP
+290,Roll On Roll Off Recyc Pa,293007,Clear Cust 30M Recyc Pack,M3,30,0,1,0,0,RORO,Recycling,82979,C&I,1,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,52262,C&I,0,VRP
+240,Hook Lift,240633,Tip P/M3 6.0M Bin (HL),M3,0,0,1,0,0,RORO,General Waste,85860,C&I,0,VRP
+350,Skips,350642,Remove 6.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,88689,C&I,0,VRP
+500,MGB Rear Lift,500456,Transportation P/Load,EA,0,0,1,0,0,Rear Lift,General Waste,55712,C&I,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,40778,C&I,1,VRP
+580,MGB Commercial Recycling,581172,Clear 1100LT Recyc Nil Fe,M3,1.1,0,1,0,0,Rear Lift,Recycling,54988,C&I,1,VRP
+500,MGB Rear Lift,500143,Exchange 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,83892,C&I,0,VRP
+300,Lift On,300442,Remove 4.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,60180,C&I,0,VRP
+600,MGB Co-Mingle,606611,Rent Monthly 660LT Co-Min,EA,0,1,0,0,0,Rear Lift,Co-Mingle,31601,C&I,0,VRP
+200,Roll On Roll Off,201200,Clear 12M Bin,M3,12,0,1,0,0,RORO,General Waste,18032,C&I,1,VRP
+580,MGB Commercial Recycling,589105,Clear Cardboard Bale,M3,1,0,1,0,0,Rear Lift,Recycling,75260,C&I,1,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,68639,C&I,1,VRP
+100,Front Lift,104541,Deliver 4.5M Bin,EA,0,0,0,0,0,Front Lift,General Waste,26457,C&I,0,VRP
+180,Front Lift Recycling,183000,Clear 3.0M Recycle Bin,M3,3,0,1,0,1,Front Lift,Recycling,84427,C&I,1,VRP
+180,Front Lift Recycling,184544,Relocate 4.5M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,91639,C&I,0,VRP
+240,Hook Lift,241072,Clear 10M Bin Nil Charge,M3,10,0,1,0,0,RORO,General Waste,73676,C&I,1,VRP
+580,MGB Commercial Recycling,581241,Deliver 120LT Recycle Car,EA,0,0,0,0,0,Rear Lift,Recycling,75203,C&I,0,VRP
+500,MGB Rear Lift,506642,Remove 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,88544,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,52678,Sale of Other,0,VRP
+150,Front Lift Clean Up,152042,Remove 2.0M Clean Up Bin,EA,0,0,0,0,0,N/A,N/A,63302,C&I,0,VRP
+100,Front Lift,100040,Repair Bin,EA,0,0,0,0,0,Front Lift,General Waste,51173,C&I,0,VRP
+200,Roll On Roll Off,202355,Futile 23M Bin,EA,0,0,1,0,0,RORO,General Waste,44995,C&I,0,VRP
+240,Hook Lift,241200,Clear 12M Bin (HL),M3,12,0,1,0,0,RORO,General Waste,84995,C&I,1,VRP
+200,Roll On Roll Off,201042,Remove 10M Bin,EA,0,0,0,0,0,RORO,General Waste,89607,C&I,0,VRP
+100,Front Lift,103072,Clear 3.0M Bin Nil Charge,M3,3,0,1,0,0,Front Lift,General Waste,9171,C&I,1,VRP
+500,MGB Rear Lift,500048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Rear Lift,General Waste,69314,C&I,0,VRP
+350,Skips,350932,Tip P/Tonne 9.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,85014,C&I,0,VRP
+300,Lift On,300242,Remove 2.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,67796,C&I,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,56475,Sale of Other,0,VRP
+350,Skips,351241,Deliver 12M Skip Bin,EA,0,0,0,0,0,N/A,N/A,865,C&I,0,VRP
+100,Front Lift,100045,Bin Cleaning,EA,0,0,0,0,0,Front Lift,General Waste,70744,C&I,0,VRP
+280,Roll On Roll Off Recyclin,281200,Clear 12M Recycle Bin,M3,12,0,1,0,0,RORO,Recycling,67481,C&I,1,VRP
+710,Septic,710051,Truck Hire P/Hour,HR,0,0,0,0,0,N/A,N/A,68141,Liquid,0,VRP
+500,MGB Rear Lift,506643,Exchange 660LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,91354,C&I,0,VRP
+580,MGB Commercial Recycling,582441,Deliver 240LT Recyc Cart,EA,0,0,0,0,0,Rear Lift,Recycling,81013,C&I,0,VRP
+350,Skips,350672,Clear 6.0M Skip Nil Chg,M3,6,0,1,0,0,N/A,N/A,47804,C&I,1,VRP
+350,Skips,350456,Transportation P/Load,EA,0,0,1,0,0,N/A,N/A,87432,C&I,0,VRP
+200,Roll On Roll Off,203141,Deliver 31M Bin,EA,0,0,0,0,0,RORO,General Waste,1617,C&I,0,VRP
+240,Hook Lift,243043,Exchange 30M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,91649,C&I,0,VRP
+220,Roll On Roll Off Feeder B,221542,Remove 1.5M Tippler Bin,EA,0,0,0,0,0,N/A,N/A,76451,C&I,0,VRP
+200,Roll On Roll Off,203041,Deliver 30M Bin,EA,0,0,0,0,0,RORO,General Waste,16565,C&I,0,VRP
+100,Front Lift,103041,Deliver 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,88835,C&I,0,VRP
+900,Miscellaneous,900000,Late Payment Fee,EA,0,0,0,0,0,N/A,N/A,82955,Sale of Other,0,VRP
+840,Product Destruction,840000,Product Destruction,TON,1,0,1,0,0,N/A,N/A,91333,C&I,1,VRP
+500,MGB Rear Lift,500002,Waste In Bin On Removal,M3,1,0,1,0,0,Rear Lift,General Waste,8213,C&I,1,VRP
+540,MGB Sharps,540010,Rent Sharps Bin,EA,0,1,0,0,0,N/A,N/A,79623,C&I,0,VRP
+580,MGB Commercial Recycling,581172,Clear 1100LT Recyc Nil Fe,M3,1.1,0,1,0,0,Rear Lift,Recycling,44258,C&I,1,VRP
+180,Front Lift Recycling,184000,Clear 4.0M Recycle Bin,M3,4,0,1,0,1,Front Lift,Recycling,51455,C&I,1,VRP
+180,Front Lift Recycling,183042,Remove 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,64273,C&I,0,VRP
+580,MGB Commercial Recycling,581210,Rent 120LT Recycle Cart,EA,0,1,0,0,0,Rear Lift,Recycling,11963,C&I,0,VRP
+500,MGB Rear Lift,502407,Clear Customer 240LT Cart,M3,0.24,0,1,1,1,Rear Lift,General Waste,63583,C&I,1,VRP
+350,Skips,353141,Deliver 31M Skip Bin,EA,0,0,0,0,0,N/A,N/A,20212,C&I,0,VRP
+555,MGB Refresh Hygienic,557070,Cont Service Auto SaniPod,EA,0,0,1,0,0,N/A,N/A,78585,C&I,0,VRP
+300,Lift On,301233,Tip P/M3 12M Bin (LO),M3,0,0,1,0,0,N/A,N/A,60448,C&I,0,VRP
+350,Skips,350800,Clear 8.0M Skip Bin,M3,8,0,1,0,0,N/A,N/A,60747,C&I,1,VRP
+100,Front Lift,100137,Tip Extra Charge,EA,0,0,1,0,0,Front Lift,General Waste,91577,C&I,0,VRP
+240,Hook Lift,241500,Clear 15M Bin (HL),M3,15,0,1,0,0,RORO,General Waste,50729,C&I,1,VRP
+500,MGB Rear Lift,501110,Rent 1.1M Bin,EA,0,1,0,0,0,Rear Lift,General Waste,64477,C&I,0,VRP
+700,Liquid,700400,Oily Water Service P/Load,EA,0,0,1,0,0,N/A,N/A,84051,Liquid,0,VRP
+500,MGB Rear Lift,500141,Deliver 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,54600,C&I,0,VRP
+130,Front Lift Organic,133072,Clr 3.0M Org Bin Nil Chg,M3,3,0,1,0,0,Front Lift,Organic,84123,C&I,1,VRP
+670,MGB Side Lift Recycling,672594,Rebate for Plastic,TON,0,0,1,0,0,N/A,N/A,80267,Rebate,0,VRP
+500,MGB Rear Lift,500003,Waste In Bin On Exchange,M3,1,0,1,0,0,Rear Lift,General Waste,68884,C&I,1,VRP
+100,Front Lift,101507,Clear Customer 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,56097,C&I,1,VRP
+350,Skips,350341,Deliver 3.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,30497,C&I,0,VRP
+300,Lift On,301242,Remove 12M Bin (LO),EA,0,0,0,0,0,N/A,N/A,67367,C&I,0,VRP
+100,Front Lift,101143,Exchange 1.1M Bin,EA,0,0,0,0,0,Front Lift,General Waste,39006,C&I,0,VRP
+300,Lift On,300910,Rent 9.0M Bin (LO),EA,0,1,0,0,0,N/A,N/A,57169,C&I,0,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,76630,C&I,0,VRP
+992,Adjustments,998000,Transfer Father A/C - GST,EA,0,0,0,0,0,N/A,N/A,79226,Sale of Other,0,VRP
+900,Miscellaneous,900064,On-call Booking Charge,EA,0,0,0,0,0,N/A,N/A,89538,Sale of Other,0,VRP
+100,Front Lift,100002,Waste In Bin On Removal,M3,1,0,1,0,0,Front Lift,General Waste,68112,C&I,1,VRP
+180,Front Lift Recycling,183041,Deliver 3.0M Recycle Bin,EA,0,0,0,0,0,Front Lift,Recycling,88508,C&I,0,VRP
+350,Skips,350232,Tip P/Tonne 2.0M Skip Bin,TON,0,0,1,0,0,N/A,N/A,79708,C&I,0,VRP
+450,Subcontractor MGB Rear Lift,450049,Sundry Item,EA,0,0,0,0,0,N/A,N/A,88316,C&I,0,VRP
+992,Adjustments,999943,Reallocation Jnl CR - GST,EA,0,0,0,0,0,N/A,N/A,64425,Sale of Other,0,VRP
+500,MGB Rear Lift,506672,Clear 660LT Cart Nil Chg,M3,0.66,0,1,0,0,Rear Lift,General Waste,34059,C&I,1,VRP
+100,Front Lift,100048,Bars \ Locks \ Keys,EA,0,0,0,0,0,Front Lift,General Waste,58674,C&I,0,VRP
+730,Grease Trap,730025,Grease Trap Service P/KLT,KLT,0,0,1,0,0,N/A,N/A,75767,Liquid,0,VRP
+300,Lift On,300441,Deliver 4.0M Bin (LO),EA,0,0,0,0,0,N/A,N/A,84938,C&I,0,VRP
+190,Front Lift Co-Mingle,193041,Deliver 3.0M Co-Mingle Bi,EA,0,0,0,0,0,Front Lift,Co-Mingle,51317,C&I,0,VRP
+900,Miscellaneous,900101,Invoice Balance to JDE,EA,0,0,0,0,0,N/A,N/A,22255,Sale of Other,0,VRP
+900,Miscellaneous,900061,Paper Invoice Fee,EA,0,0,0,0,0,N/A,N/A,74028,Sale of Other,0,VRP
+100,Front Lift,101510,Rent 1.5M Bin,EA,0,1,0,0,0,Front Lift,General Waste,83542,C&I,0,VRP
+100,Front Lift,103000,Clear 3.0M Bin,M3,3,0,1,1,1,Front Lift,General Waste,68638,C&I,1,VRP
+250,Hook Lift Packer,252507,Clear Customer 25M Packer,M3,25,0,1,0,0,RORO,General Waste,83692,C&I,1,VRP
+730,Grease Trap,730034,Tip P/LTR Grease Trap,LTR,0,0,1,0,0,N/A,N/A,56193,Liquid,0,VRP
+300,Lift On,300833,Tip P/M3 8.0M Bin (LO),M3,0,0,1,0,0,N/A,N/A,50259,C&I,0,VRP
+100,Front Lift,100067,FL Wkly Weight Charge,TON,0,0,1,0,0,Front Lift,General Waste,3622,C&I,0,VRP
+240,Hook Lift,240035,Charge Secure Burial,EA,0,0,1,0,0,RORO,General Waste,71573,C&I,0,VRP
+550,MGB Hygienic,550042,Remove Sanitary Bin,EA,0,0,0,0,0,N/A,N/A,19559,C&I,0,VRP
+480,Subcontractor Miscellaneo,480036,Tip P/Qty Waste,EA,0,0,1,0,0,N/A,N/A,84737,C&I,0,VRP
+500,MGB Rear Lift,501141,Deliver 1.1M Bin,EA,0,0,0,0,0,Rear Lift,General Waste,86551,C&I,0,VRP
+200,Roll On Roll Off,201000,Clear 10M Bin,M3,10,0,1,0,0,RORO,General Waste,68677,C&I,1,VRP
+300,Lift On,300700,Clear 7.5M Bin (LO),M3,7.5,0,1,0,0,N/A,N/A,59709,C&I,1,VRP
+500,MGB Rear Lift,500100,Clear 1100LT Cart,M3,1.1,0,1,1,1,Rear Lift,General Waste,70801,C&I,1,VRP
+300,Lift On,300300,Clear 3.0M Bin (LO),M3,3,0,1,0,0,N/A,N/A,83825,C&I,1,VRP
+555,MGB Refresh Hygienic,557100,Service Manual Sanipod,EA,1,0,1,0,0,N/A,N/A,34418,C&I,1,VRP
+350,Skips,350855,Futile 8.0M Skip,EA,0,0,1,0,0,N/A,N/A,44746,C&I,0,VRP
+100,Front Lift,103043,Exchange 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,2847,C&I,0,VRP
+300,Lift On,300741,Deliver 7.5M Bin (LO),EA,0,0,0,0,0,N/A,N/A,83597,C&I,0,VRP
+350,Skips,350772,Clear 7.0M Skip Nil Chg,M3,7,0,1,0,0,N/A,N/A,59276,C&I,1,VRP
+100,Front Lift,103500,Clear 3.5M Bin,M3,3.5,0,1,1,1,Front Lift,General Waste,70823,C&I,1,VRP
+471,Subcontractor Septic,471079,Levy Environmental Permit,EA,0,0,0,0,0,N/A,N/A,57809,C&I,0,VRP
+200,Roll On Roll Off,202541,Deliver 25M Bin,EA,0,0,0,0,0,RORO,General Waste,2724,C&I,0,VRP
+100,Front Lift,103042,Remove 3.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,40266,C&I,0,VRP
+100,Front Lift,102042,Remove 2.0M Bin,EA,0,0,0,0,0,Front Lift,General Waste,57563,C&I,0,VRP
+500,MGB Rear Lift,500142,Remove 1100LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,81615,C&I,0,VRP
+500,MGB Rear Lift,501143,Exchange 1.1M Bin,EA,0,0,0,0,0,Rear Lift,General Waste,24708,C&I,0,VRP
+100,Front Lift,101500,Clear 1.5M Bin,M3,1.5,0,1,1,1,Front Lift,General Waste,39401,C&I,1,VRP
+350,Skips,350941,Deliver 9.0M Skip Bin,EA,0,0,0,0,0,N/A,N/A,77274,C&I,0,VRP
+580,MGB Commercial Recycling,581142,Remove 1100LT Recycle Car,EA,0,0,0,0,0,Rear Lift,Recycling,14815,C&I,0,VRP
+730,Grease Trap,730034,Tip P/LTR Grease Trap,LTR,0,0,1,0,0,N/A,N/A,66075,Liquid,0,VRP
+500,MGB Rear Lift,502443,Exchange 240LT Cart,EA,0,0,0,0,0,Rear Lift,General Waste,41278,C&I,0,VRP
+100,Front Lift,102600,Clear 2.6M Bin,M3,2.6,0,1,1,1,Front Lift,General Waste,53712,C&I,1,VRP
+992,Adjustments,999000,Transfer Father A/C,EA,0,0,0,0,0,N/A,N/A,79961,Sale of Other,0,VRP
+560,MGB Clinical,561200,Clear 120LT Clinical Bin,M3,0.12,0,1,0,0,N/A,N/A,3515,C&I,1,VRP
+580,MGB Commercial Recycling,581142,Remove 1100LT Recycle Car,EA,0,0,0,0,0,Rear Lift,Recycling,14454,C&I,0,VRP
+180,Front Lift Recycling,181510,Rent 1.5M Recycle Bin,EA,0,1,0,0,0,Front Lift,Recycling,62886,C&I,0,VRP
+580,MGB Commercial Recycling,581107,Clear Customer 1100LT Rec,M3,1.1,0,1,0,1,Rear Lift,Recycling,62872,C&I,1,VRP
+100,Front Lift,100055,Charge Attendance,EA,0,0,0,0,0,Front Lift,General Waste,33583,C&I,0,VRP
+350,Skips,350600,Clear 6.0M Skip Bin,M3,6,0,1,0,0,N/A,N/A,74023,C&I,1,VRP
+100,Front Lift,106642,Remove 660LT Bin,EA,0,0,0,0,0,Front Lift,General Waste,91667,C&I,0,VRP
+240,Hook Lift,243141,Deliver 31M Bin (HL),EA,0,0,0,0,0,RORO,General Waste,6707,C&I,0,VRP
+300,Lift On,300900,Clear 9.0M Bin (LO),M3,9,0,1,0,0,N/A,N/A,63569,C&I,1,VRP
+530,MGB Green Waste/Organics,532500,Clear 240LT Organics,M3,0.24,0,1,1,1,Rear Lift,Organic,19190,C&I,1,VRP
