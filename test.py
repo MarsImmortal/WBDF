@@ -367,30 +367,19 @@ def broad(input_dim, output_dim, constraint):
     return Dense(output_dim, input_dim=input_dim, activation='softmax', kernel_constraint=constraint)
 
 
+import tensorflow as tf
+from tensorflow.keras.layers import Layer
+
+class CastLayer(Layer):
+    def call(self, inputs):
+        return tf.cast(inputs, tf.float32)
+
 def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, dnn_hidden_units=(256, 256),
                 cin_layer_size=(128, 128,), cin_split_half=True, cin_activation='relu', l2_reg_linear=0.00001,
                 use_fm=False, fm_group=None,
                 l2_reg_embedding=0.00001, l2_reg_dnn=0, l2_reg_cin=0, seed=1024, dnn_dropout=0,
                 dnn_activation='relu', dnn_use_bn=False, task='binary'):
-    """	Instantiates the xDeepFM architecture.
-
-    :param linear_feature_columns: An iterable containing all the features used by linear part of the model.
-    :param dnn_feature_columns: An iterable containing all the features used by deep part of the model.
-    :param dnn_hidden_units: list,list of positive integer or empty list, the layer number and units in each layer of deep net
-    :param cin_layer_size: list,list of positive integer or empty list, the feature maps  in each hidden layer of Compressed Interaction Network
-    :param cin_split_half: bool.if set to True, half of the feature maps in each hidden will connect to output unit
-    :param cin_activation: activation function used on feature maps
-    :param l2_reg_linear: float. L2 regularizer strength applied to linear part
-    :param l2_reg_embedding: L2 regularizer strength applied to embedding vector
-    :param l2_reg_dnn: L2 regularizer strength applied to deep net
-    :param l2_reg_cin: L2 regularizer strength applied to CIN.
-    :param seed: integer ,to use as random seed.
-    :param dnn_dropout: float in [0,1), the probability we will drop out a given DNN coordinate.
-    :param dnn_activation: Activation function to use in DNN
-    :param dnn_use_bn: bool. Whether use BatchNormalization before activation or not in DNN
-    :param task: str, ``"binary"`` for  binary logloss or  ``"regression"`` for regression loss
-    :return: A Keras model instance.
-    """
+    """Instantiates the xDeepFM architecture."""
 
     features = build_input_features(dnn_feature_columns)
     broad_inputs = Input((broad_units,), name='broad')
@@ -408,8 +397,10 @@ def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, 
     dnn_output = DNN(dnn_hidden_units, dnn_activation, l2_reg_dnn, dnn_dropout, dnn_use_bn, seed=seed)(dnn_input)
     dnn_output = tf.keras.layers.Dense(
         output_units, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(dnn_output)
-    broad_output = tf.cast(broad_output, tf.float32)
-    dnn_output = tf.cast(dnn_output, tf.float32)
+
+    broad_output = CastLayer()(broad_output)
+    dnn_output = CastLayer()(dnn_output)
+
     output = tf.concat([broad_output, dnn_output], axis=-1)
 
     if len(cin_layer_size) > 0:
@@ -419,16 +410,13 @@ def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, 
             exFM_out)
         output = tf.concat([output, exFM_logit], axis=-1)
 
-    if use_fm == True:
+    if use_fm:
         from deepctr.layers.interaction import FM
         from deepctr.feature_column import DEFAULT_GROUP_NAME
         if fm_group is None:
             fm_group = [DEFAULT_GROUP_NAME]
         group_embedding_dict, _ = input_from_feature_columns(features, dnn_feature_columns, l2_reg_embedding,
                                                              seed, support_group=True)
-        #with open('../data/group_embedding_dict.txt', 'w') as f:
-            #dump(group_embedding_dict, f)
-
         fm_logit = add_func([FM()(concat_func(v, axis=1))
                              for k, v in group_embedding_dict.items() if k in fm_group])
 
@@ -441,7 +429,6 @@ def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, 
 
     model = tf.keras.models.Model(inputs=inputs_list, outputs=output)
     return model
-
 
 class softmax_weight(Constraint):
     """Constrains weight tensors to be under softmax `."""
