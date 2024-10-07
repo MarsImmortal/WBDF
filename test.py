@@ -372,26 +372,6 @@ def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, 
                 use_fm=False, fm_group=None,
                 l2_reg_embedding=0.00001, l2_reg_dnn=0, l2_reg_cin=0, seed=1024, dnn_dropout=0,
                 dnn_activation='relu', dnn_use_bn=False, task='binary'):
-    """	Instantiates the xDeepFM architecture.
-
-    :param linear_feature_columns: An iterable containing all the features used by linear part of the model.
-    :param dnn_feature_columns: An iterable containing all the features used by deep part of the model.
-    :param dnn_hidden_units: list,list of positive integer or empty list, the layer number and units in each layer of deep net
-    :param cin_layer_size: list,list of positive integer or empty list, the feature maps  in each hidden layer of Compressed Interaction Network
-    :param cin_split_half: bool.if set to True, half of the feature maps in each hidden will connect to output unit
-    :param cin_activation: activation function used on feature maps
-    :param l2_reg_linear: float. L2 regularizer strength applied to linear part
-    :param l2_reg_embedding: L2 regularizer strength applied to embedding vector
-    :param l2_reg_dnn: L2 regularizer strength applied to deep net
-    :param l2_reg_cin: L2 regularizer strength applied to CIN.
-    :param seed: integer ,to use as random seed.
-    :param dnn_dropout: float in [0,1), the probability we will drop out a given DNN coordinate.
-    :param dnn_activation: Activation function to use in DNN
-    :param dnn_use_bn: bool. Whether use BatchNormalization before activation or not in DNN
-    :param task: str, ``"binary"`` for  binary logloss or  ``"regression"`` for regression loss
-    :return: A Keras model instance.
-    """
-
     features = build_input_features(dnn_feature_columns)
     broad_inputs = Input((broad_units,), name='broad')
 
@@ -406,11 +386,13 @@ def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, 
 
     dnn_input = combined_dnn_input(sparse_embedding_list, dense_value_list)
     dnn_output = DNN(dnn_hidden_units, dnn_activation, l2_reg_dnn, dnn_dropout, dnn_use_bn, seed=seed)(dnn_input)
+    
+    # Remove the tensor conversion
+    # No need to convert `dnn_output` if it is a Keras tensor
     dnn_output = tf.keras.layers.Dense(
         output_units, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(dnn_output)
-    broad_output = tf.convert_to_tensor(broad_output) if not isinstance(broad_output, tf.Tensor) else broad_output
-    dnn_output = tf.convert_to_tensor(dnn_output) if not isinstance(dnn_output, tf.Tensor) else dnn_output
 
+    # Now concatenate outputs
     output = tf.concat([broad_output, dnn_output], axis=-1)
 
     if len(cin_layer_size) > 0:
