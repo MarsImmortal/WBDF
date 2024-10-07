@@ -699,8 +699,8 @@ def data_process1(data,gene_ratio4=0.5,gene_ratio1=0.5,gene_ratio2=0.5,gene_rati
     data_gan4 = pd.DataFrame(data_gan4, columns=data.columns)
     return data_gan1, data_gan2, data_gan3,data_gan4
 
-test = pd.read_csv('./discretizedata-main/customer_churn/all_churn_customer.csv')
-train = pd.read_csv('./discretizedata-main/customer_churn/all_churn_customer.csv')
+test = pd.read_csv('./discretizedata-main/sign.csv')
+train = pd.read_csv('./discretizedata-main/sign.csv')
 data = pd.concat([test,train],ignore_index=True)
 length = len(data)
 sparse_features = data.columns[:-1]
