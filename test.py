@@ -408,7 +408,8 @@ def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, 
     dnn_output = DNN(dnn_hidden_units, dnn_activation, l2_reg_dnn, dnn_dropout, dnn_use_bn, seed=seed)(dnn_input)
     dnn_output = tf.keras.layers.Dense(
         output_units, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(dnn_output)
-
+    broad_output = tf.convert_to_tensor(broad_output, dtype=tf.float32)
+    dnn_output = tf.convert_to_tensor(dnn_output, dtype=tf.float32) 
     output = tf.concat([broad_output, dnn_output], axis=-1)
 
     if len(cin_layer_size) > 0:
