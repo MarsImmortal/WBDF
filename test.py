@@ -365,28 +365,24 @@ def sample_synthetic_data(weights, kdb_high_order_encoder, y_counts, ohe=True, s
 
 def broad(input_dim, output_dim, constraint):
     return Dense(output_dim, input_dim=input_dim, activation='softmax', kernel_constraint=constraint)
+from tensorflow.keras.layers import Concatenate
 
 def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, dnn_hidden_units=(256, 256),
                 cin_layer_size=(128, 128,), cin_split_half=True, cin_activation='relu', l2_reg_linear=0.00001,
-                use_fm=False, fm_group=None,
-                l2_reg_embedding=0.00001, l2_reg_dnn=0, l2_reg_cin=0, seed=1024, dnn_dropout=0,
-                dnn_activation='relu', dnn_use_bn=False, task='binary'):
-    """Instantiates the xDeepFM architecture."""
-    
-    # Build input features
+                use_fm=False, fm_group=None, l2_reg_embedding=0.00001, l2_reg_dnn=0, l2_reg_cin=0, seed=1024, 
+                dnn_dropout=0, dnn_activation='relu', dnn_use_bn=False, task='binary'):
+
     features = build_input_features(dnn_feature_columns)
     broad_inputs = Input((broad_units,), name='broad')
 
-    # Prepare input list
     inputs_list = list(features.values())
     inputs_list.insert(0, broad_inputs)
 
-    # Compute broad output
+    # Generate broad_output as a tensor but avoid tf.convert_to_tensor
     broad_output = broad(broad_units, output_units, elr_constrains)(broad_inputs)
 
-    # Embedding for CIN and DNN
-    sparse_embedding_list, dense_value_list = input_from_feature_columns(features, dnn_feature_columns,
-                                                                         l2_reg_embedding, seed)
+    # Get embeddings for DNN and CIN inputs
+    sparse_embedding_list, dense_value_list = input_from_feature_columns(features, dnn_feature_columns, l2_reg_embedding, seed)
     cin_input = concat_func(sparse_embedding_list, axis=1)
 
     # DNN part
@@ -394,37 +390,35 @@ def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, 
     dnn_output = DNN(dnn_hidden_units, dnn_activation, l2_reg_dnn, dnn_dropout, dnn_use_bn, seed=seed)(dnn_input)
     dnn_output = tf.keras.layers.Dense(output_units, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(dnn_output)
 
-    # Concatenate broad output and DNN output
-    output = tf.keras.layers.Concatenate(axis=-1)([broad_output, dnn_output])
+    # Concatenate broad_output and dnn_output using Keras Concatenate
+    output = Concatenate(axis=-1)([broad_output, dnn_output])
 
     # CIN part
     if len(cin_layer_size) > 0:
         exFM_out = CIN(cin_layer_size, cin_activation, cin_split_half, l2_reg_cin, seed)(cin_input)
         exFM_logit = tf.keras.layers.Dense(output_units, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(exFM_out)
-        output = tf.keras.layers.Concatenate(axis=-1)([output, exFM_logit])
+        output = Concatenate(axis=-1)([output, exFM_logit])
 
-    # FM part
+    # FM part if enabled
     if use_fm:
         from deepctr.layers.interaction import FM
         from deepctr.feature_column import DEFAULT_GROUP_NAME
         if fm_group is None:
             fm_group = [DEFAULT_GROUP_NAME]
         group_embedding_dict, _ = input_from_feature_columns(features, dnn_feature_columns, l2_reg_embedding, seed, support_group=True)
-
         fm_logit = add_func([FM()(concat_func(v, axis=1)) for k, v in group_embedding_dict.items() if k in fm_group])
-        output = tf.keras.layers.Concatenate(axis=-1)([output, tf.reshape(fm_logit, (-1, 1))])
+        output = Concatenate(axis=-1)([output, tf.reshape(fm_logit, (-1, 1))])
 
-    # Final DNN layers and output
+    # Further DNN processing
     output = DNN([100, 50], dnn_activation, l2_reg_dnn, dnn_dropout, dnn_use_bn, seed=seed)(output)
     output = tf.keras.layers.Dense(1, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(output)
 
-    # Apply prediction layer
+    # Output prediction layer
     output = PredictionLayer(task)(output)
 
-    # Build model
+    # Create model
     model = tf.keras.models.Model(inputs=inputs_list, outputs=output)
     return model
-
 
 class softmax_weight(Constraint):
     """Constrains weight tensors to be under softmax `."""
