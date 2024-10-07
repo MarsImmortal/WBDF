@@ -1,54 +1,24 @@
 # -*- coding:utf-8 -*-
 """
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Weichen Shen, weichenswc@163.com
 
 Reference:
     [1] Cheng H T, Koc L, Harmsen J, et al. Wide & deep learning for recommender systems[C]//Proceedings of the 1st Workshop on Deep Learning for Recommender Systems. ACM, 2016: 7-10.(https://arxiv.org/pdf/1606.07792.pdf)
 """
 
-import tensorflow as tf
+from tensorflow.python.keras.models import Model
+from tensorflow.python.keras.layers import Dense
 
 from ..feature_column import build_input_features, get_linear_logit, input_from_feature_columns
 from ..layers.core import PredictionLayer, DNN
 from ..layers.utils import add_func, combined_dnn_input
 
 
-def WDL(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(128, 128), l2_reg_linear=1e-5,
-        l2_reg_embedding=1e-5, l2_reg_dnn=0, seed=1024, dnn_dropout=0, dnn_activation='relu',
+def WDL(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(256, 128, 64), l2_reg_linear=0.00001,
+        l2_reg_embedding=0.00001, l2_reg_dnn=0, seed=1024, dnn_dropout=0, dnn_activation='relu',
         task='binary'):
-
-
-    
-
-    features = build_input_features(
-        linear_feature_columns + dnn_feature_columns)
-
-    inputs_list = list(features.values())
-
-    #linear_logit = get_linear_logit(features, linear_feature_columns, seed=seed, prefix='linear',
-     #                               l2_reg=l2_reg_linear)
-
-    sparse_embedding_list, dense_value_list = input_from_feature_columns(features, dnn_feature_columns,
-                                                                         l2_reg_embedding, seed)
-
-    dnn_input = combined_dnn_input(sparse_embedding_list, dense_value_list)
-    dnn_out = DNN(dnn_hidden_units, dnn_activation, l2_reg_dnn, dnn_dropout, False, seed=seed)(dnn_input)
-    dnn_logit = tf.keras.layers.Dense(
-        50, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(dnn_out)
-
-    #final_logit = add_func([dnn_logit, linear_logit])
-	#output = tf.keras.layers.Dense(7, activation=tf.nn.softmax)(final_logit)
-    output = tf.keras.layers.Dense(2, activation=tf.nn.softmax)(dnn_logit)
-
-    model = tf.keras.models.Model(inputs=inputs_list, outputs=output)
-    return model
-
-"""	
-def WDL(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(128, 128), l2_reg_linear=1e-5,
-        l2_reg_embedding=1e-5, l2_reg_dnn=0, seed=1024, dnn_dropout=0, dnn_activation='relu',
-        task='binary'):
-  	Instantiates the Wide&Deep Learning architecture.
+    """Instantiates the Wide&Deep Learning architecture.
 
     :param linear_feature_columns: An iterable containing all the features used by linear part of the model.
     :param dnn_feature_columns: An iterable containing all the features used by deep part of the model.
@@ -61,7 +31,7 @@ def WDL(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(128, 128)
     :param dnn_activation: Activation function to use in DNN
     :param task: str, ``"binary"`` for  binary logloss or  ``"regression"`` for regression loss
     :return: A Keras model instance.
-    
+    """
 
     features = build_input_features(
         linear_feature_columns + dnn_feature_columns)
@@ -76,14 +46,11 @@ def WDL(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(128, 128)
 
     dnn_input = combined_dnn_input(sparse_embedding_list, dense_value_list)
     dnn_out = DNN(dnn_hidden_units, dnn_activation, l2_reg_dnn, dnn_dropout, False, seed=seed)(dnn_input)
-    dnn_logit = tf.keras.layers.Dense(
-        1, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(dnn_out)
+    dnn_logit = Dense(1, use_bias=False)(dnn_out)
 
     final_logit = add_func([dnn_logit, linear_logit])
 
     output = PredictionLayer(task)(final_logit)
 
-    model = tf.keras.models.Model(inputs=inputs_list, outputs=output)
+    model = Model(inputs=inputs_list, outputs=output)
     return model
-	
-"""	

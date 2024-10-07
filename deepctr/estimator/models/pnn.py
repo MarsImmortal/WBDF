@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Weichen Shen, weichenswc@163.com
 
 Reference:
     [1] Qu Y, Cai H, Ren K, et al. Product-based neural networks for user response prediction[C]//Data Mining (ICDM), 2016 IEEE 16th International Conference on. IEEE, 2016: 1149-1154.(https://arxiv.org/pdf/1611.00144.pdf)
@@ -16,7 +16,7 @@ from ...layers.interaction import InnerProductLayer, OutterProductLayer
 from ...layers.utils import concat_func, combined_dnn_input
 
 
-def PNNEstimator(dnn_feature_columns, dnn_hidden_units=(128, 128), l2_reg_embedding=1e-5, l2_reg_dnn=0,
+def PNNEstimator(dnn_feature_columns, dnn_hidden_units=(256, 128, 64), l2_reg_embedding=1e-5, l2_reg_dnn=0,
                  seed=1024, dnn_dropout=0, dnn_activation='relu', use_inner=True, use_outter=False, kernel_type='mat',
                  task='binary', model_dir=None, config=None,
                  linear_optimizer='Ftrl',

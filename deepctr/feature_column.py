@@ -1,25 +1,26 @@
+import tensorflow as tf
 from collections import namedtuple, OrderedDict
 from copy import copy
 from itertools import chain
 
 from tensorflow.python.keras.initializers import RandomNormal, Zeros
-from tensorflow.python.keras.layers import Input
+from tensorflow.python.keras.layers import Input, Lambda
 
 from .inputs import create_embedding_matrix, embedding_lookup, get_dense_input, varlen_embedding_lookup, \
     get_varlen_pooling_list, mergeDict
 from .layers import Linear
-from .layers.utils import concat_func, add_func
+from .layers.utils import concat_func
 
 DEFAULT_GROUP_NAME = "default_group"
 
 
 class SparseFeat(namedtuple('SparseFeat',
-                            ['name', 'vocabulary_size', 'embedding_dim', 'use_hash', 'dtype', 'embeddings_initializer',
+                            ['name', 'vocabulary_size', 'embedding_dim', 'use_hash', 'vocabulary_path', 'dtype', 'embeddings_initializer',
                              'embedding_name',
                              'group_name', 'trainable'])):
     __slots__ = ()
 
-    def __new__(cls, name, vocabulary_size, embedding_dim=4, use_hash=False, dtype="int32", embeddings_initializer=None,
+    def __new__(cls, name, vocabulary_size, embedding_dim=4, use_hash=False, vocabulary_path=None, dtype="int32", embeddings_initializer=None,
                 embedding_name=None,
                 group_name=DEFAULT_GROUP_NAME, trainable=True):
 
@@ -31,7 +32,7 @@ class SparseFeat(namedtuple('SparseFeat',
         if embedding_name is None:
             embedding_name = name
 
-        return super(SparseFeat, cls).__new__(cls, name, vocabulary_size, embedding_dim, use_hash, dtype,
+        return super(SparseFeat, cls).__new__(cls, name, vocabulary_size, embedding_dim, use_hash, vocabulary_path, dtype,
                                               embeddings_initializer,
                                               embedding_name, group_name, trainable)
 
@@ -64,6 +65,10 @@ class VarLenSparseFeat(namedtuple('VarLenSparseFeat',
         return self.sparsefeat.use_hash
 
     @property
+    def vocabulary_path(self):
+        return self.sparsefeat.vocabulary_path
+
+    @property
     def dtype(self):
         return self.sparsefeat.dtype
 
@@ -87,11 +92,21 @@ class VarLenSparseFeat(namedtuple('VarLenSparseFeat',
         return self.name.__hash__()
 
 
-class DenseFeat(namedtuple('DenseFeat', ['name', 'dimension', 'dtype'])):
+class DenseFeat(namedtuple('DenseFeat', ['name', 'dimension', 'dtype', 'transform_fn'])):
+    """ Dense feature
+    Args:
+        name: feature name.
+        dimension: dimension of the feature, default = 1.
+        dtype: dtype of the feature, default="float32".
+        transform_fn: If not `None` , a function that can be used to transform
+        values of the feature.  the function takes the input Tensor as its
+        argument, and returns the output Tensor.
+        (e.g. lambda x: (x - 3.0) / 4.2).
+    """
     __slots__ = ()
 
-    def __new__(cls, name, dimension=1, dtype="float32"):
-        return super(DenseFeat, cls).__new__(cls, name, dimension, dtype)
+    def __new__(cls, name, dimension=1, dtype="float32", transform_fn=None):
+        return super(DenseFeat, cls).__new__(cls, name, dimension, dtype, transform_fn)
 
     def __hash__(self):
         return self.name.__hash__()
@@ -135,7 +150,7 @@ def build_input_features(feature_columns, prefix=''):
 
 
 def get_linear_logit(features, feature_columns, units=1, use_bias=False, seed=1024, prefix='linear',
-                     l2_reg=0):
+                     l2_reg=0, sparse_feat_refine_weight=None):
     linear_feature_columns = copy(feature_columns)
     for i in range(len(linear_feature_columns)):
         if isinstance(linear_feature_columns[i], SparseFeat):
@@ -156,16 +171,21 @@ def get_linear_logit(features, feature_columns, units=1, use_bias=False, seed=10
         if len(linear_emb_list[i]) > 0 and len(dense_input_list) > 0:
             sparse_input = concat_func(linear_emb_list[i])
             dense_input = concat_func(dense_input_list)
+            if sparse_feat_refine_weight is not None:
+                sparse_input = Lambda(lambda x: x[0] * tf.expand_dims(x[1], axis=1))(
+                    [sparse_input, sparse_feat_refine_weight])
             linear_logit = Linear(l2_reg, mode=2, use_bias=use_bias, seed=seed)([sparse_input, dense_input])
         elif len(linear_emb_list[i]) > 0:
             sparse_input = concat_func(linear_emb_list[i])
+            if sparse_feat_refine_weight is not None:
+                sparse_input = Lambda(lambda x: x[0] * tf.expand_dims(x[1], axis=1))(
+                    [sparse_input, sparse_feat_refine_weight])
             linear_logit = Linear(l2_reg, mode=0, use_bias=use_bias, seed=seed)(sparse_input)
         elif len(dense_input_list) > 0:
             dense_input = concat_func(dense_input_list)
             linear_logit = Linear(l2_reg, mode=1, use_bias=use_bias, seed=seed)(dense_input)
-        else:
-            # raise NotImplementedError
-            return add_func([])
+        else:   #empty feature_columns
+            return Lambda(lambda x: tf.constant([[0.0]]))(list(features.values())[0])
         linear_logit_list.append(linear_logit)
 
     return concat_func(linear_logit_list)

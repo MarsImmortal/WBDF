@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Weichen Shen, weichenswc@163.com
 
 Reference:
     [1] Zhang W, Du T, Wang J. Deep learning over multi-field categorical data[C]//European conference on information retrieval. Springer, Cham, 2016: 45-57.(https://arxiv.org/pdf/1601.02376.pdf)
@@ -14,7 +14,7 @@ from ...layers.core import DNN
 from ...layers.utils import combined_dnn_input
 
 
-def FNNEstimator(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(128, 128),
+def FNNEstimator(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(256, 128, 64),
                  l2_reg_embedding=1e-5, l2_reg_linear=1e-5, l2_reg_dnn=0, seed=1024, dnn_dropout=0,
                  dnn_activation='relu', task='binary', model_dir=None, config=None, linear_optimizer='Ftrl',
                  dnn_optimizer='Adagrad', training_chief_hooks=None):

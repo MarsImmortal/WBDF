@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Weichen Shen, weichenswc@163.com
 
 Reference:
     [1] Guo H, Tang R, Ye Y, et al. Deepfm: a factorization-machine based neural network for ctr prediction[J]. arXiv preprint arXiv:1703.04247, 2017.(https://arxiv.org/abs/1703.04247)
@@ -17,7 +17,7 @@ from ...layers.interaction import FM
 from ...layers.utils import concat_func, combined_dnn_input
 
 
-def DeepFMEstimator(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(128, 128),
+def DeepFMEstimator(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(256, 128, 64),
                     l2_reg_linear=0.00001, l2_reg_embedding=0.00001, l2_reg_dnn=0, seed=1024, dnn_dropout=0,
                     dnn_activation='relu', dnn_use_bn=False, task='binary', model_dir=None, config=None,
                     linear_optimizer='Ftrl',
