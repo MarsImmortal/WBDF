@@ -14,7 +14,7 @@ import tensorflow as tf
 from tensorflow.python.ops import math_ops, array_ops
 from tensorflow.keras.constraints import Constraint
 from tensorflow.keras.activations import softmax
-from tensorflow.keras.backend import clear_session
+from tensorflow.keras.backend import clear_session 
 from tensorflow.keras.regularizers import l1_l2, l2
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Dense,Input,Embedding,Dropout,concatenate,Flatten
