@@ -492,8 +492,8 @@ class KdbHighOrderFeatureEncoder:
         else:
             return X_high_order
 
-test = pd.read_csv('./data_generated/test_kdd.csv')
-train = pd.read_csv('./data_shap/shap_kdd_cut_2.csv')
+test = pd.read_csv('/WBDF/discretizedata-main/creditcard-mod-dm-encode.csv')
+train = pd.read_csv('/WBDF/discretizedata-main/creditcard-mod-dm-encode.csv')
 len_train = int(len(train))
 data = pd.concat([train,test],ignore_index=True)
 sparse_features = data.columns[:-1]
