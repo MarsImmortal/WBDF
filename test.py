@@ -409,6 +409,7 @@ def elr_dnn_cin(elr_constrains, broad_units, dnn_feature_columns, output_units, 
     dnn_output = tf.keras.layers.Dense(
         output_units, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(dnn_output)
 
+    ######line causing the issue########
     output = tf.concat([broad_output, dnn_output], axis=-1)
 
     if len(cin_layer_size) > 0:
@@ -774,6 +775,7 @@ for i in range(5):
 
     test_dict = copy(test_model_input)
     test_dict['broad'] = X_highorder_test_np
+    ########
     model = elr_dnn_cin(softmax_weight(enc.constraints_), X_highorder_train.shape[1], dnn_feature_columns, 2)
     #model = elr_dnn_cin(softmax_weight(enc.constraints_), X_highorder_train.shape[1], dnn_feature_columns, 2,use_fm=True)
 
