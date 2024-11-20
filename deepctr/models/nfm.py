@@ -1,12 +1,13 @@
 # -*- coding:utf-8 -*-
 """
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Weichen Shen, weichenswc@163.com
 
 Reference:
     [1] He X, Chua T S. Neural factorization machines for sparse predictive analytics[C]//Proceedings of the 40th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2017: 355-364. (https://arxiv.org/abs/1708.05027)
 """
-import tensorflow as tf
+from tensorflow.python.keras.models import Model
+from tensorflow.python.keras.layers import Dense, Dropout
 
 from ..feature_column import build_input_features, get_linear_logit, input_from_feature_columns
 from ..layers.core import PredictionLayer, DNN
@@ -14,7 +15,7 @@ from ..layers.interaction import BiInteractionPooling
 from ..layers.utils import concat_func, add_func, combined_dnn_input
 
 
-def NFM(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(128, 128),
+def NFM(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(256, 128, 64),
         l2_reg_embedding=1e-5, l2_reg_linear=1e-5, l2_reg_dnn=0, seed=1024, bi_dropout=0,
         dnn_dropout=0, dnn_activation='relu', task='binary'):
     """Instantiates the Neural Factorization Machine architecture.
@@ -47,15 +48,14 @@ def NFM(linear_feature_columns, dnn_feature_columns, dnn_hidden_units=(128, 128)
     fm_input = concat_func(sparse_embedding_list, axis=1)
     bi_out = BiInteractionPooling()(fm_input)
     if bi_dropout:
-        bi_out = tf.keras.layers.Dropout(bi_dropout)(bi_out, training=None)
+        bi_out = Dropout(bi_dropout)(bi_out, training=None)
     dnn_input = combined_dnn_input([bi_out], dense_value_list)
     dnn_output = DNN(dnn_hidden_units, dnn_activation, l2_reg_dnn, dnn_dropout, False, seed=seed)(dnn_input)
-    dnn_logit = tf.keras.layers.Dense(
-        1, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(dnn_output)
+    dnn_logit = Dense(1, use_bias=False)(dnn_output)
 
     final_logit = add_func([linear_logit, dnn_logit])
 
     output = PredictionLayer(task)(final_logit)
 
-    model = tf.keras.models.Model(inputs=inputs_list, outputs=output)
+    model = Model(inputs=inputs_list, outputs=output)
     return model

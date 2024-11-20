@@ -2,7 +2,7 @@
 """
 
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Weichen Shen, weichenswc@163.com
 
 Reference:
     [1] Liu Q, Yu F, Wu S, et al. A convolutional click prediction model[C]//Proceedings of the 24th ACM International on Conference on Information and Knowledge Management. ACM, 2015: 1743-1746.
@@ -19,7 +19,7 @@ from ...layers.utils import concat_func
 
 
 def CCPMEstimator(linear_feature_columns, dnn_feature_columns, conv_kernel_width=(6, 5), conv_filters=(4, 4),
-                  dnn_hidden_units=(256,), l2_reg_linear=1e-5, l2_reg_embedding=1e-5, l2_reg_dnn=0, dnn_dropout=0,
+                  dnn_hidden_units=(128, 64), l2_reg_linear=1e-5, l2_reg_embedding=1e-5, l2_reg_dnn=0, dnn_dropout=0,
                   seed=1024, task='binary', model_dir=None, config=None, linear_optimizer='Ftrl',
                   dnn_optimizer='Adagrad', training_chief_hooks=None):
     """Instantiates the Convolutional Click Prediction Model architecture.
@@ -59,7 +59,7 @@ def CCPMEstimator(linear_feature_columns, dnn_feature_columns, conv_kernel_width
         linear_logits = get_linear_logit(features, linear_feature_columns, l2_reg_linear=l2_reg_linear)
 
         with variable_scope(DNN_SCOPE_NAME):
-            sparse_embedding_list, dense_value_list = input_from_feature_columns(features, dnn_feature_columns,
+            sparse_embedding_list, _ = input_from_feature_columns(features, dnn_feature_columns,
                                                                                  l2_reg_embedding=l2_reg_embedding)
             n = len(sparse_embedding_list)
             l = len(conv_filters)

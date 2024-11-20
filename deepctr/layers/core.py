@@ -2,14 +2,24 @@
 """
 
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Weichen Shen,weichenswc@163.com
 
 """
 
 import tensorflow as tf
 from tensorflow.python.keras import backend as K
-from tensorflow.python.keras.initializers import Zeros, glorot_normal
-from tensorflow.python.keras.layers import Layer
+
+try:
+    from tensorflow.python.ops.init_ops_v2 import Zeros, Ones, glorot_normal
+except ImportError:
+    from tensorflow.python.ops.init_ops import Zeros, Ones, glorot_normal_initializer as glorot_normal
+
+from tensorflow.python.keras.layers import Layer, Dropout
+
+try:
+    from tensorflow.python.keras.layers import BatchNormalization
+except ImportError:
+    BatchNormalization = tf.keras.layers.BatchNormalization
 from tensorflow.python.keras.regularizers import l2
 
 from .activation import activation_layer
@@ -78,9 +88,6 @@ class LocalActivationUnit(Layer):
             shape=(1,), initializer=Zeros(), name="bias")
         self.dnn = DNN(self.hidden_units, self.activation, self.l2_reg, self.dropout_rate, self.use_bn, seed=self.seed)
 
-        self.dense = tf.keras.layers.Lambda(lambda x: tf.nn.bias_add(tf.tensordot(
-            x[0], x[1], axes=(-1, 0)), x[2]))
-
         super(LocalActivationUnit, self).build(
             input_shape)  # Be sure to call this somewhere!
 
@@ -96,7 +103,7 @@ class LocalActivationUnit(Layer):
 
         att_out = self.dnn(att_input, training=training)
 
-        attention_score = self.dense([att_out, self.kernel, self.bias])
+        attention_score = tf.nn.bias_add(tf.tensordot(att_out, self.kernel, axes=(-1, 0)), self.bias)
 
         return attention_score
 
@@ -167,9 +174,9 @@ class DNN(Layer):
                                      initializer=Zeros(),
                                      trainable=True) for i in range(len(self.hidden_units))]
         if self.use_bn:
-            self.bn_layers = [tf.keras.layers.BatchNormalization() for _ in range(len(self.hidden_units))]
+            self.bn_layers = [BatchNormalization() for _ in range(len(self.hidden_units))]
 
-        self.dropout_layers = [tf.keras.layers.Dropout(self.dropout_rate, seed=self.seed + i) for i in
+        self.dropout_layers = [Dropout(self.dropout_rate, seed=self.seed + i) for i in
                                range(len(self.hidden_units))]
 
         self.activation_layers = [activation_layer(self.activation) for _ in range(len(self.hidden_units))]
@@ -189,8 +196,11 @@ class DNN(Layer):
 
             if self.use_bn:
                 fc = self.bn_layers[i](fc, training=training)
-
-            fc = self.activation_layers[i](fc)
+            try:
+                fc = self.activation_layers[i](fc, training=training)
+            except TypeError as e:  # TypeError: call() got an unexpected keyword argument 'training'
+                print("make sure the activation function use training flag properly", e)
+                fc = self.activation_layers[i](fc)
 
             fc = self.dropout_layers[i](fc, training=training)
             deep_input = fc
@@ -243,6 +253,7 @@ class PredictionLayer(Layer):
             x = tf.nn.bias_add(x, self.global_bias, data_format='NHWC')
         if self.task == "binary":
             x = tf.sigmoid(x)
+
         output = tf.reshape(x, (-1, 1))
 
         return output
@@ -254,3 +265,57 @@ class PredictionLayer(Layer):
         config = {'task': self.task, 'use_bias': self.use_bias}
         base_config = super(PredictionLayer, self).get_config()
         return dict(list(base_config.items()) + list(config.items()))
+
+
+class RegulationModule(Layer):
+    """Regulation module used in EDCN.
+
+      Input shape
+        - 3D tensor with shape: ``(batch_size,field_size,embedding_size)``.
+
+      Output shape
+        - 2D tensor with shape: ``(batch_size,field_size * embedding_size)``.
+
+      Arguments
+        - **tau** : Positive float, the temperature coefficient to control
+        distribution of field-wise gating unit.
+
+      References
+        - [Enhancing Explicit and Implicit Feature Interactions via Information Sharing for Parallel Deep CTR Models.](https://dlp-kdd.github.io/assets/pdf/DLP-KDD_2021_paper_12.pdf)
+    """
+
+    def __init__(self, tau=1.0, **kwargs):
+        if tau == 0:
+            raise ValueError("RegulationModule tau can not be zero.")
+        self.tau = 1.0 / tau
+        super(RegulationModule, self).__init__(**kwargs)
+
+    def build(self, input_shape):
+        self.field_size = int(input_shape[1])
+        self.embedding_size = int(input_shape[2])
+        self.g = self.add_weight(
+            shape=(1, self.field_size, 1),
+            initializer=Ones(),
+            name=self.name + '_field_weight')
+
+        # Be sure to call this somewhere!
+        super(RegulationModule, self).build(input_shape)
+
+    def call(self, inputs, **kwargs):
+
+        if K.ndim(inputs) != 3:
+            raise ValueError(
+                "Unexpected inputs dimensions %d, expect to be 3 dimensions" % (K.ndim(inputs)))
+
+        feild_gating_score = tf.nn.softmax(self.g * self.tau, 1)
+        E = inputs * feild_gating_score
+        return tf.reshape(E, [-1, self.field_size * self.embedding_size])
+
+    def compute_output_shape(self, input_shape):
+        return (None, self.field_size * self.embedding_size)
+
+    def get_config(self):
+        config = {'tau': self.tau}
+        base_config = super(RegulationModule, self).get_config()
+        base_config.update(config)
+        return base_config

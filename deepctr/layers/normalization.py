@@ -2,13 +2,17 @@
 """
 
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Weichen Shen,weichenswc@163.com
 
 """
 
 from tensorflow.python.keras import backend as K
-from tensorflow.python.keras.initializers import Ones, Zeros
 from tensorflow.python.keras.layers import Layer
+
+try:
+    from tensorflow.python.ops.init_ops import Zeros, Ones
+except ImportError:
+    from tensorflow.python.ops.init_ops_v2 import Zeros, Ones
 
 
 class LayerNormalization(Layer):

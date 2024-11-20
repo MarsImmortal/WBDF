@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 Author:
-    Weichen Shen,wcshen1994@163.com
+    Weichen Shen, weichenswc@163.com
 
 Reference:
     [1] Huang T, Zhang Z, Zhang J. FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction[J]. arXiv preprint arXiv:1905.09433, 2019.
@@ -18,7 +18,7 @@ from ...layers.utils import concat_func, combined_dnn_input
 
 
 def FiBiNETEstimator(linear_feature_columns, dnn_feature_columns, bilinear_type='interaction', reduction_ratio=3,
-                     dnn_hidden_units=(128, 128), l2_reg_linear=1e-5,
+                     dnn_hidden_units=(256, 128, 64), l2_reg_linear=1e-5,
                      l2_reg_embedding=1e-5, l2_reg_dnn=0, seed=1024, dnn_dropout=0, dnn_activation='relu',
                      task='binary', model_dir=None, config=None, linear_optimizer='Ftrl',
                      dnn_optimizer='Adagrad', training_chief_hooks=None):

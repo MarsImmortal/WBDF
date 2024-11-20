@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 Author:
-    Tingyi Tan,5636374@qq.com
+    Tingyi Tan, 5636374@qq.com
 
 Reference:
     [1] Chen W, Zhan L, Ci Y, Lin C. FLEN: Leveraging Field for Scalable CTR Prediction . arXiv preprint arXiv:1911.04690, 2019.(https://arxiv.org/pdf/1911.04690)
@@ -10,7 +10,8 @@ Reference:
 
 from itertools import chain
 
-import tensorflow as tf
+from tensorflow.python.keras.models import Model
+from tensorflow.python.keras.layers import Dense
 
 from ..feature_column import build_input_features, get_linear_logit, input_from_feature_columns
 from ..layers.core import PredictionLayer, DNN
@@ -20,7 +21,7 @@ from ..layers.utils import concat_func, add_func, combined_dnn_input
 
 def FLEN(linear_feature_columns,
          dnn_feature_columns,
-         dnn_hidden_units=(128, 128),
+         dnn_hidden_units=(256, 128, 64),
          l2_reg_linear=0.00001,
          l2_reg_embedding=0.00001,
          l2_reg_dnn=0,
@@ -71,10 +72,10 @@ def FLEN(linear_feature_columns,
         dense_value_list)
     dnn_output = DNN(dnn_hidden_units, dnn_activation, l2_reg_dnn, dnn_dropout, dnn_use_bn, seed=seed)(dnn_input)
 
-    dnn_logit = tf.keras.layers.Dense(1, use_bias=False, kernel_initializer=tf.keras.initializers.glorot_normal(seed))(concat_func([fm_mf_out, dnn_output]))
+    dnn_logit = Dense(1, use_bias=False)(concat_func([fm_mf_out, dnn_output]))
 
     final_logit = add_func([linear_logit, dnn_logit])
     output = PredictionLayer(task)(final_logit)
 
-    model = tf.keras.models.Model(inputs=inputs_list, outputs=output)
+    model = Model(inputs=inputs_list, outputs=output)
     return model
