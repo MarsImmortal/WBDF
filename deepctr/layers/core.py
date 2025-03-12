@@ -189,10 +189,19 @@ class DNN(Layer):
     def call(self, inputs, training=None, **kwargs):
 
         deep_input = inputs
-
+        #updated code:
+        # Convert TensorFlow Ops to Keras Layers
         for i in range(len(self.hidden_units)):
-            fc = tf.nn.bias_add(tf.tensordot(
-                deep_input, self.kernels[i], axes=(-1, 0)), self.bias[i])
+            fc = tf.keras.layers.Dense(
+                units=self.hidden_units[i],
+                activation=None,
+                use_bias=True,
+                kernel_initializer=self.kernels[i],  
+                bias_initializer=self.bias[i]
+            )(deep_input)
+            #old code: 
+            # fc = tf.nn.bias_add(tf.tensordot(
+            #     deep_input, self.kernels[i], axes=(-1, 0)), self.bias[i])
 
             if self.use_bn:
                 fc = self.bn_layers[i](fc, training=training)
