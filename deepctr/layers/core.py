@@ -119,6 +119,11 @@ class LocalActivationUnit(Layer):
         base_config = super(LocalActivationUnit, self).get_config()
         return dict(list(base_config.items()) + list(config.items()))
 
+import tensorflow as tf
+from tensorflow.keras.layers import Layer, Dense, Dropout, BatchNormalization
+from tensorflow.keras.regularizers import l2
+from tensorflow.keras.initializers import glorot_normal
+from tensorflow.keras import activations
 
 class DNN(Layer):
     """The Multi Layer Percetron
