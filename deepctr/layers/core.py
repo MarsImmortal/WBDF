@@ -145,8 +145,16 @@ class DNN(Layer):
         - **seed**: A Python integer to use as random seed.
     """
 
-    def __init__(self, hidden_units, activation='relu', l2_reg=0, dropout_rate=0, use_bn=False, output_activation=None,
-                 seed=1024, **kwargs):
+    def __init__(self, 
+                 hidden_units, 
+                 activation='relu', 
+                 l2_reg=0, 
+                 dropout_rate=0, 
+                 use_bn=False, 
+                 output_activation=None,
+                 seed=1024, 
+                 **kwargs):
+        super(DNN, self).__init__(**kwargs)
         self.hidden_units = hidden_units
         self.activation = activation
         self.l2_reg = l2_reg
@@ -155,73 +163,70 @@ class DNN(Layer):
         self.output_activation = output_activation
         self.seed = seed
 
-        super(DNN, self).__init__(**kwargs)
+        # Placeholders for layer instances
+        self.dense_layers = []
+        self.bn_layers = []
+        self.dropout_layers = []
 
     def build(self, input_shape):
-        # if len(self.hidden_units) == 0:
-        #     raise ValueError("hidden_units is empty")
-        input_size = input_shape[-1]
-        hidden_units = [int(input_size)] + list(self.hidden_units)
-        self.kernels = [self.add_weight(name='kernel' + str(i),
-                                        shape=(
-                                            hidden_units[i], hidden_units[i + 1]),
-                                        initializer=glorot_normal(
-                                            seed=self.seed),
-                                        regularizer=l2(self.l2_reg),
-                                        trainable=True) for i in range(len(self.hidden_units))]
-        self.bias = [self.add_weight(name='bias' + str(i),
-                                     shape=(self.hidden_units[i],),
-                                     initializer=Zeros(),
-                                     trainable=True) for i in range(len(self.hidden_units))]
-        if self.use_bn:
-            self.bn_layers = [BatchNormalization() for _ in range(len(self.hidden_units))]
+        for i, units in enumerate(self.hidden_units):
+            # Define Dense layers
+            self.dense_layers.append(
+                Dense(units,
+                      activation=None,  # Activation applied later
+                      kernel_initializer=glorot_normal(seed=self.seed),
+                      kernel_regularizer=l2(self.l2_reg))
+            )
 
-        self.dropout_layers = [Dropout(self.dropout_rate, seed=self.seed + i) for i in
-                               range(len(self.hidden_units))]
+            # Optional BatchNormalization
+            if self.use_bn:
+                self.bn_layers.append(BatchNormalization())
 
-        self.activation_layers = [activation_layer(self.activation) for _ in range(len(self.hidden_units))]
+            # Optional Dropout
+            if self.dropout_rate > 0:
+                self.dropout_layers.append(Dropout(self.dropout_rate, seed=self.seed + i))
 
-        if self.output_activation:
-            self.activation_layers[-1] = activation_layer(self.output_activation)
-
-        super(DNN, self).build(input_shape)  # Be sure to call this somewhere!
+        super(DNN, self).build(input_shape)
 
     def call(self, inputs, training=None, **kwargs):
+        x = inputs
 
-        deep_input = inputs
+        for i, dense in enumerate(self.dense_layers):
+            x = dense(x)  # Linear transformation
 
-        for i in range(len(self.hidden_units)):
-            fc = tf.nn.bias_add(tf.tensordot(
-                deep_input, self.kernels[i], axes=(-1, 0)), self.bias[i])
-
+            # Batch Normalization if enabled
             if self.use_bn:
-                fc = self.bn_layers[i](fc, training=training)
-            try:
-                fc = self.activation_layers[i](fc, training=training)
-            except TypeError as e:  # TypeError: call() got an unexpected keyword argument 'training'
-                print("make sure the activation function use training flag properly", e)
-                fc = self.activation_layers[i](fc)
+                x = self.bn_layers[i](x, training=training)
 
-            fc = self.dropout_layers[i](fc, training=training)
-            deep_input = fc
+            # Activation function
+            act_func = self.activation if (i < len(self.dense_layers) - 1 or self.output_activation is None) else self.output_activation
+            x = activations.get(act_func)(x)
 
-        return deep_input
+            # Dropout if enabled
+            if self.dropout_rate > 0:
+                x = self.dropout_layers[i](x, training=training)
+
+        return x
 
     def compute_output_shape(self, input_shape):
         if len(self.hidden_units) > 0:
             shape = input_shape[:-1] + (self.hidden_units[-1],)
         else:
             shape = input_shape
+        return shape
 
-        return tuple(shape)
-
-    def get_config(self, ):
-        config = {'activation': self.activation, 'hidden_units': self.hidden_units,
-                  'l2_reg': self.l2_reg, 'use_bn': self.use_bn, 'dropout_rate': self.dropout_rate,
-                  'output_activation': self.output_activation, 'seed': self.seed}
-        base_config = super(DNN, self).get_config()
-        return dict(list(base_config.items()) + list(config.items()))
-
+    def get_config(self):
+        config = super(DNN, self).get_config()
+        config.update({
+            'hidden_units': self.hidden_units,
+            'activation': self.activation,
+            'l2_reg': self.l2_reg,
+            'dropout_rate': self.dropout_rate,
+            'use_bn': self.use_bn,
+            'output_activation': self.output_activation,
+            'seed': self.seed
+        })
+        return config
 
 class PredictionLayer(Layer):
     """
